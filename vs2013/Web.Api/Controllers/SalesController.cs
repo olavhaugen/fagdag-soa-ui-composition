@@ -14,7 +14,7 @@ namespace Web.Api.Controllers
         }
 
         [Route("book/{id}")]
-        public Book GetBook(string id)
+        public BookDetails GetBook(string id)
         {
             return new BooksProvider().FindById(id);
         }

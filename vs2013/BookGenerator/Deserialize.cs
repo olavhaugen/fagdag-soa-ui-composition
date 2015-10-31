@@ -8,11 +8,11 @@ namespace BookGenerator
 {
     internal static class Deserialize
     {
-        internal static Book[] Books(string fileName)
+        internal static BookDetails[] Books(string fileName)
         {
             var json = JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(fileName));
 
-            return ((IEnumerable<dynamic>)json.editions).Select(x => new Book
+            return ((IEnumerable<dynamic>)json.editions).Select(x => new BookDetails
             {
                 Name = x.title,
                 Edition = x.edition_name,

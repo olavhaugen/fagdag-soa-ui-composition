@@ -8,6 +8,7 @@ namespace Sales
     public class BooksProvider
     {
         private static Book[] _books;
+        private static BookDetails[] _bookDetails;
 
         private static IEnumerable<Book> Books
         {
@@ -17,14 +18,22 @@ namespace Sales
             }
         }
 
+        private static IEnumerable<BookDetails> BookDetails
+        {
+            get
+            {
+                return _bookDetails ?? (_bookDetails = JsonConvert.DeserializeObject<BookDetails[]>(File.ReadAllText("books.json")));
+            }
+        }
+
         public IEnumerable<Book> AllBooks()
         {
             return Books;
         }
 
-        public Book FindById(string id)
+        public BookDetails FindById(string id)
         {
-            return Books.FirstOrDefault(x => x.Id == id);
+            return BookDetails.FirstOrDefault(x => x.Id == id);
         }
     }
 }
