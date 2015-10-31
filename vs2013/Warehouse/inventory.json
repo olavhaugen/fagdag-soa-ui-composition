@@ -1,0 +1,532 @@
+[
+  {
+    "BookId": "59012962",
+    "Stock": 92,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780836212006",
+    "Stock": 60,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780880015233",
+    "Stock": 76,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780425073124",
+    "Stock": 39,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0395945410",
+    "Stock": 35,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0345369599",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-26T17:00:17.0535005+01:00"
+  },
+  {
+    "BookId": "0374182515",
+    "Stock": 65,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780140161137",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-18T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "73021450",
+    "Stock": 14,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0394520718",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-12T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "476831778",
+    "Stock": 64,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9781888173369",
+    "Stock": 19,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0140127739",
+    "Stock": 23,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780140096927",
+    "Stock": 57,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780140026634",
+    "Stock": 3,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0449208109",
+    "Stock": 22,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0670880973",
+    "Stock": 10,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0440010209",
+    "Stock": 77,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780140287431",
+    "Stock": 79,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0140116109",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-07T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9780330296748",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-08T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "59005842",
+    "Stock": 36,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "55017790",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-07T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0380975068",
+    "Stock": 89,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0934770204",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-03T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0394713788",
+    "Stock": 27,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0395956188",
+    "Stock": 7,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0915943514",
+    "Stock": 73,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0399138552",
+    "Stock": 17,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0805024123",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-04T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9780452257214",
+    "Stock": 74,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0393026868",
+    "Stock": 48,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0465002897",
+    "Stock": 86,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0517693119",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-25T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0393046346",
+    "Stock": 51,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0452278783",
+    "Stock": 19,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0140098682",
+    "Stock": 77,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0198662211",
+    "Stock": 60,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0449906248",
+    "Stock": 99,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0374202281",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-07T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "1557043744",
+    "Stock": 90,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0394580028",
+    "Stock": 56,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0312145934",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-10T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "42282437",
+    "Stock": 70,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0679442650",
+    "Stock": 10,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "62002541",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-17T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0802115888",
+    "Stock": 8,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780140103281",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-10T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0786862440",
+    "Stock": 24,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "080505068X",
+    "Stock": 29,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0449911187",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-10-31T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9781555834500",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-16T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0688133975",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-22T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0151808120",
+    "Stock": 71,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "1565122038",
+    "Stock": 90,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780345367563",
+    "Stock": 57,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "067145577X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-26T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0553289063",
+    "Stock": 5,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "087140611X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-04T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0385414668",
+    "Stock": 38,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "58013296",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-12T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "068806454X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-20T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0836217241",
+    "Stock": 28,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0671634712",
+    "Stock": 81,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "039473680X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-10-31T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0940322161",
+    "Stock": 36,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0395739187",
+    "Stock": 9,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0684125293",
+    "Stock": 82,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0395277876",
+    "Stock": 31,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0374333858",
+    "Stock": 97,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0761406948",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-29T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9780805053517",
+    "Stock": 28,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0140071075",
+    "Stock": 43,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780618221363",
+    "Stock": 30,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0374280207",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-02T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9780380712090",
+    "Stock": 84,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780449217122",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-04T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "0446672351",
+    "Stock": 73,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "54005973",
+    "Stock": 23,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0670545589",
+    "Stock": 24,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "1874166072",
+    "Stock": 22,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780451175533",
+    "Stock": 87,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780802111661",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-06T17:00:17.0583883+01:00"
+  },
+  {
+    "BookId": "9780671521134",
+    "Stock": 77,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0395689961",
+    "Stock": 23,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "52013721",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-24T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "2749219",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-12T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "087477201X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-13T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "9780770422998",
+    "Stock": 41,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "7668959",
+    "Stock": 85,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0394729226",
+    "Stock": 51,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "65010908",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-27T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "0380000830",
+    "Stock": 82,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "9780679728856",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-17T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "0140025494",
+    "Stock": 64,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0374181136",
+    "Stock": 72,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0394728564",
+    "Stock": 8,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "73007473",
+    "Stock": 79,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "039590871X",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-24T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "0385419392",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-12T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "0394747453",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-01T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "0151005044",
+    "Stock": 98,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0679745351",
+    "Stock": 60,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0819307300",
+    "Stock": 83,
+    "NextExpectedDelivery": null
+  },
+  {
+    "BookId": "0385475713",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-08T17:00:17.0593652+01:00"
+  },
+  {
+    "BookId": "9781569715710",
+    "Stock": 0,
+    "NextExpectedDelivery": "2015-11-29T17:00:17.0593652+01:00"
+  }
+]

@@ -70,6 +70,7 @@
   <ItemGroup>
     <Compile Include="Controllers\ShippingController.cs" />
     <Compile Include="Controllers\MarketingController.cs" />
+    <Compile Include="Controllers\WarehouseController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\SalesController.cs" />
@@ -93,6 +94,10 @@
     <ProjectReference Include="..\Shipping\Shipping.csproj">
       <Project>{EA332CAB-86FD-47B0-934C-10E8AB79FF4B}</Project>
       <Name>Shipping</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Warehouse\Warehouse.csproj">
+      <Project>{CA246E22-1266-41CF-8339-F00774EA9404}</Project>
+      <Name>Warehouse</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
