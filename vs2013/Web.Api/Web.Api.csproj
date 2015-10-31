@@ -68,16 +68,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\MarketingController.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Controllers\SalesController.cs" />
-    <Compile Include="Startup.cs" />
+    <Compile Include="Infrastructure\RequestLogger.cs" />
+    <Compile Include="Infrastructure\ResponseLogger.cs" />
+    <Compile Include="Infrastructure\Startup.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Marketing\Marketing.csproj">
+      <Project>{F0576395-9A43-4F84-8715-5E9515A4F2C6}</Project>
+      <Name>Marketing</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sales\Sales.csproj">
       <Project>{08FE6931-1575-4CC6-9274-26E3B43A7FD4}</Project>
       <Name>Sales</Name>

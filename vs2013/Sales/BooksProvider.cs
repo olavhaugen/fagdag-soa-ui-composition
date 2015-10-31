@@ -13,7 +13,7 @@ namespace Sales
         {
             get
             {
-                return _books ?? (_books = JsonConvert.DeserializeObject<Book[]>(File.ReadAllText("sales.json")));
+                return _books ?? (_books = JsonConvert.DeserializeObject<Book[]>(File.ReadAllText("books.json")));
             }
         }
 

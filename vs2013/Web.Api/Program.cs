@@ -1,15 +1,13 @@
 ﻿using System;
 using Microsoft.Owin.Hosting;
-using Sales;
+using Web.Api.Infrastructure;
 
-namespace Host
+namespace Web.Api
 {
     class Program
     {
         static void Main(string[] args)
         {
-            var zzz = new BooksProvider().AllBooks();
-
             const string baseAddress = "http://localhost:9000/";
             
             using (WebApp.Start<Startup>(baseAddress))

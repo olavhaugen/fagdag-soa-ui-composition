@@ -1,1 +1,1092 @@
-{"editions": [{"number_of_pages": 271, "subtitle": "autobiography.", "covers": [7374181], "lc_classifications": ["PN2287.W4566 A3"], "latest_revision": 6, "ocaid": "goodnesshadnothi00west", "title": "Goodness had nothing to do with it", "languages": [{"key": "/languages/eng"}], "publish_country": "nju", "oclc_numbers": ["686985"], "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Prentice-Hall"], "ia_box_id": ["IA127806"], "last_modified": {"type": "/type/datetime", "value": "2015-10-25T16:30:22.755197"}, "key": "/books/OL5774912M", "authors": [{"key": "/authors/OL392444A"}], "publish_places": ["Englewood Cliffs, N.J"], "pagination": "271 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["927.92"], "identifiers": {"librarything": ["4583904"]}, "lccn": ["59012962"], "publish_date": "1959", "works": [{"key": "/works/OL2686972W"}]}, {"number_of_pages": 104, "covers": [636024], "ia_loaded_id": ["farsidelars00lars"], "lc_classifications": ["NC1429.L32 A4 1982"], "latest_revision": 13, "ocaid": "farsidlars00lars", "source_records": ["marc:marc_records_scriblio_net/part15.dat:228967498:593", "marc:marc_loc_updates/v35.i23.records.utf8:3551605:724", "ia:farsidlars00lars", "ia:farsidelars00lars"], "title": "The far side", "languages": [{"key": "/languages/eng"}], "subjects": ["American wit and humor, Pictorial"], "publish_country": "ksu", "by_statement": "by Gary Larson.", "type": {"key": "/type/edition"}, "physical_dimensions": "14 x 21 x  centimeters", "revision": 13, "publishers": ["Andrews and McMeel"], "ia_box_id": ["IA118308"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2015-05-02T19:13:07.857656"}, "key": "/books/OL3512134M", "authors": [{"key": "/authors/OL221211A"}], "publish_places": ["Kansas City"], "pagination": "104 p.", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["82072418"], "notes": "\"Collection #1\" - back cover.\r\n\"The first collection of The Far Side.\" - Back cover.", "identifiers": {"librarything": ["2947"], "goodreads": ["121173"]}, "isbn_13": ["9780836212006"], "dewey_decimal_class": ["741.5/973"], "isbn_10": ["0836212002"], "publish_date": "1982", "copyright_date": "1982", "work_title": ["Far side."], "works": [{"key": "/works/OL1848085W"}]}, {"number_of_pages": 191, "weight": "12 ounces", "covers": [676494], "latest_revision": 8, "ocaid": "nestofninniesnov00ashb", "edition_name": "1st Ecco Ed edition", "source_records": ["ia:nestofninniesnov00ashb"], "title": "A Nest of Ninnies", "languages": [{"key": "/languages/eng"}], "subjects": ["Modern fiction", "General", "Ashbery, John - Poems & Criticism", "Popular American Fiction", "Fiction", "Fiction - General", "Friendship", "Suburban life", "New York (N.Y.)", "FIC", "FIC000000", "Classics", "New York", "New York (State)"], "type": {"key": "/type/edition"}, "physical_dimensions": "8.5 x 5.8 x 0.8 inches", "revision": 8, "publishers": ["Ecco Pr"], "ia_box_id": ["IA140009"], "physical_format": "Hardcover", "last_modified": {"type": "/type/datetime", "value": "2015-04-26T15:46:49.216022"}, "key": "/books/OL8132628M", "authors": [{"key": "/authors/OL21959A"}, {"key": "/authors/OL82793A"}, {"key": "/authors/OL6788836A"}], "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-29T15:03:11.581851"}, "identifiers": {"goodreads": ["250399"], "librarything": ["129717"]}, "isbn_13": ["9780880015233"], "isbn_10": ["0880015233"], "publish_date": "June 1997", "works": [{"key": "/works/OL16094295W"}]}, {"publishers": ["Berkley"], "identifiers": {"librarything": ["488811"], "goodreads": ["2880574"]}, "classifications": {}, "key": "/books/OL7502004M", "title": "Mistress Masham's Repose", "contributions": ["T. H. White (Illustrator)"], "number_of_pages": 231, "ocaid": "mistressmashamsr00fran", "created": {"type": "/type/datetime", "value": "2008-04-29T13:35:46.876380"}, "isbn_13": ["9780425073124"], "isbn_10": ["0425073122"], "latest_revision": 8, "last_modified": {"type": "/type/datetime", "value": "2015-04-21T11:51:29.126316"}, "authors": [{"key": "/authors/OL2701691A"}], "publish_date": "February 15, 1984", "oclc_numbers": ["233617870"], "works": [{"key": "/works/OL8108478W"}], "type": {"key": "/type/edition"}, "first_sentence": {"type": "/type/text", "value": "MARIA was ten years old."}, "revision": 8}, {"identifiers": {"librarything": ["120289"], "goodreads": ["3005453"]}, "covers": [257861], "lc_classifications": ["PS3554.A934923 W35 1999"], "latest_revision": 7, "ocaid": "walkingtour00davi", "uri_descriptions": ["Sample text", "Reading group guide", "Publisher description"], "source_records": ["ia:walkingtour00davi"], "title": "The walking tour", "languages": [{"key": "/languages/eng"}], "publish_country": "mau", "by_statement": "Kathryn Davis.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/samples/hm051/99035547.html", "http://www.houghtonmifflinbooks.com/readers_guides/davis_guide.shtml", "http://www.loc.gov/catdir/description/hm022/99035547.html"], "revision": 7, "publishers": ["Houghton Mifflin"], "ia_box_id": ["IA170301"], "dewey_decimal_class": ["813/.54"], "last_modified": {"type": "/type/datetime", "value": "2015-04-21T10:11:29.145508"}, "key": "/books/OL42528M", "authors": [{"key": "/authors/OL27777A"}], "publish_places": ["Boston"], "pagination": "264 p. ;", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "url": ["http://www.loc.gov/catdir/samples/hm051/99035547.html", "http://www.houghtonmifflinbooks.com/readers_guides/davis_guide.shtml", "http://www.loc.gov/catdir/description/hm022/99035547.html"], "number_of_pages": 264, "lccn": ["99035547"], "isbn_10": ["0395945410"], "publish_date": "1999", "works": [{"key": "/works/OL16501715W"}]}, {"identifiers": {"goodreads": ["848442"], "librarything": ["3944855"]}, "subject_place": ["Scotland"], "covers": [3879495], "lc_classifications": ["PR6066.A43 B48 1995"], "latest_revision": 8, "ocaid": "betrayals000pall", "uri_descriptions": ["Publisher description"], "languages": [{"key": "/languages/eng"}], "source_records": ["marc:marc_records_scriblio_net/part24.dat:58619543:917", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:14111529:1090", "ia:betrayals000pall"], "title": "Betrayals", "edition_name": "1st American ed.", "subjects": ["Betrayal -- Fiction", "Literary recreations -- Fiction", "Scotland -- Fiction"], "publish_country": "nyu", "by_statement": "Charles Palliser.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/random0412/94022769.html"], "revision": 8, "publishers": ["Ballantine Books"], "ia_box_id": ["IA150801"], "last_modified": {"type": "/type/datetime", "value": "2015-04-21T10:09:16.831671"}, "key": "/books/OL1098084M", "authors": [{"key": "/authors/OL20579A"}], "publish_places": ["New York"], "lccn": ["94022769"], "pagination": "353 p. ;", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": "Includes index.", "number_of_pages": 353, "url": ["http://www.loc.gov/catdir/description/random0412/94022769.html"], "isbn_10": ["0345369599"], "publish_date": "1995", "works": [{"key": "/works/OL16640242W"}]}, {"identifiers": {"goodreads": ["723328"], "librarything": ["659747"]}, "subtitle": "A novel", "subject_place": ["New Hampshire", "Labrador (N.L.)"], "covers": [7131200], "lc_classifications": ["PS3554.A934923 L3 1988"], "latest_revision": 5, "ocaid": "labrador000davi", "edition_name": "1st ed.", "genres": ["Fiction."], "source_records": ["ia:labrador000davi"], "title": "Labrador", "languages": [{"key": "/languages/eng"}], "subjects": ["Sisters -- Fiction.", "Grandfathers -- Fiction.", "New Hampshire -- Fiction.", "Labrador (N.L.) -- Fiction."], "publish_country": "nyu", "by_statement": "Kathryn Davis.", "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Farrar Straus Giroux"], "ia_box_id": ["IA143122"], "last_modified": {"type": "/type/datetime", "value": "2015-04-21T10:07:50.978513"}, "key": "/books/OL2031570M", "authors": [{"key": "/authors/OL27777A"}], "publish_places": ["New York"], "pagination": "225 p. ;", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["88007173"], "number_of_pages": 225, "dewey_decimal_class": ["813/.54"], "isbn_10": ["0374182515"], "publish_date": "1988", "works": [{"key": "/works/OL16658056W"}]}, {"publishers": ["Penguin (Non-Classics)"], "physical_format": "Paperback", "key": "/books/OL9303729M", "source_records": ["ia:palladianviragom00eliz"], "title": "Palladian (Virago Modern Classics)", "type": {"key": "/type/edition"}, "identifiers": {"librarything": ["19551"], "goodreads": ["1665061"]}, "isbn_13": ["9780140161137"], "created": {"type": "/type/datetime", "value": "2008-04-30T09:38:13.731961"}, "languages": [{"key": "/languages/eng"}], "isbn_10": ["0140161139"], "latest_revision": 8, "last_modified": {"type": "/type/datetime", "value": "2014-07-30T17:12:44.488693"}, "authors": [{"key": "/authors/OL2657564A"}], "publish_date": "December 3, 1985", "oclc_numbers": ["13379791"], "works": [{"key": "/works/OL7972390W"}], "ocaid": "palladianviragom00eliz", "subjects": ["Fiction / General", "Fiction"], "revision": 8}, {"number_of_pages": 439, "covers": [6517966], "lc_classifications": ["PN1042 .K39 1974"], "latest_revision": 8, "ocaid": "introductiontopo00kenn", "edition_name": "3d ed.", "source_records": ["ia:introductiontopo00kenn", "ia:introductiontopo3rdkenn"], "title": "An introduction to poetry", "languages": [{"key": "/languages/eng"}], "subjects": ["Poetics."], "publish_country": "mau", "by_statement": "[by] X.J. Kennedy", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Little, Brown"], "ia_box_id": ["IA102218"], "last_modified": {"type": "/type/datetime", "value": "2014-07-30T12:29:53.811972"}, "key": "/books/OL5426699M", "authors": [{"key": "/authors/OL225933A"}], "publish_places": ["Boston"], "pagination": "xxxv, 439 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["808.1"], "identifiers": {"librarything": ["50777"]}, "lccn": ["73021450"], "publish_date": "1974", "works": [{"key": "/works/OL1887156W"}]}, {"number_of_pages": 109, "subject_place": ["Hollywood (Los Angeles, Calif.)", "United States"], "covers": [7284712, 4325126], "lc_classifications": ["PN2287.B694 A34 1982"], "latest_revision": 14, "ocaid": "luluinhollywood00broo", "ia_box_id": ["IA138124"], "edition_name": "1st ed.", "source_records": ["marc:marc_records_scriblio_net/part13.dat:4338579:818", "marc:marc_ithaca_college/ic_marc.mrc:27766300:782", "ia:luluinhollywood00broo", "ia:luluinhollywood00broo"], "title": "Lulu in Hollywood", "languages": [{"key": "/languages/eng"}], "subjects": ["Brooks, Louise, 1906-", "Motion picture actors and actresses -- United States -- Biography", "Hollywood (Los Angeles, Calif.) -- Biography"], "publish_country": "nyu", "by_statement": "by Louise Brooks ; introduction by William Shawn.", "type": {"key": "/type/edition"}, "revision": 14, "publishers": ["Knopf"], "description": {"type": "/type/text", "value": "Introduction by Kenneth Tynan\r\n\r\nThe collected writings of this icon of the silent era, in a new, more complete edition.\r\n\r\nLouise Brooks (1906-1985) is one of the most famous actresses of the silent era, renowned as much for her rebellion against the Hollywood system as for her performances in such influential films as Pandora's Box and Diary of a Lost Girl. Eight autobiographical essays by Brooks, on topics ranging from her childhood in Kansas and her early days as a Denishawn and Ziegfeld Follies dancer to her friendships with Martha Graham, Charles Chaplin, W. C. Fields, Humphrey Bogart, William Paley, G. W. Pabst, and others are collected here. New to this edition is the revelatory \"Why I Will Never Write My Memoirs\" by Brooks and \"The Girl in the Black Helmet\" by Kenneth Tynan, which brought about the revival of interest in her work and was the best discussion of Brooks's film work to appear in her lifetime.\r\n\r\n\"The writing is assured, graceful, and magnetic; the life the dancer-actress-author describes makes most fiction trivial by comparison. . . . This is no ordinary collection of gossipy memoirs. It is a tour de force, as history and as a searching study of human nature.\" Publishers Weekly\r\n\r\n\"Brooks is brilliantly perceptive and articulate on everything from the art of film directing to the comedy of W. C. Fields.\" New York Times\r\n\r\n\"A minor classic.\" Film Quarterly"}, "last_modified": {"type": "/type/datetime", "value": "2014-07-25T16:58:16.264471"}, "key": "/books/OL3785722M", "authors": [{"key": "/authors/OL1002111A"}], "publish_places": ["New York"], "pagination": "viii, 109, [8] p., [32] p. of plates :", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["81048108"], "notes": "Filmography: p. 112-113.", "identifiers": {"goodreads": ["571835"], "librarything": ["277599"]}, "dewey_decimal_class": ["791.43/028/0924", "B"], "isbn_10": ["0394520718"], "publish_date": "1982", "works": [{"key": "/works/OL4772459W"}]}, {"identifiers": {"goodreads": ["529626"]}, "covers": [6563910], "latest_revision": 5, "ocaid": "sometimesgreatno00kese", "source_records": ["ia:sometimesgreatno00kese"], "title": "Sometimes a great notion", "publish_country": "nyu", "by_statement": "Ken Kesey.", "oclc_numbers": ["476831778"], "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Bantam Books"], "ia_box_id": ["IA114521"], "last_modified": {"type": "/type/datetime", "value": "2014-04-09T16:13:26.002649"}, "key": "/books/OL24240574M", "authors": [{"key": "/authors/OL449110A"}], "publish_places": ["New York"], "pagination": "599 s.", "classifications": {}, "created": {"type": "/type/datetime", "value": "2010-06-06T03:30:20.520681"}, "number_of_pages": 599, "publish_date": "1971", "works": [{"key": "/works/OL16477814W"}]}, {"publishers": ["Common Reader Editions"], "identifiers": {"librarything": ["211803"], "goodreads": ["876428"]}, "key": "/books/OL8710098M", "weight": "9.4 ounces", "title": "The Sin Eater (Common Reader Editions)", "type": {"key": "/type/edition"}, "number_of_pages": 196, "isbn_13": ["9781888173369"], "covers": [935913], "created": {"type": "/type/datetime", "value": "2008-04-30T08:14:56.482104"}, "languages": [{"key": "/languages/eng"}], "ocaid": "sineatercommonre00alic", "isbn_10": ["188817336X"], "latest_revision": 6, "last_modified": {"type": "/type/datetime", "value": "2014-04-05T21:00:03.546954"}, "authors": [{"key": "/authors/OL22571A"}], "publish_date": "March 1, 2001", "physical_format": "Paperback", "subjects": ["General", "FICTION_GENERAL", "Fiction / General", "WALES_FICTION", "Fiction - General", "Fiction"], "physical_dimensions": "8.3 x 5.5 x 0.4 inches", "revision": 6}, {"identifiers": {"librarything": ["29287"], "goodreads": ["177370"]}, "subtitle": "a life in a new language", "subject_place": ["United States", "Poland"], "covers": [95043], "ia_loaded_id": ["lostintranslatio00hoff"], "lc_classifications": ["E184.J5 H63 1990"], "latest_revision": 11, "ocaid": "lostintranslatio00hoff", "source_records": ["marc:marc_records_scriblio_net/part20.dat:145423822:863", "marc:marc_cca/b10621386.out:27261154:984", "marc:marc_ithaca_college/ic_marc.mrc:39578808:882", "ia:lostintranslatio00hoff"], "title": "Lost in translation", "languages": [{"key": "/languages/eng"}], "subjects": ["Hoffman, Eva, 1945-", "Jews -- United States -- Biography", "Immigrants -- United States -- Biography", "Children of Holocaust survivors -- Poland -- Biography", "Children of Holocaust survivors -- United States -- Biography"], "publish_country": "nyu", "by_statement": "Eva Hoffman.", "type": {"key": "/type/edition"}, "revision": 11, "publishers": ["Penguin Books"], "ia_box_id": ["IA151301"], "last_modified": {"type": "/type/datetime", "value": "2014-04-05T20:29:45.264116"}, "key": "/books/OL2201348M", "authors": [{"key": "/authors/OL382440A"}, {"key": "/authors/OL5293990A"}], "publish_places": ["New York, N.Y., U.S.A"], "pagination": "280 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["973/.0492402", "B"], "number_of_pages": 280, "lccn": ["89023016"], "isbn_10": ["0140127739"], "publish_date": "1990", "works": [{"key": "/works/OL2624929W"}]}, {"number_of_pages": 267, "weight": "8 ounces", "latest_revision": 7, "ocaid": "joke00mila", "contributions": ["Michael Henry Heim (Translator)"], "first_sentence": {"type": "/type/text", "value": "\"SO HERE I WAS, home again after all those years.\""}, "title": "The Joke", "languages": [{"key": "/languages/eng"}], "subjects": ["General", "Fiction / General", "Fiction - General", "Fiction"], "type": {"key": "/type/edition"}, "physical_dimensions": "7 x 5 x 1 inches", "revision": 7, "publishers": ["Penguin"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2014-04-05T20:29:29.478528"}, "key": "/books/OL9302199M", "authors": [{"key": "/authors/OL4326321A"}], "created": {"type": "/type/datetime", "value": "2008-04-30T09:38:13.731961"}, "identifiers": {"goodreads": ["1410877"], "librarything": ["8334274"]}, "isbn_13": ["9780140096927"], "isbn_10": ["0140096922"], "publish_date": "March 1, 1987", "works": [{"key": "/works/OL14856639W"}]}, {"number_of_pages": 253, "weight": "8 ounces", "latest_revision": 7, "ocaid": "shortwalkinhindu00eric", "title": "A Short Walk in the Hindu Kush", "languages": [{"key": "/languages/eng"}], "subjects": ["TRV", "TRV010000", "Essays & Travelogues", "Travel"], "oclc_numbers": ["8321981"], "type": {"key": "/type/edition"}, "physical_dimensions": "7 x 5 x 1 inches", "revision": 7, "publishers": ["Penguin (Non-Classics)"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2014-04-05T20:17:09.210386"}, "key": "/books/OL9300677M", "authors": [{"key": "/authors/OL335693A"}], "created": {"type": "/type/datetime", "value": "2008-04-30T09:38:13.731961"}, "identifiers": {"goodreads": ["556649"], "librarything": ["10058"]}, "isbn_13": ["9780140026634"], "isbn_10": ["0140026630"], "publish_date": "June 25, 1981", "works": [{"key": "/works/OL2431377W"}]}, {"number_of_pages": 192, "covers": [5413704, 4635618], "latest_revision": 8, "ocaid": "thingsfallapart00chin", "source_records": ["marc:marc_oregon_summit_records/catalog_files/pcc_bibs.mrc_rev.mrc:62597183:695"], "title": "Things fall apart", "languages": [{"key": "/languages/eng"}], "subjects": ["Igbo (African people) -- Fiction"], "publish_country": "nyu", "by_statement": "by Chinua Achebe.", "oclc_numbers": ["22060817"], "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Fawcett Crest"], "last_modified": {"type": "/type/datetime", "value": "2014-04-05T20:11:59.454820"}, "key": "/books/OL18342369M", "authors": [{"key": "/authors/OL4339419A"}], "publish_places": ["New York"], "pagination": "192 p. ;", "created": {"type": "/type/datetime", "value": "2008-10-16T07:44:52.254918"}, "notes": {"type": "/type/text", "value": "Includes glossary of Ibo words and phrases."}, "identifiers": {"librarything": ["5061284"], "goodreads": ["1561630"]}, "isbn_10": ["0449208109"], "publish_date": "1989", "works": [{"key": "/works/OL891794W"}]}, {"identifiers": {"librarything": ["51244"], "goodreads": ["1292330"]}, "subject_place": ["Portland (Maine)"], "covers": [402185], "lc_classifications": ["PS3568.E47697 C6 1998"], "latest_revision": 8, "ocaid": "cordeliaunderwoo00reid_0", "genres": ["Fiction."], "source_records": ["marc:marc_records_scriblio_net/part27.dat:59989457:1071", "marc:marc_loc_updates/v35.i25.records.utf8:4406437:1069"], "title": "Cordelia Underwood, or, The marvelous beginnings of the Moosepath League", "languages": [{"key": "/languages/eng"}], "subjects": ["Men -- Societies and clubs -- Fiction", "City and town life -- Fiction", "Women landowners -- Fiction", "Land tenure -- Fiction", "Young women -- Fiction", "Moosepath League (Imaginary organization) -- Fiction", "Portland (Maine) -- Fiction"], "publish_country": "nyu", "by_statement": "Van Reid.", "oclc_numbers": ["38324648"], "type": {"key": "/type/edition"}, "revision": 8, "other_titles": ["Cordelia Underwood", "Marvelous beginnings of the Moosepath League"], "publishers": ["Viking"], "last_modified": {"type": "/type/datetime", "value": "2014-04-05T19:54:09.684813"}, "key": "/books/OL346552M", "authors": [{"key": "/authors/OL22172A"}], "publish_places": ["New York, N.Y"], "pagination": "400 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 400, "lccn": ["98005623"], "isbn_10": ["0670880973"], "publish_date": "1998", "works": [{"key": "/works/OL166399W"}]}, {"identifiers": {"goodreads": ["5042519"], "librarything": ["71158"]}, "subtitle": "a novel", "subject_place": ["New York (N.Y.)"], "lc_classifications": ["PZ7.L5385 Cam 1981"], "latest_revision": 5, "ocaid": "camillanovel00leng", "source_records": ["marc:marc_records_scriblio_net/part13.dat:6411043:946"], "title": "Camilla", "languages": [{"key": "/languages/eng"}], "subjects": ["Parent and child -- Fiction", "Family problems -- Fiction", "New York (N.Y.) -- Fiction"], "publish_country": "nyu", "by_statement": "Madeleine L'Engle.", "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Delacorte Press"], "description": {"type": "/type/text", "value": "Fifteen-year-old Camilla gains new maturity through her relationship with her best friend's brother and the growing realization that her parents are fallible individuals."}, "last_modified": {"type": "/type/datetime", "value": "2014-04-05T19:35:59.063603"}, "key": "/books/OL3788289M", "authors": [{"key": "/authors/OL28188A"}], "publish_places": ["New York"], "pagination": "278 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["[Fic]"], "notes": {"type": "/type/text", "value": "Originally published: Camilla Dickinson. New York : Simon and Schuster, 1951."}, "number_of_pages": 278, "lccn": ["81065494"], "isbn_10": ["0440010209"], "publish_date": "1981", "work_title": ["Camilla Dickinson"], "works": [{"key": "/works/OL41488W"}]}, {"publishers": ["Penguin (Non-Classics)"], "languages": [{"key": "/languages/eng"}], "identifiers": {"librarything": ["5466"], "goodreads": ["1637352"]}, "key": "/books/OL7352362M", "title": "The Haunting (tie-in)", "type": {"key": "/type/edition"}, "number_of_pages": 246, "covers": [100732], "created": {"type": "/type/datetime", "value": "2008-04-29T13:35:46.876380"}, "isbn_13": ["9780140287431"], "isbn_10": ["0140287434"], "latest_revision": 9, "last_modified": {"type": "/type/datetime", "value": "2014-04-05T19:15:20.820472"}, "authors": [{"key": "/authors/OL507165A"}], "publish_date": "July 1, 1999", "works": [{"key": "/works/OL4614189W"}], "ocaid": "hauntingtiein00jack", "first_sentence": {"type": "/type/text", "value": "NO LIVE organism can continue for long to exist sanely under conditions of absolute reality; even larks and katydids are supposed, by some, to dream."}, "revision": 9}, {"identifiers": {"librarything": ["124247"], "goodreads": ["1093442"]}, "ia_loaded_id": ["swimmingpoollibr00holl_1"], "lc_classifications": ["PR6058.O4467 S9 1988"], "latest_revision": 6, "ocaid": "swimmingpoollibr00holl_1", "source_records": ["ia:swimmingpoollibr00holl_1"], "title": "The swimming-pool library", "languages": [{"key": "/languages/eng"}], "publish_country": "enk", "by_statement": "Alan Hollinghurst.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Penguin"], "ia_box_id": ["IA184801"], "last_modified": {"type": "/type/datetime", "value": "2014-04-05T19:14:55.637045"}, "key": "/books/OL18479904M", "authors": [{"key": "/authors/OL239939A"}], "publish_places": ["London"], "pagination": "288 p.", "created": {"type": "/type/datetime", "value": "2008-10-16T23:00:58.928816"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Originally published: Great Britain : Chatto & Windus, 1988."}, "number_of_pages": 288, "isbn_10": ["0140116109"], "publish_date": "1988", "works": [{"key": "/works/OL1993509W"}]}, {"publishers": ["Pavanne / Pan Books"], "number_of_pages": 192, "key": "/books/OL10488999M", "source_records": ["amazon:0330296744"], "title": "Naomi", "type": {"key": "/type/edition"}, "identifiers": {"goodreads": ["1021216"], "librarything": ["129340"]}, "ocaid": "naomi00juni", "created": {"type": "/type/datetime", "value": "2008-04-30T09:38:13.731961"}, "isbn_13": ["9780330296748"], "isbn_10": ["0330296744"], "latest_revision": 9, "last_modified": {"type": "/type/datetime", "value": "2014-04-05T19:08:08.273731"}, "authors": [{"key": "/authors/OL51998A"}], "publish_date": "1987", "oclc_numbers": ["29371949"], "works": [{"key": "/works/OL668681W"}], "physical_format": "Paperback", "revision": 9}, {"number_of_pages": 95, "covers": [6668093], "lc_classifications": ["PZ7.F924 Se"], "latest_revision": 8, "ocaid": "secretofronmorsk00fryr", "edition_name": "[1st American ed.]", "source_records": ["ia:secretofronmorsk00fryr"], "title": "Secret of the Ron Mor Skerry", "languages": [{"key": "/languages/eng"}], "publish_country": "xx ", "by_statement": "written and illustrated by Rosalie K. Fry.", "oclc_numbers": ["1418356"], "type": {"key": "/type/edition"}, "physical_dimensions": "21 x  x  centimeters", "revision": 8, "publishers": ["Dutton"], "ia_box_id": ["IA131005"], "last_modified": {"type": "/type/datetime", "value": "2013-06-22T18:06:00.234307"}, "key": "/books/OL6269264M", "authors": [{"key": "/authors/OL418328A"}], "publish_places": ["New York, USA"], "pagination": "95 p.", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["59005842"], "notes": "\"Published in England under the title:  Child of the Western Isles.\"", "identifiers": {"librarything": ["597382"]}, "publish_date": "1959", "works": [{"key": "/works/OL2812883W"}]}, {"number_of_pages": 105, "subtitle": "a guide to success for tiny pupils, including all there is to know about space", "contributors": [{"role": "Author", "name": "ronald searle"}], "covers": [6660663, -1], "lc_classifications": ["PR6045.I39 H6 1954"], "latest_revision": 12, "ocaid": "howtobetoppguide00will", "contributions": ["Searle, Ronald, 1920-"], "source_records": ["marc:marc_loc_updates/v40.i02.records.utf8:422782:718", "ia:howtobetoppguide00will"], "title": "How to be topp", "subjects": ["Education -- Anecdotes, facetiae, satire, etc"], "publish_country": "enk", "by_statement": "Geoffrey Willans and Ronald Searle.", "oclc_numbers": ["7874581"], "type": {"key": "/type/edition"}, "revision": 12, "publishers": ["M. Parrish"], "ia_box_id": ["IA127405"], "last_modified": {"type": "/type/datetime", "value": "2012-11-17T07:54:56.458597"}, "key": "/books/OL6181944M", "authors": [{"key": "/authors/OL136329A"}], "publish_places": ["New York"], "pagination": "105 p. :", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["55017790"], "identifiers": {}, "dewey_decimal_class": ["827.91"], "publish_date": "1954", "works": [{"key": "/works/OL1338484W"}]}, {"identifiers": {"goodreads": ["1095789"], "librarything": ["6467640"]}, "subject_place": ["California"], "covers": [237680], "lc_classifications": ["PS3563.O594 L87 1999"], "latest_revision": 8, "ocaid": "lustlizardofmela00moor", "edition_name": "1st ed.", "genres": ["Fiction."], "source_records": ["ia:lustlizardofmela00moor"], "title": "The lust lizard of Melancholy Cove", "languages": [{"key": "/languages/eng"}], "subjects": ["Sea monsters -- Fiction.", "California -- Fiction."], "publish_country": "nyu", "by_statement": "Christopher Moore.", "oclc_numbers": ["40180241"], "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Spike"], "ia_box_id": ["IA144209"], "last_modified": {"type": "/type/datetime", "value": "2012-11-15T01:14:55.128533"}, "key": "/books/OL384300M", "authors": [{"key": "/authors/OL2629911A"}], "publish_places": ["New York, N.Y"], "pagination": "304 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "notes": {"type": "/type/text", "value": "\"An Avon book.\""}, "number_of_pages": 304, "lccn": ["98046850"], "isbn_10": ["0380975068"], "publish_date": "1999", "works": [{"key": "/works/OL1987161W"}]}, {"number_of_pages": 103, "isbn_invalid": ["093477020"], "subject_place": ["Chicago (Ill.)"], "covers": [4282638], "lc_classifications": ["PS3553.I78 H6 1984"], "latest_revision": 11, "ocaid": "houseonmangostre00cisn", "source_records": ["marc:marc_records_scriblio_net/part15.dat:228880506:718", "marc:marc_cca/b10621386.out:32917701:1758", "ia:houseonmangostre00cisn"], "title": "The house on Mango Street", "languages": [{"key": "/languages/eng"}], "subjects": ["Mexican Americans -- Fiction", "Girls -- Fiction", "Chicago (Ill.) -- Fiction"], "publish_country": "txu", "by_statement": "by Sandra Cisneros.", "type": {"key": "/type/edition"}, "revision": 11, "publishers": ["Arte Publico Press"], "ia_box_id": ["IA117701"], "last_modified": {"type": "/type/datetime", "value": "2012-09-12T02:45:36.351363"}, "key": "/books/OL3512026M", "authors": [{"key": "/authors/OL528943A"}], "publish_places": ["Houston, Tex"], "pagination": "103 p. ;", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["82072278"], "identifiers": {"librarything": ["2249"], "goodreads": ["862246"]}, "dewey_decimal_class": ["813/.54"], "isbn_10": ["0934770204"], "publish_date": "1983", "works": [{"key": "/works/OL3243784W"}]}, {"identifiers": {"goodreads": ["333897"], "librarything": ["77281"]}, "links": [{"url": "http://www.loc.gov/catdir/description/random046/82040424.html", "title": "Publisher description"}], "subject_place": ["United States"], "covers": [254127], "ia_loaded_id": ["istherenoplaceon00shee"], "lc_classifications": ["RC514 .S49 1983"], "latest_revision": 13, "ocaid": "istherenoplaceon00sheerich", "edition_name": "1st Vintage Books ed.", "source_records": ["ia:istherenoplaceon00sheerich", "ia:istherenoplaceon00shee"], "title": "Is there no place on earth for me?", "languages": [{"key": "/languages/eng"}], "subjects": ["Frumkin, Sylvia.", "Creedmoor Psychiatric Center.", "Schizophrenics -- United States -- Biography."], "publish_country": "nyu", "by_statement": "Susan Sheehan ; foreword by Robert Coles", "type": {"key": "/type/edition"}, "revision": 13, "publishers": ["Vintage Books"], "ia_box_id": ["IA101916"], "last_modified": {"type": "/type/datetime", "value": "2012-08-17T01:16:35.629857"}, "key": "/books/OL3505327M", "authors": [{"key": "/authors/OL714731A"}], "publish_places": ["New York"], "pagination": "xv, 333 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["82040424"], "notes": {"type": "/type/text", "value": "Originally appeared, in slightly different form, in the New Yorker.\n\nReprint. Originally published: Boston : Houghton Mifflin, 1982."}, "number_of_pages": 333, "dewey_decimal_class": ["616.89/82/0924", "B"], "isbn_10": ["0394713788"], "publish_date": "1983", "works": [{"key": "/works/OL3924175W"}]}, {"number_of_pages": 160, "subject_place": ["London (England)"], "covers": [257885], "ia_loaded_id": ["atfreddies00fitz"], "lc_classifications": ["PR6056.I86 A92 1999"], "latest_revision": 8, "ocaid": "atfreddies00fitz", "uri_descriptions": ["Publisher description"], "languages": [{"key": "/languages/eng"}], "genres": ["Fiction."], "source_records": ["marc:marc_records_scriblio_net/part28.dat:13110481:834", "ia:atfreddies00fitz"], "title": "At Freddie's", "edition_name": "1st Mariner Books ed.", "subjects": ["Acting teachers -- Fiction", "Child actors -- Fiction", "London (England) -- Fiction"], "publish_country": "mau", "by_statement": "Penelope Fitzgerald.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/hm022/99040643.html"], "revision": 8, "publishers": ["Houghton Mifflin"], "ia_box_id": ["IA181401"], "dewey_decimal_class": ["823/.914"], "last_modified": {"type": "/type/datetime", "value": "2012-07-27T09:59:08.801223"}, "key": "/books/OL44751M", "authors": [{"key": "/authors/OL24526A"}], "publish_places": ["Boston"], "pagination": "160 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["99040643"], "notes": {"type": "/type/text", "value": "\"A Mariner book.\""}, "identifiers": {"librarything": ["101659"], "goodreads": ["108617"]}, "url": ["http://www.loc.gov/catdir/description/hm022/99040643.html"], "isbn_10": ["0395956188"], "publish_date": "1999", "works": [{"key": "/works/OL20782W"}]}, {"number_of_pages": 289, "subtitle": "a novel", "covers": [3963823], "ia_loaded_id": ["crackingindianov00sidh"], "latest_revision": 7, "ocaid": "crackingindianov00sidh", "source_records": ["ia:crackingindianov00sidh"], "title": "Cracking India", "subjects": ["India -- History -- 1947- -- Fiction."], "by_statement": "Bapsi Sidhwa.", "type": {"key": "/type/edition"}, "revision": 7, "other_titles": ["Ice-candy-man."], "ia_box_id": ["IA181401"], "last_modified": {"type": "/type/datetime", "value": "2012-07-27T09:08:34.947814"}, "key": "/books/OL22098972M", "authors": [{"key": "/authors/OL717212A"}], "publish_places": ["Minneapolis, Minn"], "pagination": "289 p. ; 24 cm.", "created": {"type": "/type/datetime", "value": "2008-11-06T20:34:45.751657"}, "notes": {"type": "/type/text", "value": "Previously published as: Ice-candy-man.\n\n6"}, "identifiers": {"goodreads": ["935081"], "librarything": ["28788"]}, "isbn_10": ["0915943514"], "works": [{"key": "/works/OL3935996W"}]}, {"number_of_pages": 383, "subject_place": ["Hollywood (Los Angeles, Calif.)", "Alabama", "California", "Los Angeles"], "covers": [4005187], "ia_loaded_id": ["crazyinalabama00chil_0"], "lc_classifications": ["PS3553.H486 C73 1993"], "latest_revision": 7, "ocaid": "crazyinalabama00chil_0", "source_records": ["ia:crazyinalabama00chil_0"], "title": "Crazy in Alabama", "languages": [{"key": "/languages/eng"}], "subjects": ["Women -- California -- Los Angeles -- Fiction.", "Race relations -- Fiction.", "Boys -- Fiction.", "Hollywood (Los Angeles, Calif.) -- Fiction.", "Alabama -- Fiction.", "Alabama -- Fiction."], "publish_country": "nyu", "by_statement": "Mark Childress.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Putnam"], "ia_box_id": ["IA179601"], "last_modified": {"type": "/type/datetime", "value": "2012-07-27T00:22:15.320073"}, "key": "/books/OL1733562M", "authors": [{"key": "/authors/OL403226A"}], "publish_places": ["New York"], "pagination": "383 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "identifiers": {"librarything": ["36276"], "goodreads": ["1263212"]}, "lccn": ["92038334"], "isbn_10": ["0399138552"], "publish_date": "1993", "works": [{"key": "/works/OL2748322W"}]}, {"number_of_pages": 191, "subtitle": "a novel", "covers": [7159080], "lc_classifications": ["PR9619.3.S75 L5 1992"], "latest_revision": 4, "ocaid": "littlehotelnovel00stea", "edition_name": "1st Owl Book ed.", "source_records": ["ia:littlehotelnovel00stea"], "title": "The little hotel", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Christina Stead.", "type": {"key": "/type/edition"}, "revision": 4, "publishers": ["H. Holt and Co."], "ia_box_id": ["IA102805"], "last_modified": {"type": "/type/datetime", "value": "2012-07-26T08:49:23.813243"}, "key": "/books/OL1716458M", "authors": [{"key": "/authors/OL624592A"}], "publish_places": ["New York"], "pagination": "191 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823"], "notes": {"type": "/type/text", "value": "\"An Owl book.\""}, "identifiers": {"librarything": ["712912"]}, "lccn": ["92018898"], "isbn_10": ["0805024123"], "publish_date": "1992", "works": [{"key": "/works/OL3648117W"}]}, {"key": "/books/OL7590167M", "publishers": ["Plume"], "languages": [{"key": "/languages/eng"}], "identifiers": {"goodreads": ["1817778"], "librarything": ["203706"]}, "ia_box_id": ["IA145906"], "source_records": ["ia:kennethangershol00ange"], "title": "Hollywood Babylon 2 (Plume)", "type": {"key": "/type/edition"}, "number_of_pages": 331, "covers": [7148152], "created": {"type": "/type/datetime", "value": "2008-04-29T13:35:46.876380"}, "isbn_13": ["9780452257214"], "isbn_10": ["0452257212"], "latest_revision": 6, "last_modified": {"type": "/type/datetime", "value": "2012-06-28T14:33:30.500336"}, "authors": [{"key": "/authors/OL1234084A"}], "publish_date": "October 1, 1985", "works": [{"key": "/works/OL5360002W"}], "ocaid": "kennethangershol00ange", "first_sentence": {"type": "/type/text", "value": "WHITE ELEPHANTS-the God of Hollywood wanted white elephants, and white elephants he got-eight of 'em, plaster mammoths perched on mega-mushroom pedestals, lording it over the colossal court of Belshazzar, the pasteboard Babylon built beside the dusty tin-lizzie trail called Sunset Boulevard."}, "revision": 6}, {"identifiers": {"librarything": ["8238276"], "goodreads": ["4224875"]}, "covers": [7145947], "ia_loaded_id": ["freudreader00freu"], "lc_classifications": ["BF173 .F6255 1989"], "latest_revision": 7, "ocaid": "freudreader00freu", "contributions": ["Gay, Peter, 1923-"], "edition_name": "1st ed.", "source_records": ["ia:freudreader00freu"], "title": "The Freud reader", "languages": [{"key": "/languages/eng"}], "subjects": ["Psychoanalysis."], "publish_country": "nyu", "by_statement": "edited by Peter Gay.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["W.W. Norton"], "ia_box_id": ["IA149121"], "last_modified": {"type": "/type/datetime", "value": "2012-06-27T01:17:10.817472"}, "key": "/books/OL2185033M", "authors": [{"key": "/authors/OL108452A"}], "publish_places": ["New York"], "pagination": "xlvii, 832 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["150.19/52"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. [799]-801)."}, "number_of_pages": 832, "lccn": ["89002949"], "isbn_10": ["0393026868"], "publish_date": "1989", "work_title": ["Selections."], "works": [{"key": "/works/OL1069644W"}]}, {"number_of_pages": 440, "covers": [4234524], "ia_loaded_id": ["anatomyofbereave00beve"], "lc_classifications": ["BF575.G7 R36 1983"], "latest_revision": 11, "ocaid": "anatomyofbereave00beve", "source_records": ["marc:marc_records_scriblio_net/part16.dat:126334847:594", "marc:marc_ithaca_college/ic_marc.mrc:89824768:693", "marc:marc_upei/marc-for-openlibrary-bigset.mrc:60242277:773", "ia:anatomyofbereave00beve"], "title": "The anatomy of bereavement", "languages": [{"key": "/languages/eng"}], "subjects": ["Bereavement -- Psychological aspects"], "publish_country": "nyu", "by_statement": "Beverley Raphael.", "type": {"key": "/type/edition"}, "revision": 11, "publishers": ["Basic Books"], "ia_box_id": ["IA148203"], "last_modified": {"type": "/type/datetime", "value": "2012-06-19T20:53:21.815599"}, "key": "/books/OL3192142M", "authors": [{"key": "/authors/OL592525A"}], "publish_places": ["New York"], "pagination": "xiii, 440 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["155.9/37"], "notes": {"type": "/type/text", "value": "Bibliography: p. 407-422.\nIncludes indexes."}, "identifiers": {"librarything": ["760360"], "goodreads": ["3763262"]}, "lccn": ["83070760"], "isbn_10": ["0465002897"], "publish_date": "1983", "works": [{"key": "/works/OL3533723W"}]}, {"number_of_pages": 624, "subtitle": "complete & unabridged", "covers": [6630128], "lc_classifications": ["PR6051.D3352 M68 1989"], "latest_revision": 8, "ocaid": "morethancomplete00adam", "source_records": ["ia:morethancomplete00adam"], "title": "The more than complete hitchhiker's guide", "languages": [{"key": "/languages/eng"}], "subjects": ["Prefect, Ford (Fictitious character) -- Fiction", "Dent, Arthur (Fictitious character) -- Fiction", "Humorous stories, English", "Science fiction, English"], "publish_country": "nyu", "by_statement": "Douglas Adams.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Bonanza Books", "Distributed by Crown Publishers"], "ia_box_id": ["IA119408"], "last_modified": {"type": "/type/datetime", "value": "2012-06-05T21:29:34.084595"}, "key": "/books/OL2215570M", "authors": [{"key": "/authors/OL272947A"}], "publish_places": ["New York"], "pagination": "xi, 624 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "The hitchhiker's guide to the galaxy -- The restaurant at the end of the universe -- Life, the universe and everything -- So long, and thanks for all the fish -- Young Zaphod plays it safe."}, "identifiers": {"librarything": ["8898280"], "goodreads": ["64123"]}, "lccn": ["89038739"], "isbn_10": ["0517693119"], "publish_date": "1989", "works": [{"key": "/works/OL2163713W"}]}, {"identifiers": {"goodreads": ["2232369"], "librarything": ["15023"]}, "subtitle": "a medical history of humanity", "covers": [247296], "lc_classifications": ["R131 .P59 1998"], "latest_revision": 12, "ocaid": "greatestbenefitt00port", "edition_name": "1st American ed.", "source_records": ["marc:marc_records_scriblio_net/part27.dat:63950450:821", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:19835922:1375", "marc:marc_ithaca_college/ic_marc.mrc:157938641:920", "ia:greatestbenefitt00port", "marc:marc_loc_updates/v40.i20.records.utf8:1582412:833"], "title": "The greatest benefit to mankind", "languages": [{"key": "/languages/eng"}], "subjects": ["Medicine -- History", "Social medicine -- History"], "publish_country": "nyu", "by_statement": "Roy Porter.", "type": {"key": "/type/edition"}, "revision": 12, "publishers": ["W. W. Norton"], "ia_box_id": ["IA129101"], "last_modified": {"type": "/type/datetime", "value": "2012-05-16T06:20:49.123840"}, "key": "/books/OL350830M", "authors": [{"key": "/authors/OL220373A"}], "publish_places": ["New York"], "pagination": "xvi, 831 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["610/.9"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. 719-764) and index.\nBritish ed. published with subtitle: A medical history of humanity from antiquity to the present."}, "number_of_pages": 831, "lccn": ["98010219"], "isbn_10": ["0393046346"], "publish_date": "1998", "works": [{"key": "/works/OL1840115W"}]}, {"subject_place": ["Caribbean Area"], "covers": [296887], "lc_classifications": ["PR9199.3.M617 N6 1997b"], "latest_revision": 7, "ocaid": "nootherlife000moor", "genres": ["Fiction."], "source_records": ["marc:marc_records_scriblio_net/part26.dat:124006915:683", "marc:marc_loc_updates/v37.i38.records.utf8:9540521:693", "ia:nootherlife000moor"], "title": "No other life", "languages": [{"key": "/languages/eng"}], "subjects": ["Heads of state -- Fiction", "Catholics -- Fiction", "Clergy -- Fiction", "Caribbean Area -- Fiction"], "publish_country": "nyu", "by_statement": "Brian Moore.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Plume"], "ia_box_id": ["IA150901"], "last_modified": {"type": "/type/datetime", "value": "2012-05-01T08:01:09.440802"}, "key": "/books/OL668979M", "authors": [{"key": "/authors/OL288322A"}], "publish_places": ["New York"], "pagination": "p. cm.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "identifiers": {"goodreads": ["277850"], "librarything": ["218120"]}, "lccn": ["97014797"], "isbn_10": ["0452278783"], "publish_date": "1997", "works": [{"key": "/works/OL2233685W"}]}, {"identifiers": {"goodreads": ["1056483"], "librarything": ["10139"]}, "subject_place": ["Cleveland (Ohio)"], "covers": [7108638], "lc_classifications": ["PS3573.A425635 B7 1987b"], "latest_revision": 6, "ocaid": "broomofsystem00wall", "source_records": ["ia:broomofsystem00wall"], "title": "The broom of the system", "languages": [{"key": "/languages/eng"}], "subjects": ["Young women -- Fiction.", "Popular culture -- Fiction.", "Missing persons -- Fiction.", "Grandmothers -- Fiction.", "Cleveland (Ohio) -- Fiction."], "publish_country": "nyu", "series": ["Contemporary American fiction"], "by_statement": "David Foster Wallace.", "oclc_numbers": ["14001588"], "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Penguin"], "ia_box_id": ["IA134504"], "last_modified": {"type": "/type/datetime", "value": "2012-05-01T05:36:53.992092"}, "key": "/books/OL2724954M", "authors": [{"key": "/authors/OL448939A"}], "publish_places": ["New York, N.Y., U.S.A"], "pagination": "467 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 467, "lccn": ["86018670"], "isbn_10": ["0140098682"], "publish_date": "1987", "works": [{"key": "/works/OL2943601W"}]}, {"identifiers": {"goodreads": ["1847036"], "librarything": ["15153"]}, "subject_place": ["English-speaking countries"], "covers": [132005], "lc_classifications": ["PR19 .D73 1995"], "latest_revision": 8, "ocaid": "oxfordcompanion000drab", "contributions": ["Drabble, Margaret, 1939-"], "edition_name": "Rev. ed.", "source_records": ["marc:marc_records_scriblio_net/part24.dat:217650187:909", "marc:marc_loc_updates/v35.i21.records.utf8:3789820:1126", "marc:marc_cca/b10621386.out:15637930:970", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:47979259:1226", "ia:oxfordcompanion000drab"], "title": "The Oxford companion to English literature", "languages": [{"key": "/languages/eng"}], "subjects": ["English literature -- Encyclopedias", "English literature -- Bio-bibliography -- Encyclopedias", "English-speaking countries -- Intellectual life -- Encyclopedias", "English-speaking countries -- In literature -- Encyclopedias"], "publish_country": "nyu", "by_statement": "edited by Margaret Drabble.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Oxford University Press"], "ia_box_id": ["IA151101"], "last_modified": {"type": "/type/datetime", "value": "2012-04-16T10:06:03.114714"}, "key": "/books/OL1279523M", "publish_places": ["New York"], "pagination": "viii, 1171 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["820.9"], "notes": {"type": "/type/text", "value": "Includes bibliographical references and index."}, "number_of_pages": 1171, "lccn": ["95011322"], "isbn_10": ["0198662211"], "publish_date": "1995", "works": [{"key": "/works/OL16594123W"}]}, {"identifiers": {"goodreads": ["670155"], "librarything": ["124663"]}, "subtitle": "a novel", "covers": [6708441, 6708439, 6694594], "latest_revision": 10, "ocaid": "clovernovel00sand", "source_records": ["ia:clovernovel00sand"], "title": "Clover", "languages": [{"key": "/languages/eng"}], "publish_country": "xxu", "by_statement": "by Dori Sanders.", "type": {"key": "/type/edition"}, "revision": 10, "publishers": ["Fawcett Columbine"], "ia_box_id": ["IA117517"], "last_modified": {"type": "/type/datetime", "value": "2012-04-06T07:29:33.724150"}, "key": "/books/OL21443990M", "authors": [{"key": "/authors/OL5565023A"}], "publish_places": ["New York"], "pagination": "183p.", "created": {"type": "/type/datetime", "value": "2008-11-02T15:33:51.618431"}, "number_of_pages": 183, "isbn_10": ["0449906248"], "publish_date": "1991", "works": [{"key": "/works/OL12542373W"}]}, {"identifiers": {"goodreads": ["1094588"], "librarything": ["1279584"]}, "subtitle": "a lament", "subject_place": ["England"], "covers": [223208], "ia_loaded_id": ["manormangolament00ellm"], "lc_classifications": ["PR6055.L54 M3 1998"], "latest_revision": 8, "ocaid": "manormangolament00ellm", "edition_name": "1st American ed.", "source_records": ["ia:manormangolament00ellm"], "title": "Man or mango?", "languages": [{"key": "/languages/eng"}], "subjects": ["Women musicians -- Fiction.", "Violoncellists -- Fiction.", "Loneliness -- Fiction.", "England -- Fiction."], "publish_country": "nyu", "by_statement": "by Lucy Ellmann.", "oclc_numbers": ["38055993"], "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Farrar, Straus, and Giroux"], "ia_box_id": ["IA170801"], "last_modified": {"type": "/type/datetime", "value": "2012-02-24T03:56:43.405684"}, "key": "/books/OL702541M", "authors": [{"key": "/authors/OL22424A"}], "publish_places": ["New York"], "pagination": "239, [1] p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. 237-[240])."}, "number_of_pages": 239, "lccn": ["97051544"], "isbn_10": ["0374202281"], "publish_date": "1998", "works": [{"key": "/works/OL14864499W"}]}, {"identifiers": {"librarything": ["189700"], "goodreads": ["542635"]}, "subtitle": "art, money, and ego in the making of Heaven's gate, the film that sank United Artists", "covers": [779181], "lc_classifications": ["PN1997.H4153 B3 1999"], "latest_revision": 9, "ocaid": "finalcutartmoney00bach", "edition_name": "Updated ed.", "source_records": ["marc:marc_records_scriblio_net/part28.dat:10427284:657", "ia:finalcutartmoney00bach", "ia:finalcutartmoney00bach", "marc:marc_loc_updates/v40.i08.records.utf8:4917764:874"], "title": "Final cut", "languages": [{"key": "/languages/eng"}], "subjects": ["Heaven's gate (Motion picture)"], "publish_country": "nyu", "by_statement": "Steven Bach.", "type": {"key": "/type/edition"}, "revision": 9, "publishers": ["Newmarket Press"], "ia_box_id": ["IA137110"], "last_modified": {"type": "/type/datetime", "value": "2012-02-22T07:41:28.345229"}, "key": "/books/OL41800M", "authors": [{"key": "/authors/OL27274A"}], "publish_places": ["New York"], "pagination": "432 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["791.43/72"], "notes": {"type": "/type/text", "value": "Includes index."}, "number_of_pages": 432, "lccn": ["99034001"], "isbn_10": ["1557043744"], "publish_date": "1999", "works": [{"key": "/works/OL467041W"}]}, {"identifiers": {"goodreads": ["1375588"], "librarything": ["747582"]}, "covers": [7063701], "ia_loaded_id": ["skeletoninwaitin00dick"], "latest_revision": 8, "ocaid": "skeletoninwaitin00dick", "source_records": ["marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:45593380:760", "ia:skeletoninwaitin00dick"], "title": "Skeleton-in-waiting", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "by Peter Dickinson.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Pantheon Books"], "ia_box_id": ["IA171001"], "last_modified": {"type": "/type/datetime", "value": "2012-02-16T09:28:08.960944"}, "key": "/books/OL23260347M", "authors": [{"key": "/authors/OL2490848A"}], "publish_places": ["New York"], "pagination": "154p.", "created": {"type": "/type/datetime", "value": "2009-05-29T15:16:49.688681"}, "notes": {"type": "/type/text", "value": "129,974"}, "number_of_pages": 154, "isbn_10": ["0394580028"], "publish_date": "1989", "works": [{"key": "/works/OL1858365W"}]}, {"identifiers": {"librarything": ["404392"], "goodreads": ["239329"]}, "subtitle": "the Watsons completed", "subject_place": ["England"], "covers": [173872], "ia_loaded_id": ["emmawatsonwatson00aike"], "lc_classifications": ["PR6051.I35 E47 1996"], "latest_revision": 7, "ocaid": "emmawatsonwatson00aike", "contributions": ["Austen, Jane, 1775-1817."], "edition_name": "1st U.S. ed.", "source_records": ["ia:emmawatsonwatson00aike"], "title": "Emma Watson", "languages": [{"key": "/languages/eng"}], "subjects": ["England -- Fiction."], "publish_country": "nyu", "by_statement": "Joan Aiken.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["St. Martin's Press"], "ia_box_id": ["IA171601"], "last_modified": {"type": "/type/datetime", "value": "2012-02-14T10:49:11.807210"}, "key": "/books/OL983871M", "authors": [{"key": "/authors/OL20651A"}], "publish_places": ["New York"], "pagination": "221 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Completion of The Watsons, an unfinished novel by J. Austen."}, "number_of_pages": 221, "lccn": ["96021595"], "isbn_10": ["0312145934"], "publish_date": "1996", "works": [{"key": "/works/OL14851422W"}]}, {"isbn_invalid": ["0449210111"], "covers": [6541960], "latest_revision": 4, "ocaid": "mrspollifaxonsaf00gilm", "genres": ["Fiction."], "source_records": ["ia:mrspollifaxonsaf00gilm"], "title": "Mrs. Pollifax on safari", "subjects": ["Pollifax, Emily (Fictitious character) -- Fiction.", "Intelligence service -- United States -- Fiction.", "Women spies -- United States -- Fiction."], "publish_country": "nyu", "by_statement": "Dorothy Gilman.", "oclc_numbers": ["42282437"], "type": {"key": "/type/edition"}, "revision": 4, "publishers": ["Fawcett Crest"], "ia_box_id": ["IA119804"], "last_modified": {"type": "/type/datetime", "value": "2012-01-27T00:53:33.952067"}, "key": "/books/OL24282971M", "authors": [{"key": "/authors/OL26402A"}], "publish_places": ["New York"], "pagination": "223 p. ;", "created": {"type": "/type/datetime", "value": "2010-06-22T18:52:54.263401"}, "number_of_pages": 223, "publish_date": "1991", "works": [{"key": "/works/OL16476751W"}]}, {"identifiers": {"librarything": ["212933"], "goodreads": ["703587"]}, "subtitle": "a history of mothers, infants, and natural selection", "covers": [7016154], "latest_revision": 10, "ocaid": "mothernaturehist00hrdy", "source_records": ["marc:marc_laurentian/openlibrary.mrc:623766822:1009", "marc:marc_ithaca_college/ic_marc.mrc:168063242:1627", "ia:mothernaturehist00hrdy"], "title": "Mother nature", "edition_name": "1st ed.", "subjects": ["Mother and child", "Motherhood -- Psychological aspects", "Natural selection", "Parental behavior in animals", "Working mothers"], "by_statement": "Sarah Blaffer Hrdy.", "type": {"key": "/type/edition"}, "revision": 10, "ia_box_id": ["IA128415"], "last_modified": {"type": "/type/datetime", "value": "2012-01-26T04:26:00.396079"}, "key": "/books/OL22128818M", "authors": [{"key": "/authors/OL19977A"}], "publish_places": ["New York"], "pagination": "xix, 723 p. : ill. (some col.) ; 25 cm.", "created": {"type": "/type/datetime", "value": "2008-11-07T05:55:26.942173"}, "lccn": ["99013092"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. 603-690) and index.\n\n6"}, "number_of_pages": 723, "isbn_10": ["0679442650"], "works": [{"key": "/works/OL81346W"}]}, {"identifiers": {}, "covers": [6660535, -1], "lc_classifications": ["NC242.S47A28"], "latest_revision": 6, "ocaid": "drawnfromlife00shep", "source_records": ["ia:drawnfromlife00shep"], "title": "Drawn from life", "languages": [{"key": "/languages/eng"}], "publish_country": "enk", "oclc_numbers": ["1376590"], "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Methuen"], "ia_box_id": ["IA127211"], "last_modified": {"type": "/type/datetime", "value": "2012-01-20T06:32:03.289321"}, "key": "/books/OL24401637M", "authors": [{"key": "/authors/OL464132A"}], "publish_places": ["London"], "pagination": "217 p.", "classifications": {}, "created": {"type": "/type/datetime", "value": "2010-10-29T23:39:37.658279"}, "lccn": ["62002541"], "notes": "Autobiography.", "number_of_pages": 217, "dewey_decimal_class": ["927.41"], "publish_date": "1961", "works": [{"key": "/works/OL3017272W"}]}, {"number_of_pages": 424, "subtitle": "the uncensored oral history of punk", "covers": [568264], "lc_classifications": ["ML3534 .P624 1996"], "latest_revision": 7, "ocaid": "pleasekillmeunce00mcne", "contributions": ["McNeil, Legs.", "McCain, Gillian."], "edition_name": "1st ed.", "genres": ["Interviews."], "source_records": ["ia:pleasekillmeunce00mcne"], "title": "Please kill me", "languages": [{"key": "/languages/eng"}], "subjects": ["Punk rock music -- History and criticism.", "Punk rock musicians -- Interviews.", "Punk culture."], "publish_country": "nyu", "by_statement": "Legs McNeil and Gillian McCain, [editors].", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Grove Press"], "ia_box_id": ["IA136211"], "last_modified": {"type": "/type/datetime", "value": "2012-01-14T11:18:31.226697"}, "key": "/books/OL812604M", "authors": [{"key": "/authors/OL224425A"}, {"key": "/authors/OL2658181A"}], "publish_places": ["New York"], "pagination": "xvi, 424 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["781.66"], "identifiers": {"goodreads": ["1151512"], "librarything": ["80588"]}, "lccn": ["95049841"], "isbn_10": ["0802115888"], "publish_date": "1996", "works": [{"key": "/works/OL16072264W"}]}, {"identifiers": {"librarything": ["2912216"], "goodreads": ["849348"]}, "subtitle": "A Novel (Contemporary American Fiction)", "weight": "8 ounces", "covers": [7006249], "latest_revision": 6, "ocaid": "anagramsnovel00moor", "isbn_13": ["9780140103281"], "source_records": ["ia:anagramsnovel00moor"], "title": "Anagrams", "languages": [{"key": "/languages/eng"}], "subjects": ["Novels, other prose & writers", "Women", "Sale Adult - History - Military / War", "Fiction", "General", "Fiction / General", "Sale Books"], "type": {"key": "/type/edition"}, "physical_dimensions": "7 x 5 x 1 inches", "revision": 6, "publishers": ["Penguin (Non-Classics)"], "ia_box_id": ["IA141817"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2012-01-11T01:09:19.323220"}, "key": "/books/OL9302324M", "authors": [{"key": "/authors/OL27870A"}], "created": {"type": "/type/datetime", "value": "2008-04-30T09:38:13.731961"}, "number_of_pages": 240, "first_sentence": {"type": "/type/text", "value": "GERARD MAINES LIVED ACROSS THE HALL from a woman named Benna, who four minutes into any conversation always managed to say the word penis."}, "isbn_10": ["0140103287"], "publish_date": "October 6, 1987", "works": [{"key": "/works/OL14937758W"}]}, {"subtitle": "cartoons about parents and children", "covers": [545449], "ia_loaded_id": ["childproofcartoo00chas"], "lc_classifications": ["NC1429.C525 A4 1997"], "latest_revision": 8, "ocaid": "childproofcartoo00chas", "edition_name": "1st ed.", "source_records": ["ia:childproofcartoo00chas"], "title": "Childproof", "languages": [{"key": "/languages/eng"}], "subjects": ["Parent and child -- Caricatures and cartoons.", "American wit and humor, Pictorial."], "publish_country": "nyu", "by_statement": "Roz Chast.", "oclc_numbers": ["36315825"], "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Hyperion"], "ia_box_id": ["IA152601"], "last_modified": {"type": "/type/datetime", "value": "2012-01-09T02:57:58.685718"}, "key": "/books/OL656019M", "authors": [{"key": "/authors/OL381701A"}], "publish_places": ["New York"], "pagination": "1 v. (unpaged) :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["741.5/973"], "identifiers": {"goodreads": ["201835"], "librarything": ["490970"]}, "lccn": ["97001081"], "isbn_10": ["0786862440"], "publish_date": "1997", "works": [{"key": "/works/OL2620193W"}]}, {"identifiers": {"goodreads": ["564984"], "librarything": ["309100"]}, "subtitle": "a biography", "covers": [579852], "lc_classifications": ["PS3531.O936 Z46 1998"], "latest_revision": 8, "ocaid": "dawnpowellbiogr00page", "subject_time": ["20th century"], "edition_name": "1st ed.", "source_records": ["ia:dawnpowellbiogr00page"], "title": "Dawn Powell", "languages": [{"key": "/languages/eng"}], "subjects": ["Powell, Dawn", "Authors, American -- 20th century -- Biography"], "publish_country": "nyu", "by_statement": "Tim Page.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Henry Holt"], "ia_box_id": ["IA129107"], "last_modified": {"type": "/type/datetime", "value": "2012-01-08T21:42:44.964904"}, "key": "/books/OL359884M", "authors": [{"key": "/authors/OL225551A"}], "publish_places": ["New York"], "pagination": "xv, 362 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.52", "B"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. [337]-346) and index."}, "number_of_pages": 362, "lccn": ["98019907"], "isbn_10": ["080505068X"], "publish_date": "1998", "works": [{"key": "/works/OL1884198W"}]}, {"identifiers": {"librarything": ["74577"], "goodreads": ["941747"]}, "subject_place": ["New England"], "covers": [291141], "ia_loaded_id": ["mountmisery00shem"], "lc_classifications": ["PS3569.H39374 M68 1997"], "latest_revision": 8, "ocaid": "mountmisery00shem", "uri_descriptions": ["Contributor biographical information", "Publisher description"], "languages": [{"key": "/languages/eng"}], "source_records": ["ia:mountmisery00shem"], "title": "Mount Misery", "edition_name": "1st. ed.", "subjects": ["Psychiatrists -- Fiction.", "Psychiatric hospitals -- Fiction.", "New England -- Fiction."], "publish_country": "nyu", "by_statement": "Samuel Shem.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/bios/random057/96045629.html", "http://www.loc.gov/catdir/description/random0412/96045629.html"], "revision": 8, "publishers": ["Fawcett Columbine"], "ia_box_id": ["IA112906"], "last_modified": {"type": "/type/datetime", "value": "2012-01-03T16:46:36.886209"}, "key": "/books/OL1005828M", "authors": [{"key": "/authors/OL225606A"}], "publish_places": ["New York"], "lccn": ["96045629"], "pagination": "436 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 436, "url": ["http://www.loc.gov/catdir/bios/random057/96045629.html", "http://www.loc.gov/catdir/description/random0412/96045629.html"], "isbn_10": ["0449911187"], "publish_date": "1997", "works": [{"key": "/works/OL1884678W"}]}, {"identifiers": {"goodreads": ["118371"], "librarything": ["29143"]}, "subtitle": "A Love Story, Berlin 1943", "weight": "12 ounces", "covers": [775485], "ia_loaded_id": ["aimeejaguarlove00fisc"], "latest_revision": 8, "ocaid": "aimeejaguarlove00fisc", "source_records": ["ia:aimeejaguarlove00fisc"], "title": "Aim\u00e9e & Jaguar", "languages": [{"key": "/languages/eng"}], "subjects": ["Holocaust", "Schragenheim, Felice,", "Germany", "Biography", "Specific Groups - Lesbians", "Social Science", "Biography / Autobiography", "Lesbian Studies", "Gay/Lesbian Nonfiction", "Holocaust, Jewish (1939-1945)", "Historical - General", "Schragenheim, Felice", "Social Science / Lesbian Studies", "Berlin (Germany)", "Wust, Elisabeth", "1922-1944?", "Berlin"], "type": {"key": "/type/edition"}, "physical_dimensions": "8.8 x 5.5 x 0.8 inches", "revision": 8, "publishers": ["Alyson Publications"], "ia_box_id": ["IA142013"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2011-12-31T23:46:35.236192"}, "key": "/books/OL8575283M", "authors": [{"key": "/authors/OL229259A"}], "created": {"type": "/type/datetime", "value": "2008-04-30T06:33:27.187047"}, "number_of_pages": 276, "isbn_13": ["9781555834500"], "isbn_10": ["1555834507"], "publish_date": "October 1998", "works": [{"key": "/works/OL1913934W"}]}, {"number_of_pages": 171, "subject_place": ["Venice (Italy)", "Italy"], "covers": [6994902], "ia_loaded_id": ["pippapasses00godd"], "lc_classifications": ["PR6013.O2 P5 1994"], "latest_revision": 7, "ocaid": "pippapasses00godd", "edition_name": "1st U.S. ed.", "source_records": ["ia:pippapasses00godd"], "title": "Pippa passes", "languages": [{"key": "/languages/eng"}], "subjects": ["British -- Italy -- Fiction.", "Ballet dancers -- Fiction.", "Young women -- Fiction.", "Venice (Italy) -- Fiction."], "publish_country": "nyu", "by_statement": "Rumer Godden.", "oclc_numbers": ["30545012"], "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["W. Morrow"], "ia_box_id": ["IA142123"], "last_modified": {"type": "/type/datetime", "value": "2011-12-21T17:21:09.822315"}, "key": "/books/OL1093915M", "authors": [{"key": "/authors/OL218707A"}], "publish_places": ["New York"], "pagination": "xiii, 171 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.912"], "identifiers": {"librarything": ["146602"], "goodreads": ["1598385"]}, "lccn": ["94018336"], "isbn_10": ["0688133975"], "publish_date": "1994", "works": [{"key": "/works/OL1825423W"}]}, {"number_of_pages": 352, "covers": [6993412], "ia_loaded_id": ["sendfaxtokasbah00dunn"], "lc_classifications": ["PR6054.U56 S46 1992"], "latest_revision": 6, "ocaid": "sendfaxtokasbah00dunn", "edition_name": "1st ed.", "source_records": ["ia:sendfaxtokasbah00dunn"], "title": "Send a fax to the Kasbah", "languages": [{"key": "/languages/eng"}], "subjects": ["Big business -- Fiction."], "publish_country": "cau", "by_statement": "by Dorothy Dunnett.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Harcourt Brace Jovanovich"], "ia_box_id": ["IA142108"], "last_modified": {"type": "/type/datetime", "value": "2011-12-20T02:28:56.932577"}, "key": "/books/OL1548139M", "authors": [{"key": "/authors/OL41442A"}, {"key": "/authors/OL6924786A"}], "publish_places": ["New York"], "pagination": "352 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Originally published: Moroccan traffic. Chatto & Windus, 1991."}, "identifiers": {"goodreads": ["360466"], "librarything": ["539888"]}, "lccn": ["91027586"], "isbn_10": ["0151808120"], "publish_date": "1992", "work_title": ["Moroccan traffic"], "works": [{"key": "/works/OL568616W"}]}, {"identifiers": {"goodreads": ["2128425"], "librarything": ["446757"]}, "subtitle": "a novel", "subject_place": ["England"], "covers": [803251], "ia_loaded_id": ["lambinlovenovel00brow"], "lc_classifications": ["PS3552.R68529 L36 1999"], "latest_revision": 8, "ocaid": "lambinlovenovel00brow", "edition_name": "1st ed.", "genres": ["Fiction."], "source_records": ["marc:marc_records_scriblio_net/part27.dat:92712768:802", "marc:marc_loc_updates/v35.i19.records.utf8:3852750:903", "ia:lambinlovenovel00brow"], "title": "Lamb in love", "languages": [{"key": "/languages/eng"}], "subjects": ["Villages -- Fiction", "Courtship -- Fiction", "Middle-aged persons -- Fiction", "Brain damaged children -- Fiction", "England -- Fiction"], "publish_country": "ncu", "by_statement": "by Carrie Brown.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Algonquin Books of Chapel Hill"], "ia_box_id": ["IA142114"], "last_modified": {"type": "/type/datetime", "value": "2011-12-18T22:45:57.749735"}, "key": "/books/OL382200M", "authors": [{"key": "/authors/OL23339A"}], "publish_places": ["Chapel Hill, N.C"], "pagination": "336 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 336, "lccn": ["98044580"], "isbn_10": ["1565122038"], "publish_date": "1999", "works": [{"key": "/works/OL17661W"}]}, {"covers": [6982229], "ia_loaded_id": ["floatingworld00kado"], "lc_classifications": ["PS3561.A3615 F5 1991"], "latest_revision": 3, "ocaid": "floatingworld00kado", "edition_name": "1st Ballantine Books ed.", "source_records": ["ia:floatingworld00kado"], "title": "The floating world", "languages": [{"key": "/languages/eng"}], "subjects": ["Japanese Americans", "Fiction", "Protected DAISY", "Accessible book"], "publish_country": "nyu", "by_statement": "cynthia Kadohata", "oclc_numbers": ["23685984"], "type": {"key": "/type/edition"}, "revision": 3, "publishers": ["Ballantine Books"], "ia_box_id": ["IA108122"], "full_title": "The floating world", "last_modified": {"type": "/type/datetime", "value": "2011-12-13T07:35:54.622392"}, "key": "/books/OL24946071M", "authors": [{"key": "/authors/OL539060A"}], "publish_places": ["New York"], "pagination": "161 p. ;", "created": {"type": "/type/datetime", "value": "2011-08-09T01:34:14.119322"}, "lccn": ["88040481"], "number_of_pages": 161, "isbn_13": ["9780345367563"], "dewey_decimal_class": ["813/.54"], "isbn_10": ["0345367561"], "publish_date": "1991", "copyright_date": "1989", "works": [{"key": "/works/OL16045239W"}]}, {"number_of_pages": 350, "covers": [4273561], "ia_loaded_id": ["fevredream00mart"], "lc_classifications": ["PS3563.A7239 F4 1982"], "latest_revision": 10, "ocaid": "fevredream00mart", "source_records": ["ia:fevredream00mart"], "title": "Fevre dream", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "George R.R. Martin.", "oclc_numbers": ["8475428"], "type": {"key": "/type/edition"}, "revision": 10, "publishers": ["Poseidon Press"], "ia_box_id": ["IA123416"], "last_modified": {"type": "/type/datetime", "value": "2011-12-07T08:25:34.377382"}, "key": "/books/OL3488071M", "authors": [{"key": "/authors/OL2621846A"}], "publish_places": ["New York"], "pagination": "350 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "identifiers": {"goodreads": ["13500"], "librarything": ["99368"]}, "lccn": ["82007711"], "isbn_10": ["067145577X"], "publish_date": "1982", "works": [{"key": "/works/OL1955940W"}]}, {"identifiers": {"goodreads": ["537336"], "librarything": ["25551"]}, "subtitle": "a novel", "covers": [4673023], "latest_revision": 6, "ocaid": "inconvenientwomadunn00dunn", "source_records": ["marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:45728760:680", "ia:inconvenientwomadunn00dunn"], "title": "An inconvenient woman", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "by Dominick Dunne.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Crown Publishers"], "ia_box_id": ["IA118818"], "last_modified": {"type": "/type/datetime", "value": "2011-12-07T03:23:15.931049"}, "key": "/books/OL20934486M", "authors": [{"key": "/authors/OL21565A"}], "publish_places": ["New York"], "pagination": "458p.", "created": {"type": "/type/datetime", "value": "2008-10-31T00:11:07.207410"}, "notes": {"type": "/type/text", "value": "130,710"}, "number_of_pages": 458, "isbn_10": ["0553289063"], "publish_date": "1990", "works": [{"key": "/works/OL66303W"}]}, {"number_of_pages": 116, "covers": [6976395], "lc_classifications": ["PZ3.T6184  Can7 ", "PS3539.O478 Can7 "], "latest_revision": 5, "ocaid": "cane00toom", "source_records": ["marc:marc_oregon_summit_records/catalog_files/pcc_bibs.mrc_rev.mrc:76781097:677", "ia:cane00toom"], "title": "Cane", "by_statement": "Jean Toomer ; with an introd. by Darwin T. Turner.", "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Liveright"], "ia_box_id": ["IA123416"], "last_modified": {"type": "/type/datetime", "value": "2011-12-07T02:38:51.033892"}, "key": "/books/OL18354221M", "authors": [{"key": "/authors/OL30968A"}], "publish_places": ["New York"], "pagination": "xxv, 116 p. ; ", "created": {"type": "/type/datetime", "value": "2008-10-16T08:47:58.881055"}, "dewey_decimal_class": ["813/.5/2"], "identifiers": {"goodreads": ["195517", "1350633"], "librarything": ["9096647"]}, "lccn": ["75-15630"], "isbn_10": ["087140611X", "0871401045"], "works": [{"key": "/works/OL49843W"}]}, {"number_of_pages": 448, "subject_place": ["Bactria", "Afghanistan"], "covers": [4034307], "ia_loaded_id": ["horsesofheaven00brad"], "lc_classifications": ["PS3552.R235 H6 1991"], "latest_revision": 7, "ocaid": "horsesofheaven00brad", "edition_name": "1st ed.", "source_records": ["ia:horsesofheaven00brad"], "title": "Horses of heaven", "languages": [{"key": "/languages/eng"}], "subjects": ["Bactria -- Fiction.", "Afghanistan -- Fiction."], "publish_country": "nyu", "by_statement": "Gillian Bradshaw.", "oclc_numbers": ["22181440"], "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Doubleday"], "ia_box_id": ["IA140507"], "last_modified": {"type": "/type/datetime", "value": "2011-11-20T15:12:50.748960"}, "key": "/books/OL1882360M", "authors": [{"key": "/authors/OL39841A"}], "publish_places": ["New York, N.Y"], "pagination": "viii, 448 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "identifiers": {"librarything": ["514254"], "goodreads": ["771729"]}, "lccn": ["90043095"], "isbn_10": ["0385414668"], "publish_date": "1991", "works": [{"key": "/works/OL16069764W"}]}, {"number_of_pages": 329, "series": ["Doubleday anchor books,", "A159"], "covers": [6492648], "lc_classifications": ["PZ3.T783 Dr3"], "latest_revision": 10, "ocaid": "dreamofredchambe00caoxrich", "contributions": ["Wang, Chi-Chen, 1899-"], "subject_time": ["Qing dynasty, 1644-1912"], "genres": ["Fiction."], "source_records": ["ia:dreamofredchambe00caoxrich"], "title": "Dream of the red chamber", "work_titles": ["Hong lou meng."], "languages": [{"key": "/languages/eng"}], "subjects": ["Cao, Xueqin, ca. 1717-1763 -- Fiction.", "Jia, Baoyu (Fictitious character) -- Fiction.", "China -- History -- Qing dynasty, 1644-1912 -- Fiction."], "publish_country": "nyu", "subject_place": ["China"], "by_statement": "[By] Ts'ao Hsueh-chin. Translated and adapted from the Chinese by Chi-chen Wang. With a preface by Mark Van Doren", "oclc_numbers": ["4660888"], "type": {"key": "/type/edition"}, "revision": 10, "publishers": ["Doubleday"], "ia_box_id": ["IA105117"], "last_modified": {"type": "/type/datetime", "value": "2011-11-15T22:08:10.936525"}, "key": "/books/OL6251302M", "authors": [{"key": "/authors/OL6786997A"}], "publish_places": ["Garden City, N.Y"], "pagination": "xx, 329 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["58013296"], "notes": {"type": "/type/text", "value": "Translation of: Hong lou meng.\n\nAbridged Anchor books edition."}, "identifiers": {"librarything": ["192811"]}, "publish_date": "1958", "work_title": ["Hong lou meng."], "works": [{"key": "/works/OL16280308W"}]}, {"number_of_pages": 274, "subtitle": "the case for feminist revolution", "series": ["Morrow paperback editions"], "covers": [6964453], "ia_loaded_id": ["dialecticofsexth00fire"], "lc_classifications": ["HQ1426 .F68"], "latest_revision": 6, "ocaid": "dialecticofsexth00fire", "source_records": ["ia:dialecticofsexth00fire"], "title": "The dialectic of sex", "languages": [{"key": "/languages/eng"}], "subjects": ["Feminism -- United States.", "Women -- History.", "Women's rights."], "publish_country": "nyu", "by_statement": "Shulamith Firestone.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Morrow"], "ia_box_id": ["IA145213"], "last_modified": {"type": "/type/datetime", "value": "2011-11-12T08:38:46.709309"}, "key": "/books/OL20631724M", "authors": [{"key": "/authors/OL1652010A"}], "publish_places": ["New York"], "pagination": "274 p. :", "created": {"type": "/type/datetime", "value": "2008-10-29T05:58:44.167517"}, "dewey_decimal_class": ["301.41/2"], "identifiers": {"librarything": ["61105"], "goodreads": ["3816512"]}, "isbn_10": ["068806454X"], "publish_date": "1974", "works": [{"key": "/works/OL6320689W"}]}, {"number_of_pages": 167, "subject_place": ["United States"], "covers": [636070, 636069], "lc_classifications": ["NC1429.L32 A4 1993b"], "latest_revision": 12, "ocaid": "farsidegallery400lars", "source_records": ["marc:marc_records_scriblio_net/part23.dat:135794217:925", "marc:marc_loc_updates/v35.i23.records.utf8:4113791:1016", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:23228041:1223", "ia:farsidegallery400lars"], "title": "The far side gallery 4", "languages": [{"key": "/languages/eng"}], "subjects": ["American wit and humor, Pictorial", "Caricatures and cartoons -- United States -- History", "Comic books, strips, etc"], "publish_country": "mou", "by_statement": "by Gary Larson.", "oclc_numbers": ["28958976"], "type": {"key": "/type/edition"}, "physical_dimensions": "10 3/4 x 8 1/2 x 3/8 inches", "revision": 12, "other_titles": ["Far side gallery four.", "Far side."], "publishers": ["Andrews and McMeel"], "ia_box_id": ["IA101009"], "physical_format": "Paperback", "last_modified": {"type": "/type/datetime", "value": "2011-10-15T17:54:21.534887"}, "key": "/books/OL1439858M", "authors": [{"key": "/authors/OL221211A"}], "publish_places": ["Kansas City, Mo"], "pagination": "167 p. :", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["93071009"], "identifiers": {"goodreads": ["233692", "6432183"], "librarything": ["2948"]}, "dewey_decimal_class": ["741.5/973"], "isbn_10": ["0836217241", "0836217268"], "publish_date": "1993", "work_title": ["Far side."], "works": [{"key": "/works/OL1848048W"}]}, {"identifiers": {"librarything": ["117934"], "goodreads": ["1624662"]}, "subject_place": ["Great Britain"], "covers": [6937484], "lc_classifications": ["PR6001.C4 Z468 1987"], "latest_revision": 8, "ocaid": "mydogtulip00acke", "subject_time": ["20th century"], "source_records": ["marc:marc_records_scriblio_net/part18.dat:159770944:870", "ia:mydogtulip00acke", "ia:mydogtulip00acke"], "title": "My dog Tulip", "languages": [{"key": "/languages/eng"}], "subjects": ["Ackerley, J. R. 1896-1967", "Authors, English -- 20th century -- Biography", "Dog owners -- Great Britain -- Biography", "German shepherd dog -- Anecdotes", "Dogs -- Great Britain -- Anecdotes"], "publish_country": "nyu", "by_statement": "J.R. Ackerley.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Poseidon"], "ia_box_id": ["IA137101"], "last_modified": {"type": "/type/datetime", "value": "2011-10-04T17:50:07.046037"}, "key": "/books/OL2726655M", "authors": [{"key": "/authors/OL20508A"}], "publish_places": ["New York"], "pagination": "160 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["828/.91203", "B"], "notes": {"type": "/type/text", "value": "Reprint. Originally published: New York : Fleet, 1965."}, "number_of_pages": 160, "lccn": ["86020474"], "isbn_10": ["0671634712"], "publish_date": "1987", "works": [{"key": "/works/OL112628W"}]}, {"number_of_pages": 279, "subject_place": ["London (England)", "England"], "covers": [6917181], "lc_classifications": ["PR6063.O17 S6 1985"], "latest_revision": 6, "ocaid": "soursweet00moti", "edition_name": "1st American ed.", "source_records": ["ia:soursweet00moti"], "title": "Sour sweet", "languages": [{"key": "/languages/eng"}], "subjects": ["Chinese -- England -- Fiction.", "Drug traffic -- Fiction.", "Restaurateurs -- Fiction.", "Restaurants -- Fiction.", "London (England) -- Fiction."], "publish_country": "nyu", "series": ["Aventura"], "by_statement": "Timothy Mo.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Vintage Books"], "ia_box_id": ["IA122607"], "last_modified": {"type": "/type/datetime", "value": "2011-10-04T14:45:32.010756"}, "key": "/books/OL2867134M", "authors": [{"key": "/authors/OL813806A"}], "publish_places": ["New York"], "pagination": "279 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Reprint. Originally published: London : Sphere Books, 1982."}, "identifiers": {"goodreads": ["201720"], "librarything": ["155668"]}, "lccn": ["84040702"], "isbn_10": ["039473680X"], "publish_date": "1985", "works": [{"key": "/works/OL4239009W"}]}, {"number_of_pages": 222, "covers": [717538], "ia_loaded_id": ["lollywillowesorl00warn"], "lc_classifications": ["PR6045.A812 L65 1999"], "latest_revision": 9, "ocaid": "lollywillowesorl00warn", "source_records": ["marc:marc_records_scriblio_net/part28.dat:2146202:645", "marc:marc_ithaca_college/ic_marc.mrc:218567510:871", "ia:lollywillowesorl00warn"], "title": "Lolly Willowes, or, The loving huntsman", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Sylvia Townsend Warner ; introduction by Alison Lurie.", "oclc_numbers": ["40939945"], "type": {"key": "/type/edition"}, "revision": 9, "other_titles": ["Lolly Willowes", "Loving huntsman"], "publishers": ["New York Review Books"], "ia_box_id": ["IA140010"], "last_modified": {"type": "/type/datetime", "value": "2011-09-18T05:15:35.919737"}, "key": "/books/OL32683M", "authors": [{"key": "/authors/OL20510A"}], "publish_places": ["New York"], "pagination": "xiii, 222 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.912"], "identifiers": {"librarything": ["30288"], "goodreads": ["937105"]}, "lccn": ["99014569"], "isbn_10": ["0940322161"], "publish_date": "1999", "works": [{"key": "/works/OL112775W"}]}, {"number_of_pages": 225, "subject_place": ["New York (N.Y.)", "New York (State)", "New York"], "covers": [3913453], "ia_loaded_id": ["educationofoscar00auch"], "lc_classifications": ["PS3501.U25 E3 1995"], "latest_revision": 8, "ocaid": "educationofoscar00auch", "source_records": ["marc:marc_records_scriblio_net/part24.dat:216330793:782", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:15395739:996", "marc:marc_loc_updates/v35.i25.records.utf8:3521580:873", "ia:educationofoscar00auch"], "title": "The education of Oscar Fairfax", "languages": [{"key": "/languages/eng"}], "subjects": ["Lawyers -- New York (State) -- New York -- Fiction", "New York (N.Y.) -- Fiction"], "publish_country": "mau", "by_statement": "Louis Auchincloss.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Houghton Mifflin"], "ia_box_id": ["IA140023"], "last_modified": {"type": "/type/datetime", "value": "2011-09-14T12:20:37.999248"}, "key": "/books/OL1278050M", "authors": [{"key": "/authors/OL21968A"}, {"key": "/authors/OL5017965A"}], "publish_places": ["Boston"], "pagination": "225 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "identifiers": {"librarything": ["222361"], "goodreads": ["1790923"]}, "lccn": ["95009780"], "isbn_10": ["0395739187"], "publish_date": "1995", "works": [{"key": "/works/OL16069217W"}]}, {"identifiers": {"librarything": ["21223"], "goodreads": ["883268"]}, "covers": [6921478], "lc_classifications": ["PZ4.L518 Lat", "PS3562.E42 Lat"], "latest_revision": 6, "ocaid": "latheofheaven00legu", "genres": ["Fiction."], "source_records": ["marc:marc_records_scriblio_net/part10.dat:46104670:554", "ia:latheofheaven00legu"], "title": "The  lathe of heaven", "languages": [{"key": "/languages/eng"}], "subjects": ["Dreams -- Fiction"], "publish_country": "nyu", "by_statement": "[by] Ursula K. Le Guin.", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Scribner"], "ia_box_id": ["IA119323"], "last_modified": {"type": "/type/datetime", "value": "2011-09-13T13:29:23.700005"}, "key": "/books/OL4583658M", "authors": [{"key": "/authors/OL31353A"}], "publish_places": ["New York"], "pagination": "184 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.5/4"], "number_of_pages": 184, "lccn": ["77162760"], "isbn_10": ["0684125293"], "publish_date": "1971", "works": [{"key": "/works/OL59858W"}]}, {"identifiers": {"goodreads": ["2883242"], "librarything": ["233398"]}, "subject_place": ["United States"], "covers": [4362193, 6381993], "lc_classifications": ["CT275.J29 S77"], "latest_revision": 13, "ocaid": "alicejamesbiogra00stro", "source_records": ["marc:marc_records_scriblio_net/part12.dat:65282464:687", "marc:marc_ithaca_college/ic_marc.mrc:23546766:727", "marc:marc_upei/marc-for-openlibrary-bigset.mrc:51780460:856", "ia:alicejamesbiogra00stro", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:40740333:859"], "title": "Alice James, a biography", "languages": [{"key": "/languages/eng"}], "subjects": ["James, Alice, 1848-1892", "James family", "United States -- Biography"], "publish_country": "mau", "by_statement": "Jean Strouse.", "type": {"key": "/type/edition"}, "revision": 13, "publishers": ["Houghton Mifflin"], "ia_box_id": ["IA100611"], "last_modified": {"type": "/type/datetime", "value": "2011-08-26T00:41:38.522829"}, "key": "/books/OL4107331M", "authors": [{"key": "/authors/OL2067322A"}], "publish_places": ["Boston"], "pagination": "xv, 367 p., [8] leaves of plates :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["929/.2/0973"], "notes": {"type": "/type/text", "value": "104,259\n\nIncludes bibliographical references and index.\n"}, "number_of_pages": 367, "lccn": ["80022103"], "isbn_10": ["0395277876"], "publish_date": "1980", "works": [{"key": "/works/OL7200410W"}]}, {"number_of_pages": 307, "covers": [223891], "ia_loaded_id": ["houselikelotus00leng"], "lc_classifications": ["PZ7.L5385 Ho 1984"], "latest_revision": 7, "ocaid": "houselikelotus00leng", "ia_box_id": ["IA136506"], "edition_name": "1st ed.", "source_records": ["marc:marc_records_scriblio_net/part17.dat:72240492:851", "ia:houselikelotus00leng"], "title": "A house like a lotus", "languages": [{"key": "/languages/eng"}], "subjects": ["Friendship -- Fiction", "Interpersonal relations -- Fiction"], "publish_country": "nyu", "by_statement": "Madeleine L'Engle.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Farrar, Straus, Giroux"], "description": {"type": "/type/text", "value": "While working at a conference in Cyprus, sixteen-year-old Polly tries to come to terms with the emotionally tumultuous events preceding her arrival on the island and her relationships with old and new friends."}, "last_modified": {"type": "/type/datetime", "value": "2011-08-23T00:21:02.251991"}, "key": "/books/OL2869398M", "authors": [{"key": "/authors/OL28188A"}], "publish_places": ["New York"], "pagination": "307 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["[Fic]"], "identifiers": {"goodreads": ["1582992"], "librarything": ["5662"]}, "lccn": ["84048471"], "isbn_10": ["0374333858"], "publish_date": "1984", "works": [{"key": "/works/OL41483W"}]}, {"subject_place": ["Zambia", "Zambia."], "covers": [1424610], "lc_classifications": ["DT3042 .H64 1998"], "latest_revision": 10, "ocaid": "zambiaholm00holm", "description": {"type": "/type/text", "value": "Describes the geography, history, government, economy, people, lifestyle, religion, language, arts, leisure, festivals, and food of this high plateau country in the interior of Africa."}, "uri_descriptions": ["Book review (H-Net)"], "source_records": ["marc:marc_records_scriblio_net/part26.dat:130477747:951", "marc:marc_loc_updates/v36.i09.records.utf8:4270120:982", "marc:marc_loc_updates/v37.i37.records.utf8:6164939:982", "ia:zambiaholm00holm"], "title": "Zambia", "languages": [{"key": "/languages/eng"}], "subjects": ["Zambia -- Juvenile literature", "Zambia"], "publish_country": "nyu", "series": ["Cultures of the world"], "by_statement": "Timothy Holmes.", "type": {"key": "/type/edition"}, "uris": ["http://www.h-net.org/review/hrev-a0b4i5-aa"], "revision": 10, "publishers": ["Benchmark Books"], "ia_box_id": ["IA133110"], "dewey_decimal_class": ["968.94"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T19:37:41.498744"}, "key": "/books/OL676074M", "authors": [{"key": "/authors/OL391509A"}], "publish_places": ["New York"], "pagination": "p. cm.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "url": ["http://www.h-net.org/review/hrev-a0b4i5-aa"], "notes": {"type": "/type/text", "value": "Includes bibliographical references and index."}, "identifiers": {"librarything": ["4134635"], "goodreads": ["2864089"]}, "lccn": ["97022298"], "isbn_10": ["0761406948"], "publish_date": "1998", "works": [{"key": "/works/OL2681641W"}]}, {"covers": [6575484], "latest_revision": 4, "ocaid": "whiteboyshuffle00beat", "genres": ["Fiction."], "source_records": ["ia:whiteboyshuffle00beat"], "title": "The white boy shuffle", "subjects": ["Young men -- California -- Los Angeles -- Fiction.", "African American families -- California -- Los Angeles -- Fiction.", "African Americans -- California -- Los Angeles -- Fiction.", "African Americans -- Race identity -- Fiction.", "Los Angeles (Calif.) -- Fiction."], "publish_country": "nyu", "by_statement": "Paul Beatty.", "oclc_numbers": ["229331568"], "type": {"key": "/type/edition"}, "revision": 4, "publishers": ["Henry Holt"], "ia_box_id": ["IA100404"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T19:07:39.511912"}, "key": "/books/OL24223863M", "authors": [{"key": "/authors/OL29216A"}], "publish_places": ["New York"], "pagination": "225 p.", "created": {"type": "/type/datetime", "value": "2010-05-05T20:47:19.877000"}, "lccn": ["97009991"], "number_of_pages": 225, "isbn_13": ["9780805053517"], "isbn_10": ["0805053514"], "publish_date": "1996", "works": [{"key": "/works/OL15156183W"}]}, {"identifiers": {"goodreads": ["550199"], "librarything": ["27233"]}, "covers": [93918], "lc_classifications": ["PS3519.A392 W4 1984"], "latest_revision": 7, "ocaid": "wehavealwayslive00jack", "title": "We have always lived in the castle", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Shirley Jackson.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Penguin Books"], "ia_box_id": ["IA115018"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T18:57:18.852689"}, "key": "/books/OL3182278M", "authors": [{"key": "/authors/OL507165A"}], "publish_places": ["New York, N.Y"], "pagination": "214 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 214, "lccn": ["83024960"], "isbn_10": ["0140071075"], "publish_date": "1984", "works": [{"key": "/works/OL3171087W"}]}, {"links": [{"url": "http://www.loc.gov/catdir/samples/hm051/2002510048.html", "title": "Sample text"}, {"url": "http://www.loc.gov/catdir/description/hm022/2002510048.html", "title": "Publisher description"}, {"url": "http://www.loc.gov/catdir/enhancements/fy0736/2002510048-b.html", "title": "Contributor biographical information"}], "covers": [6797794], "lc_classifications": ["PS3554.A934923 V47 2002"], "latest_revision": 2, "ocaid": "versailles00davi", "ia_box_id": ["IA135313"], "source_records": ["ia:versailles00davi"], "title": "Versailles", "languages": [{"key": "/languages/eng"}], "subjects": ["Fiction", "History", "Ch\u00e2teau de Versailles (Versailles, France)", "Queens", "Protected DAISY"], "subject_people": ["Marie Antoinette Queen, consort of Louis XVI, King of France (1755-1793)"], "publish_country": "mau", "by_statement": "Kathryn Davis", "oclc_numbers": ["50200855"], "type": {"key": "/type/edition"}, "revision": 2, "publishers": ["Houghton Mifflin"], "description": {"type": "/type/text", "value": "A fictionalized account of the life of Marie Antoinette follows her through such challenges as her early marriage to the future King Louis XVI, struggles with the expectations of her station, and palace betrayals and politics."}, "full_title": "Versailles", "last_modified": {"type": "/type/datetime", "value": "2011-08-12T18:42:12.101297"}, "key": "/books/OL24744114M", "authors": [{"key": "/authors/OL27777A"}], "publish_places": ["Boston"], "pagination": "206 p. ;", "created": {"type": "/type/datetime", "value": "2011-07-07T19:06:58.818501"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 206, "isbn_13": ["9780618221363"], "lccn": ["2002510048"], "subject_places": ["Versailles (France)", "France"], "isbn_10": ["0618221360"], "publish_date": "2002", "subject_times": ["Louis XVI, 1774-1793"], "works": [{"key": "/works/OL15833833W"}]}, {"identifiers": {"goodreads": ["865978"], "librarything": ["12312"]}, "subtitle": "the story of a marriage", "subject_place": ["United States"], "covers": [6571821], "lc_classifications": ["PS3523.E55 Z476 1988"], "latest_revision": 7, "ocaid": "twopartinvention00leng", "subject_time": ["20th century"], "languages": [{"key": "/languages/eng"}], "source_records": ["marc:marc_records_scriblio_net/part20.dat:33258337:828", "ia:twopartinvention00leng"], "title": "Two-part invention", "edition_name": "1st ed.", "subjects": ["L'Engle, Madeleine -- Marriage", "Franklin, Hugh -- Marriage", "Authors, American -- 20th century -- Biography", "Married people -- United States -- Biography", "Actors -- United States -- Biography"], "publish_country": "nyu", "by_statement": "Madeleine L'Engle.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Farrar, Straus & Giroux"], "ia_box_id": ["IA115717"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T17:22:49.209695"}, "key": "/books/OL2069026M", "authors": [{"key": "/authors/OL28188A"}], "publish_places": ["New York"], "pagination": "231 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 231, "lccn": ["88081547"], "isbn_10": ["0374280207"], "publish_date": "1988", "works": [{"key": "/works/OL41486W"}]}, {"covers": [6853521], "lc_classifications": ["TX737 .T75 1990"], "latest_revision": 2, "ocaid": "travelswithalice1990tril", "source_records": ["ia:travelswithalice1990tril"], "title": "Travels with Alice", "languages": [{"key": "/languages/eng"}], "subjects": ["Voyages and travels", "Dinners and dining", "Protected DAISY"], "publish_country": "nyu", "by_statement": "Calvin Trillin", "oclc_numbers": ["22740473"], "type": {"key": "/type/edition"}, "revision": 2, "publishers": ["Avon Books"], "ia_box_id": ["IA135107"], "full_title": "Travels with Alice", "last_modified": {"type": "/type/datetime", "value": "2011-08-12T17:16:09.170245"}, "key": "/books/OL24830550M", "authors": [{"key": "/authors/OL24287A"}], "publish_places": ["New York"], "pagination": "195 p. ;", "created": {"type": "/type/datetime", "value": "2011-07-26T02:12:28.339880"}, "dewey_decimal_class": ["642"], "number_of_pages": 195, "isbn_13": ["9780380712090"], "isbn_10": ["0380712091"], "publish_date": "1990", "works": [{"key": "/works/OL15924337W"}]}, {"covers": [6569562], "lc_classifications": ["PR6069.T46 T47 1989b"], "latest_revision": 4, "ocaid": "thornyhold00stew", "genres": ["Fiction."], "source_records": ["ia:thornyhold00stew"], "title": "Thornyhold", "subjects": ["Witches -- England -- Fiction.", "Herbalists -- England -- Fiction.", "Wiltshire (England) -- Fiction."], "publish_country": "nyu", "by_statement": "Mary Stewart.", "oclc_numbers": ["20708404"], "type": {"key": "/type/edition"}, "revision": 4, "publishers": ["Ballantine Books"], "ia_box_id": ["IA109724"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T17:00:51.237670"}, "key": "/books/OL24221817M", "authors": [{"key": "/authors/OL216503A"}], "publish_places": ["New York"], "pagination": "289 p. ;", "created": {"type": "/type/datetime", "value": "2010-05-05T18:48:46.445360"}, "number_of_pages": 289, "isbn_13": ["9780449217122"], "isbn_10": ["0449217124"], "publish_date": "1989", "works": [{"key": "/works/OL15154184W"}]}, {"identifiers": {"goodreads": ["441186"], "librarything": ["7318"]}, "subject_place": ["Washington (State)"], "covers": [287883], "lc_classifications": ["PS3551.L35774 R74 1995"], "latest_revision": 8, "ocaid": "reservationblues00alex", "edition_name": "1st Warner Books ed.", "source_records": ["marc:marc_records_scriblio_net/part25.dat:193504253:677", "marc:marc_ithaca_college/ic_marc.mrc:197596947:692", "ia:reservationblues00alex"], "title": "Reservation blues", "languages": [{"key": "/languages/eng"}], "subjects": ["Indian reservations -- Fiction", "Spokane Indians -- Fiction", "Washington (State) -- Fiction"], "publish_country": "nyu", "by_statement": "Sherman Alexie.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Warner Books"], "ia_box_id": ["IA111216"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T15:31:05.643879"}, "key": "/books/OL995238M", "authors": [{"key": "/authors/OL34236A"}], "publish_places": ["New York, NY"], "pagination": "306 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 306, "lccn": ["96033838"], "isbn_10": ["0446672351"], "publish_date": "1995", "works": [{"key": "/works/OL46478W"}]}, {"identifiers": {"librarything": ["19563"]}, "table_of_contents": [{"level": 0, "label": "1", "pagenum": "3", "title": "The President, Mrs., and Derek Robbins"}, {"level": 0, "label": "2", "pagenum": "35", "title": "The Whittakers and Gertrude"}, {"level": 0, "label": "3", "pagenum": "79", "title": "Miss Batterson and Benton"}, {"level": 0, "label": "4", "pagenum": "131", "title": "Constance and the Rosenbaums"}, {"level": 0, "label": "5", "pagenum": "187", "title": "Gertrude and Sidney"}, {"level": 0, "label": "6", "pagenum": "225", "title": "Art Night"}, {"level": 0, "label": "7", "pagenum": "251", "title": "They All Go"}], "lc_classifications": ["PZ4.J37 Pi", "PS3519.A86 Pi"], "latest_revision": 6, "ocaid": "picturesfrominst00jarr", "edition_name": "[1st ed.]", "title": "Pictures from an institution", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "type": {"key": "/type/edition"}, "revision": 6, "publishers": ["Knopf"], "ia_box_id": ["IA111209"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T14:45:29.067783"}, "key": "/books/OL6153031M", "authors": [{"key": "/authors/OL242120A"}], "publish_places": ["New York"], "pagination": "277 p.", "subtitle": "a comedy.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["54005973"], "notes": "A novel.", "number_of_pages": 277, "first_sentence": {"type": "/type/text", "value": "Half the campus was designed by Bottom the Weaver, half by Ludwig Mies van der Rohe; Benton had been endowed with one to begin with, and had smiled and sweated and spoken for the other."}, "publish_date": "1954", "works": [{"key": "/works/OL2010194W"}]}, {"number_of_pages": 274, "subject_place": ["India"], "covers": [4486003], "lc_classifications": ["PZ3.G5422 Pe3", "PR6013.O2 Pe3"], "latest_revision": 7, "ocaid": "peacockspring00godd", "title": "The peacock spring", "languages": [{"key": "/languages/eng"}], "subjects": ["British -- India -- Fiction.", "Fathers and daughters -- Fiction."], "publish_country": "nyu", "by_statement": "by Rumer Godden.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Viking Press"], "ia_box_id": ["IA115511"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T14:39:51.752212"}, "key": "/books/OL5205937M", "authors": [{"key": "/authors/OL218707A"}], "publish_places": ["New York"], "pagination": "274 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.9/12"], "identifiers": {"goodreads": ["1834144"], "librarything": ["37964"]}, "lccn": ["75031701"], "isbn_10": ["0670545589"], "publish_date": "1976", "works": [{"key": "/works/OL1825430W"}]}, {"number_of_pages": 176, "series": ["Beginners series"], "covers": [6734535], "latest_revision": 7, "ocaid": "newtonforbeginne00rank", "source_records": ["marc:marc_university_of_toronto/uoft.marc:4693260994:667", "ia:newtonforbeginne00rank"], "title": "Newton for beginners", "languages": [{"key": "/languages/eng"}], "subjects": ["Newton, Isaac, -- Sir, -- 1642-1727", "Physics"], "publish_country": "enk", "by_statement": "[William Rankin].", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Icon Books"], "ia_box_id": ["IA132611"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T04:35:36.841067"}, "key": "/books/OL22594711M", "authors": [{"key": "/authors/OL78869A"}], "publish_places": ["Barton, Eng"], "pagination": "176 p. :", "created": {"type": "/type/datetime", "value": "2008-11-16T21:22:57.559572"}, "dewey_decimal_class": ["530 RAN (WPL)"], "notes": {"type": "/type/text", "value": "Includes bibliography.\n\n96 10 08"}, "identifiers": {"librarything": ["172543"], "goodreads": ["1739382", "6288654"]}, "isbn_10": ["1874166072", "1863734953"], "publish_date": "1993", "works": [{"key": "/works/OL891258W"}]}, {"key": "/books/OL7573338M", "publishers": ["Signet"], "number_of_pages": 640, "ia_box_id": ["IA119104"], "title": "Memory and Desire", "type": {"key": "/type/edition"}, "identifiers": {"librarything": ["1082489"], "goodreads": ["2968145"]}, "isbn_13": ["9780451175533"], "covers": [4636125], "created": {"type": "/type/datetime", "value": "2008-04-29T13:35:46.876380"}, "languages": [{"key": "/languages/eng"}], "isbn_10": ["0451175530"], "latest_revision": 9, "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:47:25.276625"}, "authors": [{"key": "/authors/OL75579A"}], "publish_date": "April 1, 1993", "oclc_numbers": ["27824825"], "works": [{"key": "/works/OL866714W"}], "ocaid": "memorydesire00appi", "revision": 9}, {"subtitle": "a romance of the dour", "covers": [6820102], "lc_classifications": ["PS3563.C362 M35 1990"], "latest_revision": 2, "ocaid": "mcxromanceofdour00mcew", "edition_name": "1st American ed.", "source_records": ["ia:mcxromanceofdour00mcew"], "title": "McX", "languages": [{"key": "/languages/eng"}], "subjects": ["Protected DAISY"], "publish_country": "nyu", "by_statement": "Todd McEwen", "oclc_numbers": ["20993450"], "type": {"key": "/type/edition"}, "revision": 2, "publishers": ["Grove Weidenfeld"], "ia_box_id": ["IA134508"], "full_title": "McX a romance of the dour", "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:43:40.543188"}, "key": "/books/OL24766250M", "authors": [{"key": "/authors/OL883602A"}], "publish_places": ["New York"], "pagination": "186 p. ;", "created": {"type": "/type/datetime", "value": "2011-07-13T21:25:42.787911"}, "lccn": ["90002730"], "notes": {"type": "/type/text", "value": "\"First published in Great Britain 1990 by Secker & Warburg ... London\"--T.p. verso."}, "number_of_pages": 186, "isbn_13": ["9780802111661"], "dewey_decimal_class": ["813/.54"], "isbn_10": ["0802111661"], "publish_date": "1990", "works": [{"key": "/works/OL15857298W"}]}, {"subtitle": "the untold story of Dr. Jekyll and Mr. Hyde", "covers": [6536945], "lc_classifications": ["PS3563.A7295 M37 1996"], "latest_revision": 4, "ocaid": "maryreillyuntold00mart", "genres": ["Fiction."], "source_records": ["ia:maryreillyuntold00mart"], "title": "Mary Reilly", "subjects": ["Physicians -- England -- London -- Fiction.", "Monsters -- Fiction.", "Supernatural -- Fiction.", "London (England) -- Social conditions -- 19th century -- Fiction."], "publish_country": "nyu", "by_statement": "Valerie Martin.", "oclc_numbers": ["32733663"], "type": {"key": "/type/edition"}, "revision": 4, "publishers": ["Pocket Books"], "ia_box_id": ["IA108002"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:40:19.760965"}, "key": "/books/OL24213521M", "authors": [{"key": "/authors/OL25434A"}], "publish_places": ["New York"], "pagination": "244 p. ;", "created": {"type": "/type/datetime", "value": "2010-05-05T12:21:24.704190"}, "number_of_pages": 244, "isbn_13": ["9780671521134"], "isbn_10": ["0671521136"], "publish_date": "1995", "works": [{"key": "/works/OL15145983W"}]}, {"identifiers": {"goodreads": ["1601403"], "librarything": ["72485"]}, "covers": [3911326], "lc_classifications": ["PS3569.C497 L68 1995"], "latest_revision": 8, "ocaid": "loveletter00schirich", "source_records": ["marc:marc_records_scriblio_net/part24.dat:212482454:654", "marc:marc_loc_updates/v35.i25.records.utf8:3510610:755", "ia:loveletter00schirich"], "title": "The love letter", "languages": [{"key": "/languages/eng"}], "subjects": ["Booksellers and bookselling -- Fiction", "Single women -- Fiction", "Love-letters -- Fiction"], "publish_country": "mau", "by_statement": "Cathleen Schine.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Houghton Mifflin Co."], "ia_box_id": ["IA105214"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:20:26.860598"}, "key": "/books/OL1273720M", "authors": [{"key": "/authors/OL226818A"}], "publish_places": ["Boston"], "pagination": "257 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 257, "lccn": ["95005202"], "isbn_10": ["0395689961"], "publish_date": "1995", "works": [{"key": "/works/OL1894967W"}]}, {"identifiers": {"librarything": ["353435"]}, "lc_classifications": ["PZ7.B4358 Li"], "latest_revision": 5, "ocaid": "littlewitch00benn", "contributions": ["Stone, Helen, 1903-"], "ia_box_id": ["IA114304"], "edition_name": "[1st ed.]", "title": "Little witch.", "languages": [{"key": "/languages/eng"}], "subjects": ["Witches -- Fiction."], "publish_country": "pau", "by_statement": "Illustrated by Helen Stone.", "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Lippincott"], "description": {"type": "/type/text", "value": "Nine-year-old Minikin Snickasnee wishes she were not a witch's child."}, "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:13:33.609682"}, "key": "/books/OL6115494M", "authors": [{"key": "/authors/OL2262874A"}], "publish_places": ["Philadelphia"], "pagination": "127 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["[Fic]"], "number_of_pages": 127, "lccn": ["52013721"], "publish_date": "1953", "works": [{"key": "/works/OL7468296W"}]}, {"subtitle": "the intimate memoirs of that great star of stage, screen, and television, Belle Poitrine", "covers": [6532018], "lc_classifications": ["PS3570.A55 L5 1962"], "latest_revision": 5, "ocaid": "littlemeintimate00denn", "source_records": ["ia:littlemeintimate00denn"], "title": "Little me", "subjects": ["Actresses -- Biography -- Fiction."], "publish_country": "ctu", "by_statement": "as told to [i.e., written by] Patrick Dennis ; with photographs by Cris Alexander.", "oclc_numbers": ["2749219"], "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Fawcett Publications, Inc."], "ia_box_id": ["IA102404"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:10:14.651186"}, "key": "/books/OL24212668M", "authors": [{"key": "/authors/OL442789A"}], "publish_places": ["Greenwich, Conn"], "pagination": "304 p. :", "created": {"type": "/type/datetime", "value": "2010-05-05T11:45:19.660514"}, "number_of_pages": 304, "publish_date": "1962", "works": [{"key": "/works/OL2906423W"}]}, {"identifiers": {"goodreads": ["2371922"], "librarything": ["101476"]}, "covers": [4325293], "lc_classifications": ["BF575.H27 M54 1981"], "latest_revision": 8, "ocaid": "lifeofonesown00miln", "edition_name": "1st ed.", "title": "A life of one's own", "languages": [{"key": "/languages/eng"}], "subjects": ["Happiness.", "Success.", "Introspection.", "Thought and thinking.", "Diaries -- Therapeutic use."], "publish_country": "cau", "by_statement": "Joanna Field.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["J.P. Tarcher", "Distributed by Houghton, Mifflin"], "ia_box_id": ["IA105916"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T03:06:52.303376"}, "key": "/books/OL3786682M", "authors": [{"key": "/authors/OL1070861A"}], "publish_places": ["Los Angeles", "Boston"], "pagination": "226 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["158/.1"], "notes": {"type": "/type/text", "value": "Reprint. Originally published: London : Chatto & Windus, 1936."}, "number_of_pages": 226, "lccn": ["81050878"], "isbn_10": ["087477201X"], "publish_date": "1981", "works": [{"key": "/works/OL4961754W"}]}, {"series": ["Seal Books"], "covers": [6527702], "latest_revision": 5, "ocaid": "ladyoracle00atwo", "source_records": ["ia:ladyoracle00atwo"], "title": "Lady Oracle", "publish_country": "onc", "by_statement": "Margaret Atwood.", "oclc_numbers": ["258528906"], "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["McClelland-Bantam"], "ia_box_id": ["IA117712"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T02:49:51.467297"}, "key": "/books/OL24228982M", "authors": [{"key": "/authors/OL52922A"}], "publish_places": ["Toronto"], "pagination": "345 S.", "created": {"type": "/type/datetime", "value": "2010-05-13T18:47:41.670737"}, "number_of_pages": 345, "isbn_13": ["9780770422998"], "isbn_10": ["0770422993"], "publish_date": "1977", "works": [{"key": "/works/OL675716W"}]}, {"table_of_contents": [{"level": 0, "label": "", "pagenum": "", "title": "Author's note"}, {"level": 0, "label": "", "pagenum": "", "title": "Part one (1366-1367)"}, {"level": 0, "label": "", "pagenum": "", "title": "Part two (1369)"}, {"level": 0, "label": "", "pagenum": "", "title": "Part 3 (1371)"}, {"level": 0, "label": "", "pagenum": "", "title": "Part four (1376-1377)"}, {"level": 0, "label": "", "pagenum": "", "title": "Part five (1381)"}, {"level": 0, "label": "", "pagenum": "", "title": "Part six (1387-1396)"}, {"level": 0, "label": "", "pagenum": "", "title": "Afterword."}], "covers": [6604907], "lc_classifications": ["PS3537.E66 K38 1954"], "latest_revision": 3, "ocaid": "katherineseto", "source_records": ["ia:katherineseto"], "title": "Katherine", "languages": [{"key": "/languages/eng"}], "publish_country": "mau", "oclc_numbers": ["7668959"], "type": {"key": "/type/edition"}, "revision": 3, "publishers": ["Houghton Mifflin"], "ia_box_id": ["IA122513"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T02:41:11.134465"}, "key": "/books/OL24370448M", "authors": [{"key": "/authors/OL1964240A"}], "publish_places": ["Boston"], "pagination": "500 p. ;", "created": {"type": "/type/datetime", "value": "2010-10-01T18:44:22.051172"}, "notes": {"type": "/type/text", "value": "A novel."}, "number_of_pages": 500, "publish_date": "1954", "works": [{"key": "/works/OL15393403W"}]}, {"number_of_pages": 165, "covers": [6751553, 254269], "lc_classifications": ["BF173 .M35653 1985"], "latest_revision": 9, "ocaid": "infreudarchives00malc", "edition_name": "1st Vintage Books ed.", "source_records": ["marc:marc_records_scriblio_net/part17.dat:70225750:922", "marc:marc_loc_updates/v35.i18.records.utf8:2460356:963", "ia:infreudarchives00malc"], "title": "In the Freud archives", "languages": [{"key": "/languages/eng"}], "subjects": ["Freud, Sigmund, 1856-1939", "Masson, J. Moussaieff 1941-", "Eissler, K. R. 1908-", "Freud, Anna 1895-", "Psychoanalysis", "Incest victims", "Psychoanalysts -- Biography"], "publish_country": "nyu", "by_statement": "Janet Malcolm.", "type": {"key": "/type/edition"}, "revision": 9, "other_titles": ["Freud archives."], "publishers": ["Vintage Books"], "ia_box_id": ["IA128916"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T02:18:18.891585"}, "key": "/books/OL2867011M", "authors": [{"key": "/authors/OL239978A"}], "publish_places": ["New York"], "pagination": "165 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["150.19/52"], "notes": {"type": "/type/text", "value": "Reprint. Originally published: 1st ed. New York : Knopf, 1984."}, "identifiers": {"librarything": ["102788"], "goodreads": ["2381812"]}, "lccn": ["84040536"], "isbn_10": ["0394729226"], "publish_date": "1985", "works": [{"key": "/works/OL1993789W"}]}, {"identifiers": {"librarything": ["50890"]}, "covers": [6726057], "lc_classifications": ["PN1994 .K25"], "latest_revision": 9, "ocaid": "ilostitatmovies00kael", "edition_name": "[1st ed.]", "source_records": ["marc:marc_records_scriblio_net/part05.dat:117025589:562", "marc:marc_ithaca_college/ic_marc.mrc:110962998:632", "ia:ilostitatmovies00kael"], "title": "I lost it at the movies.", "languages": [{"key": "/languages/eng"}], "subjects": ["Motion pictures", "Film criticism"], "publish_country": "mau", "type": {"key": "/type/edition"}, "revision": 9, "publishers": ["Little, Brown"], "ia_box_id": ["IA132206"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T02:13:03.048874"}, "key": "/books/OL5940486M", "authors": [{"key": "/authors/OL528929A"}], "publish_places": ["Boston"], "pagination": "ix, 365 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["791.43081"], "notes": {"type": "/type/text", "value": "\"An Atlantic Monthly Press book.\"\nEssays."}, "number_of_pages": 365, "lccn": ["65010908"], "publish_date": "1965", "works": [{"key": "/works/OL3243696W"}]}, {"identifiers": {"goodreads": ["62012"], "librarything": ["96251"]}, "series": ["Frye annotated -- no. 1736"], "covers": [6509250], "lc_classifications": ["PZ4.Z456 Gu", "PS3576.E43 Gu"], "latest_revision": 10, "ocaid": "gunsofavalon00zela", "edition_name": "[1st ed.].", "source_records": ["ia:gunsofavalon00zela"], "title": "The Guns of Avalon", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Roger Zelazny", "type": {"key": "/type/edition"}, "revision": 10, "publishers": ["Avon"], "ia_box_id": ["ia107213"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T01:31:34.756979"}, "key": "/books/OL21079366M", "authors": [{"key": "/authors/OL4587302A"}], "publish_places": ["New York"], "pagination": "223 p. ;", "classifications": {}, "created": {"type": "/type/datetime", "value": "2008-10-31T18:12:36.040355"}, "dewey_decimal_class": ["813/.5/4"], "notes": "Also issued online.", "number_of_pages": 223, "isbn_10": ["0380000830"], "publish_date": "1974", "works": [{"key": "/works/OL13974W"}]}, {"subtitle": "Hollywood filmmaking in the studio era", "covers": [6709384, 6709365, 6694770], "lc_classifications": ["PN1993.5.U65 S3 1990"], "latest_revision": 5, "ocaid": "geniusofsystemho00scha", "edition_name": "Pantheon pbk. ed.", "source_records": ["ia:geniusofsystemho00scha"], "title": "The genius of the system", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Thomas Schatz", "oclc_numbers": ["41517403"], "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Pantheon Books"], "ia_box_id": ["IA129109"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T01:07:44.625314"}, "key": "/books/OL24535745M", "authors": [{"key": "/authors/OL20394A"}], "publish_places": ["New York, N.Y"], "pagination": "xii, 514 p. :", "created": {"type": "/type/datetime", "value": "2010-12-15T18:23:11.435135"}, "dewey_decimal_class": ["384/.8/0979494"], "notes": {"type": "/type/text", "value": "Includes index.\n\n\"Notes on sources\": p. 493-507."}, "number_of_pages": 514, "isbn_13": ["9780679728856"], "isbn_10": ["0679728856"], "publish_date": "1990", "copyright_date": "1988", "works": [{"key": "/works/OL15583892W"}]}, {"covers": [6643595], "latest_revision": 5, "ocaid": "garrickyear00drab", "title": "The Garrick year", "languages": [{"key": "/languages/eng"}], "publish_country": "xxk", "by_statement": "Margaret Drabble.", "type": {"key": "/type/edition"}, "revision": 5, "publishers": ["Penguin"], "ia_box_id": ["IA127717"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T01:05:04.093767"}, "key": "/books/OL22342944M", "authors": [{"key": "/authors/OL226126A"}], "publish_places": ["Harmondsworth"], "pagination": "171p. ;", "created": {"type": "/type/datetime", "value": "2008-11-11T00:41:08.247827"}, "dewey_decimal_class": ["823/.914"], "notes": {"type": "/type/text", "value": "Originally published, London , Weidenfeld & Nicolson, 1964."}, "number_of_pages": 171, "isbn_10": ["0140025494"], "publish_date": "1982", "works": [{"key": "/works/OL1888817W"}]}, {"identifiers": {"goodreads": ["542992"], "librarything": ["25641"]}, "covers": [223104], "lc_classifications": ["PS3553.U484 F57 1995"], "latest_revision": 8, "ocaid": "fleshblood00cunn", "edition_name": "1st ed.", "source_records": ["marc:marc_records_scriblio_net/part24.dat:60190595:527", "ia:fleshblood00cunn"], "title": "Flesh and blood", "languages": [{"key": "/languages/eng"}], "publish_country": "nyu", "by_statement": "Michael Cunningham.", "type": {"key": "/type/edition"}, "revision": 8, "publishers": ["Farrar, Straus, and Giroux"], "ia_box_id": ["IA109610"], "last_modified": {"type": "/type/datetime", "value": "2011-08-12T00:48:02.818895"}, "key": "/books/OL1099844M", "authors": [{"key": "/authors/OL2622944A"}], "publish_places": ["New York"], "pagination": "465 p. 25 cm.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "number_of_pages": 465, "lccn": ["94024628"], "isbn_10": ["0374181136"], "publish_date": "1995", "works": [{"key": "/works/OL30835W"}]}, {"identifiers": {"goodreads": ["3579367"], "librarything": ["237086"]}, "subject_place": ["England"], "covers": [4196944], "lc_classifications": ["PR6052.R5816 D4 1985"], "latest_revision": 7, "ocaid": "debut00broo", "edition_name": "1st Vintage Books ed.", "source_records": ["marc:marc_records_scriblio_net/part17.dat:70227545:644", "ia:debut00broo"], "title": "The debut", "languages": [{"key": "/languages/eng"}], "subjects": ["Women college teachers -- Fiction", "England -- Fiction"], "publish_country": "nyu", "by_statement": "Anita Brookner.", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Vintage Books"], "ia_box_id": ["IA114809"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T23:46:22.150663"}, "key": "/books/OL2867013M", "authors": [{"key": "/authors/OL22173A"}], "publish_places": ["New York"], "pagination": "192 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["823/.914"], "number_of_pages": 192, "lccn": ["84040539"], "isbn_10": ["0394728564"], "publish_date": "1985", "works": [{"key": "/works/OL166408W"}]}, {"number_of_pages": 528, "subject_place": ["Paris (France)", "France", "Paris"], "covers": [6472676], "lc_classifications": ["PS3537.T323 Z72"], "latest_revision": 11, "ocaid": "charmedcircleger00mell", "subject_time": ["20th century", "20th century."], "source_records": ["marc:marc_records_scriblio_net/part07.dat:106334013:880", "marc:marc_cca/b10621386.out:11208130:688", "marc:marc_ithaca_college/ic_marc.mrc:63534474:677", "marc:marc_upei/marc-for-openlibrary-bigset.mrc:16992873:832", "ia:charmedcircleger00mell"], "title": "Charmed circle: Gertrude Stein & company", "languages": [{"key": "/languages/eng"}], "subjects": ["Stein, Gertrude, 1874-1946", "Stein, Gertrude, 1874-1946 -- Friends and associates", "Authors, American -- 20th century -- Biography", "Art -- Collectors and collecting -- France -- Paris -- Biography", "Americans -- France -- Paris -- History -- 20th century", "Paris (France) -- Intellectual life -- 20th century"], "publish_country": "nyu", "by_statement": "[by] James R. Mellow.", "type": {"key": "/type/edition"}, "revision": 11, "publishers": ["Praeger"], "ia_box_id": ["IA110509"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T22:53:21.124057"}, "key": "/books/OL5415635M", "authors": [{"key": "/authors/OL216132A"}], "publish_places": ["New York"], "pagination": "528 p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["818/.5/209", "B"], "notes": {"type": "/type/text", "value": "Bibliography: p. [507]-514."}, "identifiers": {"librarything": ["600216"]}, "lccn": ["73007473"], "publish_date": "1974", "works": [{"key": "/works/OL1801043W"}]}, {"identifiers": {"goodreads": ["838191"], "librarything": ["19661"]}, "subject_place": ["Russia"], "covers": [6658941, 257549], "lc_classifications": ["PR6056.I86 B4 1998"], "latest_revision": 9, "ocaid": "beginningofsprin00fitz", "subject_time": ["Nicholas II, 1894-1917"], "edition_name": "1st Mariner Book ed.", "source_records": ["marc:marc_records_scriblio_net/part27.dat:89525033:829", "ia:beginningofsprin00fitz"], "title": "Beginning of spring", "languages": [{"key": "/languages/eng"}], "subjects": ["British -- Russia -- Fiction", "Russia -- History -- Nicholas II, 1894-1917 -- Fiction"], "publish_country": "mau", "by_statement": "Penelope Fitzgerald.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/hm022/98040797.html"], "revision": 9, "publishers": ["Houghton Mifflin Co."], "ia_box_id": ["IA127615"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T22:06:09.536720"}, "key": "/books/OL378715M", "authors": [{"key": "/authors/OL24526A"}], "publish_places": ["Boston"], "lccn": ["98040797"], "pagination": "187 p. ;", "uri_descriptions": ["Publisher description"], "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "url": ["http://www.loc.gov/catdir/description/hm022/98040797.html"], "notes": {"type": "/type/text", "value": "\"A Mariner Book.\""}, "number_of_pages": 187, "dewey_decimal_class": ["823/.914"], "isbn_10": ["039590871X"], "publish_date": "1998", "works": [{"key": "/works/OL20779W"}]}, {"number_of_pages": 412, "subtitle": "a novel", "covers": [4027974, 240514], "lc_classifications": ["PS3570.E673 B4 1991"], "latest_revision": 8, "url": ["http://www.loc.gov/catdir/description/random044/90022305.html"], "ocaid": "beautynovel00tepp", "uri_descriptions": ["Publisher description"], "languages": [{"key": "/languages/eng"}], "source_records": ["marc:marc_records_scriblio_net/part21.dat:70886978:689", "ia:beautynovel00tepp"], "title": "Beauty", "edition_name": "1st ed.", "publish_country": "nyu", "by_statement": "by Sheri S. Tepper.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/random044/90022305.html"], "revision": 8, "publishers": ["Doubleday"], "ia_box_id": ["IA107710"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T22:06:09.536720"}, "key": "/books/OL1864390M", "authors": [{"key": "/authors/OL18898A"}], "publish_places": ["New York"], "pagination": "412 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.54"], "notes": {"type": "/type/text", "value": "A Foundation book.\""}, "identifiers": {"librarything": ["27620"], "goodreads": ["894517", "894518"]}, "lccn": ["90022305"], "isbn_10": ["0385419392", "0385419406"], "publish_date": "1991", "works": [{"key": "/works/OL104513W"}]}, {"number_of_pages": 247, "subtitle": "the corrected text", "subject_place": ["Mississippi"], "covers": [6614355], "lc_classifications": ["PS3511.A86 A85 1987"], "latest_revision": 9, "url": ["http://www.loc.gov/catdir/description/random044/86040161.html"], "ocaid": "asilaydyingcorre00faul", "uri_descriptions": ["Publisher description"], "edition_name": "Vintage Books ed.", "source_records": ["marc:marc_records_scriblio_net/part18.dat:170831759:1022", "ia:asilaydyingcorre00faul"], "title": "As I lay dying", "languages": [{"key": "/languages/eng"}], "subjects": ["Burial -- Fiction", "Death -- Fiction", "Mississippi -- Fiction"], "publish_country": "nyu", "by_statement": "William Faulkner.", "oclc_numbers": ["14588263"], "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/random044/86040161.html"], "revision": 9, "publishers": ["Vintage Books"], "ia_box_id": ["IA124121"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T21:47:42.267016"}, "key": "/books/OL2739436M", "authors": [{"key": "/authors/OL21831A"}], "publish_places": ["New York"], "pagination": "247 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["813/.52"], "notes": {"type": "/type/text", "value": "\"This revised text and the notes are reprinted from Novels 1930-1935 by William Faulkner, published by The Library of America, 1985\"--T.p. verso."}, "identifiers": {"librarything": ["3360"], "goodreads": ["415126"]}, "lccn": ["86040161"], "isbn_10": ["0394747453"], "publish_date": "1987", "works": [{"key": "/works/OL82929W"}]}, {"identifiers": {"goodreads": ["542446"], "librarything": ["28279"]}, "subtitle": "Edward Gorey on Edward Gorey : interviews", "subject_place": ["United States"], "covers": [112151], "lc_classifications": ["NX512.G67 A35 2001"], "latest_revision": 9, "ocaid": "ascendingpeculia00gore", "contributions": ["Wilkin, Karen, 1940-"], "uri_descriptions": ["Contributor biographical information", "Publisher description"], "languages": [{"key": "/languages/eng"}], "genres": ["Interviews."], "source_records": ["marc:marc_records_scriblio_net/part13.dat:133732223:1101", "ia:ascendingpeculia00gore"], "title": "Ascending peculiarity", "edition_name": "1st ed.", "subjects": ["Gorey, Edward, 1925- -- Interviews", "Artists -- United States -- Interviews", "Authors -- United States -- Interviews"], "publish_country": "nyu", "by_statement": "selected and edited by Karen Wilkin.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/bios/har051/2001024101.html", "http://www.loc.gov/catdir/description/har021/2001024101.html"], "revision": 9, "other_titles": ["Edward Gorey on Edward Gorey"], "publishers": ["Harcourt"], "ia_box_id": ["IA119705"], "dewey_decimal_class": ["700/.92", "B"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T21:47:42.267016"}, "key": "/books/OL3943277M", "authors": [{"key": "/authors/OL25895A"}], "publish_places": ["New York"], "pagination": "xxi, 292 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["2001024101"], "notes": {"type": "/type/text", "value": "Includes bibliographical references (p. 243-247) and index."}, "number_of_pages": 292, "url": ["http://www.loc.gov/catdir/bios/har051/2001024101.html", "http://www.loc.gov/catdir/description/har021/2001024101.html"], "isbn_10": ["0151005044"], "publish_date": "2001", "works": [{"key": "/works/OL23621W"}]}, {"identifiers": {"goodreads": ["33460"], "librarything": ["859"]}, "subject_place": ["Great Britain."], "covers": [420650], "lc_classifications": ["GV943.9.F35 B84 1993"], "latest_revision": 11, "ocaid": "amongthugs00bufo", "uri_descriptions": ["Publisher description"], "languages": [{"key": "/languages/eng"}], "source_records": ["marc:marc_records_scriblio_net/part22.dat:184115975:915", "marc:marc_ithaca_college/ic_marc.mrc:168253872:871", "ia:amongthugs00bufo"], "title": "Among the thugs", "edition_name": "1st Vintage Departures ed.", "subjects": ["Soccer fans -- Great Britain", "Hoodlums -- Great Britain", "Soccer -- Social aspects -- Great Britain", "Violence in sports -- Great Britain"], "publish_country": "nyu", "by_statement": "Bill Buford.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/description/random0411/92050650.html"], "revision": 11, "publishers": ["Vintage Departures"], "ia_box_id": ["IA109701"], "dewey_decimal_class": ["363.3/2"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T21:33:38.694833"}, "key": "/books/OL1743445M", "authors": [{"key": "/authors/OL774417A"}], "publish_places": ["New York"], "pagination": "317 p. ;", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "lccn": ["92050650"], "notes": {"type": "/type/text", "value": "Originally published: London : Martin Secker & Warburg, 1991."}, "number_of_pages": 317, "url": ["http://www.loc.gov/catdir/description/random0411/92050650.html"], "isbn_10": ["0679745351"], "publish_date": "1993", "works": [{"key": "/works/OL4124702W"}]}, {"number_of_pages": 32, "subtitle": "a fable, with due respect to Hans Christian Andersen, the Grimm Brothers, and the honorable Ambrose Bierce.", "covers": [6609983], "lc_classifications": ["PZ8.U84 Al"], "latest_revision": 7, "ocaid": "allumettefablewi00unge", "ia_box_id": ["IA124810"], "source_records": ["marc:marc_records_scriblio_net/part07.dat:115834359:870", "ia:allumettefablewi00unge"], "title": "Allumette", "languages": [{"key": "/languages/eng"}], "subjects": ["Fairy tales", "Orphans -- Fiction"], "publish_country": "nyu", "type": {"key": "/type/edition"}, "revision": 7, "publishers": ["Parents' Magazine Press"], "description": {"type": "/type/text", "value": "Granted her wishes for all the good things she never had, an impoverished orphan is so deluged with commodities that she opens a headquarters for distributing them to the world's poor."}, "last_modified": {"type": "/type/datetime", "value": "2011-08-11T21:27:01.589392"}, "key": "/books/OL5427981M", "authors": [{"key": "/authors/OL21302A"}], "publish_places": ["New York"], "pagination": "[32] p.", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "dewey_decimal_class": ["[E]"], "identifiers": {"goodreads": ["2331382", "1958910"], "librarything": ["2164796"]}, "lccn": ["73023055"], "isbn_10": ["0819307300", "0819307319"], "publish_date": "1974", "works": [{"key": "/works/OL48756W"}]}, {"identifiers": {"goodreads": ["72579"], "librarything": ["4053"]}, "subject_place": ["Canada"], "covers": [6642671, 240834], "lc_classifications": ["PR9199.3.A8 A79 1996"], "latest_revision": 14, "ocaid": "aliasgrace00atwo", "uri_descriptions": ["Contributor biographical information", "Publisher description"], "languages": [{"key": "/languages/eng"}], "source_records": ["marc:marc_records_scriblio_net/part25.dat:183320438:1061", "marc:CollingswoodLibraryMarcDump10-27-2008/Collingswood.out:17056248:1477", "marc:marc_loc_updates/v36.i01.records.utf8:3507346:1053", "marc:marc_ithaca_college/ic_marc.mrc:149781085:902", "ia:aliasgrace00atwo"], "title": "Alias Grace", "edition_name": "1st ed.", "subjects": ["Marks, Grace, b. 1826 -- Fiction", "Women murderers -- Fiction", "Trials (Murder) -- Fiction", "Murder -- Fiction", "Canada -- Fiction"], "publish_country": "nyu", "by_statement": "Margaret Atwood.", "type": {"key": "/type/edition"}, "uris": ["http://www.loc.gov/catdir/bios/random057/96021689.html", "http://www.loc.gov/catdir/description/random0413/96021689.html"], "revision": 14, "publishers": ["Nan A. Talese"], "ia_box_id": ["ia125101"], "last_modified": {"type": "/type/datetime", "value": "2011-08-11T21:23:19.522168"}, "key": "/books/OL983956M", "authors": [{"key": "/authors/OL52922A"}], "publish_places": ["New York"], "lccn": ["96021689"], "pagination": "468 p. :", "created": {"type": "/type/datetime", "value": "2008-04-01T03:28:50.625462"}, "url": ["http://www.loc.gov/catdir/bios/random057/96021689.html", "http://www.loc.gov/catdir/description/random0413/96021689.html"], "number_of_pages": 468, "dewey_decimal_class": ["813/.54"], "isbn_10": ["0385475713"], "publish_date": "1996", "works": [{"key": "/works/OL675834W"}]}, {"covers": [6688876], "lc_classifications": ["PN6727.A73 S498 2001"], "latest_revision": 2, "ocaid": "sergioaragonsg00arag", "contributions": ["Evanier, Mark", "Sakai, Stan", "Luth, Tom"], "languages": [{"key": "/languages/eng"}], "source_records": ["ia:sergioaragonsg00arag"], "title": "Sergio Aragon\u00e9s the Groo library", "edition_name": "1st ed.", "publish_country": "oru", "by_statement": "writer/artist, Sergio Aragon\u00e9s ; wordsmith, Mark Evanier ; letterer, Stan Sakai ; colorist, Tom Luth", "oclc_numbers": ["47905033"], "type": {"key": "/type/edition"}, "revision": 2, "other_titles": ["Groo library"], "publishers": ["Dark Horse"], "last_modified": {"type": "/type/datetime", "value": "2011-02-24T00:26:36.181938"}, "key": "/books/OL24606413M", "authors": [{"key": "/authors/OL640637A"}], "publish_places": ["Milwaukie, OR"], "pagination": "1 v. (unpaged) :", "created": {"type": "/type/datetime", "value": "2011-02-18T04:26:45.720068"}, "dewey_decimal_class": ["741.5/946"], "notes": {"type": "/type/text", "value": "\"This book collects issues forty-four, forty-five, forty-seven, and forty-nine of the comic book series Groo the Wanderer ...\"--T.p. verso."}, "isbn_13": ["9781569715710"], "isbn_10": ["1569715718"], "publish_date": "2001", "works": [{"key": "/works/OL15675074W"}]}]}
+[
+  {
+    "Id": "59012962",
+    "Name": "Goodness had nothing to do with it",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "9780836212006",
+    "Name": "The far side",
+    "Edition": null,
+    "Tags": [
+      "American wit and humor, Pictorial"
+    ],
+    "Author": "by Gary Larson."
+  },
+  {
+    "Id": "9780880015233",
+    "Name": "A Nest of Ninnies",
+    "Edition": "1st Ecco Ed edition",
+    "Tags": [
+      "Modern fiction",
+      "General",
+      "Ashbery, John - Poems & Criticism",
+      "Popular American Fiction",
+      "Fiction",
+      "Fiction - General",
+      "Friendship",
+      "Suburban life",
+      "New York (N.Y.)",
+      "FIC",
+      "FIC000000",
+      "Classics",
+      "New York",
+      "New York (State)"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "9780425073124",
+    "Name": "Mistress Masham's Repose",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0395945410",
+    "Name": "The walking tour",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Kathryn Davis."
+  },
+  {
+    "Id": "0345369599",
+    "Name": "Betrayals",
+    "Edition": "1st American ed.",
+    "Tags": [
+      "Betrayal -- Fiction",
+      "Literary recreations -- Fiction",
+      "Scotland -- Fiction"
+    ],
+    "Author": "Charles Palliser."
+  },
+  {
+    "Id": "0374182515",
+    "Name": "Labrador",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Sisters -- Fiction.",
+      "Grandfathers -- Fiction.",
+      "New Hampshire -- Fiction.",
+      "Labrador (N.L.) -- Fiction."
+    ],
+    "Author": "Kathryn Davis."
+  },
+  {
+    "Id": "9780140161137",
+    "Name": "Palladian (Virago Modern Classics)",
+    "Edition": null,
+    "Tags": [
+      "Fiction / General",
+      "Fiction"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "73021450",
+    "Name": "An introduction to poetry",
+    "Edition": "3d ed.",
+    "Tags": [
+      "Poetics."
+    ],
+    "Author": "[by] X.J. Kennedy"
+  },
+  {
+    "Id": "0394520718",
+    "Name": "Lulu in Hollywood",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Brooks, Louise, 1906-",
+      "Motion picture actors and actresses -- United States -- Biography",
+      "Hollywood (Los Angeles, Calif.) -- Biography"
+    ],
+    "Author": "by Louise Brooks ; introduction by William Shawn."
+  },
+  {
+    "Id": "476831778",
+    "Name": "Sometimes a great notion",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Ken Kesey."
+  },
+  {
+    "Id": "9781888173369",
+    "Name": "The Sin Eater (Common Reader Editions)",
+    "Edition": null,
+    "Tags": [
+      "General",
+      "FICTION_GENERAL",
+      "Fiction / General",
+      "WALES_FICTION",
+      "Fiction - General",
+      "Fiction"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0140127739",
+    "Name": "Lost in translation",
+    "Edition": null,
+    "Tags": [
+      "Hoffman, Eva, 1945-",
+      "Jews -- United States -- Biography",
+      "Immigrants -- United States -- Biography",
+      "Children of Holocaust survivors -- Poland -- Biography",
+      "Children of Holocaust survivors -- United States -- Biography"
+    ],
+    "Author": "Eva Hoffman."
+  },
+  {
+    "Id": "9780140096927",
+    "Name": "The Joke",
+    "Edition": null,
+    "Tags": [
+      "General",
+      "Fiction / General",
+      "Fiction - General",
+      "Fiction"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "9780140026634",
+    "Name": "A Short Walk in the Hindu Kush",
+    "Edition": null,
+    "Tags": [
+      "TRV",
+      "TRV010000",
+      "Essays & Travelogues",
+      "Travel"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0449208109",
+    "Name": "Things fall apart",
+    "Edition": null,
+    "Tags": [
+      "Igbo (African people) -- Fiction"
+    ],
+    "Author": "by Chinua Achebe."
+  },
+  {
+    "Id": "0670880973",
+    "Name": "Cordelia Underwood, or, The marvelous beginnings of the Moosepath League",
+    "Edition": null,
+    "Tags": [
+      "Men -- Societies and clubs -- Fiction",
+      "City and town life -- Fiction",
+      "Women landowners -- Fiction",
+      "Land tenure -- Fiction",
+      "Young women -- Fiction",
+      "Moosepath League (Imaginary organization) -- Fiction",
+      "Portland (Maine) -- Fiction"
+    ],
+    "Author": "Van Reid."
+  },
+  {
+    "Id": "0440010209",
+    "Name": "Camilla",
+    "Edition": null,
+    "Tags": [
+      "Parent and child -- Fiction",
+      "Family problems -- Fiction",
+      "New York (N.Y.) -- Fiction"
+    ],
+    "Author": "Madeleine L'Engle."
+  },
+  {
+    "Id": "9780140287431",
+    "Name": "The Haunting (tie-in)",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0140116109",
+    "Name": "The swimming-pool library",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Alan Hollinghurst."
+  },
+  {
+    "Id": "9780330296748",
+    "Name": "Naomi",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "59005842",
+    "Name": "Secret of the Ron Mor Skerry",
+    "Edition": "[1st American ed.]",
+    "Tags": null,
+    "Author": "written and illustrated by Rosalie K. Fry."
+  },
+  {
+    "Id": "55017790",
+    "Name": "How to be topp",
+    "Edition": null,
+    "Tags": [
+      "Education -- Anecdotes, facetiae, satire, etc"
+    ],
+    "Author": "Geoffrey Willans and Ronald Searle."
+  },
+  {
+    "Id": "0380975068",
+    "Name": "The lust lizard of Melancholy Cove",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Sea monsters -- Fiction.",
+      "California -- Fiction."
+    ],
+    "Author": "Christopher Moore."
+  },
+  {
+    "Id": "0934770204",
+    "Name": "The house on Mango Street",
+    "Edition": null,
+    "Tags": [
+      "Mexican Americans -- Fiction",
+      "Girls -- Fiction",
+      "Chicago (Ill.) -- Fiction"
+    ],
+    "Author": "by Sandra Cisneros."
+  },
+  {
+    "Id": "0394713788",
+    "Name": "Is there no place on earth for me?",
+    "Edition": "1st Vintage Books ed.",
+    "Tags": [
+      "Frumkin, Sylvia.",
+      "Creedmoor Psychiatric Center.",
+      "Schizophrenics -- United States -- Biography."
+    ],
+    "Author": "Susan Sheehan ; foreword by Robert Coles"
+  },
+  {
+    "Id": "0395956188",
+    "Name": "At Freddie's",
+    "Edition": "1st Mariner Books ed.",
+    "Tags": [
+      "Acting teachers -- Fiction",
+      "Child actors -- Fiction",
+      "London (England) -- Fiction"
+    ],
+    "Author": "Penelope Fitzgerald."
+  },
+  {
+    "Id": "0915943514",
+    "Name": "Cracking India",
+    "Edition": null,
+    "Tags": [
+      "India -- History -- 1947- -- Fiction."
+    ],
+    "Author": "Bapsi Sidhwa."
+  },
+  {
+    "Id": "0399138552",
+    "Name": "Crazy in Alabama",
+    "Edition": null,
+    "Tags": [
+      "Women -- California -- Los Angeles -- Fiction.",
+      "Race relations -- Fiction.",
+      "Boys -- Fiction.",
+      "Hollywood (Los Angeles, Calif.) -- Fiction.",
+      "Alabama -- Fiction.",
+      "Alabama -- Fiction."
+    ],
+    "Author": "Mark Childress."
+  },
+  {
+    "Id": "0805024123",
+    "Name": "The little hotel",
+    "Edition": "1st Owl Book ed.",
+    "Tags": null,
+    "Author": "Christina Stead."
+  },
+  {
+    "Id": "9780452257214",
+    "Name": "Hollywood Babylon 2 (Plume)",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0393026868",
+    "Name": "The Freud reader",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Psychoanalysis."
+    ],
+    "Author": "edited by Peter Gay."
+  },
+  {
+    "Id": "0465002897",
+    "Name": "The anatomy of bereavement",
+    "Edition": null,
+    "Tags": [
+      "Bereavement -- Psychological aspects"
+    ],
+    "Author": "Beverley Raphael."
+  },
+  {
+    "Id": "0517693119",
+    "Name": "The more than complete hitchhiker's guide",
+    "Edition": null,
+    "Tags": [
+      "Prefect, Ford (Fictitious character) -- Fiction",
+      "Dent, Arthur (Fictitious character) -- Fiction",
+      "Humorous stories, English",
+      "Science fiction, English"
+    ],
+    "Author": "Douglas Adams."
+  },
+  {
+    "Id": "0393046346",
+    "Name": "The greatest benefit to mankind",
+    "Edition": "1st American ed.",
+    "Tags": [
+      "Medicine -- History",
+      "Social medicine -- History"
+    ],
+    "Author": "Roy Porter."
+  },
+  {
+    "Id": "0452278783",
+    "Name": "No other life",
+    "Edition": null,
+    "Tags": [
+      "Heads of state -- Fiction",
+      "Catholics -- Fiction",
+      "Clergy -- Fiction",
+      "Caribbean Area -- Fiction"
+    ],
+    "Author": "Brian Moore."
+  },
+  {
+    "Id": "0140098682",
+    "Name": "The broom of the system",
+    "Edition": null,
+    "Tags": [
+      "Young women -- Fiction.",
+      "Popular culture -- Fiction.",
+      "Missing persons -- Fiction.",
+      "Grandmothers -- Fiction.",
+      "Cleveland (Ohio) -- Fiction."
+    ],
+    "Author": "David Foster Wallace."
+  },
+  {
+    "Id": "0198662211",
+    "Name": "The Oxford companion to English literature",
+    "Edition": "Rev. ed.",
+    "Tags": [
+      "English literature -- Encyclopedias",
+      "English literature -- Bio-bibliography -- Encyclopedias",
+      "English-speaking countries -- Intellectual life -- Encyclopedias",
+      "English-speaking countries -- In literature -- Encyclopedias"
+    ],
+    "Author": "edited by Margaret Drabble."
+  },
+  {
+    "Id": "0449906248",
+    "Name": "Clover",
+    "Edition": null,
+    "Tags": null,
+    "Author": "by Dori Sanders."
+  },
+  {
+    "Id": "0374202281",
+    "Name": "Man or mango?",
+    "Edition": "1st American ed.",
+    "Tags": [
+      "Women musicians -- Fiction.",
+      "Violoncellists -- Fiction.",
+      "Loneliness -- Fiction.",
+      "England -- Fiction."
+    ],
+    "Author": "by Lucy Ellmann."
+  },
+  {
+    "Id": "1557043744",
+    "Name": "Final cut",
+    "Edition": "Updated ed.",
+    "Tags": [
+      "Heaven's gate (Motion picture)"
+    ],
+    "Author": "Steven Bach."
+  },
+  {
+    "Id": "0394580028",
+    "Name": "Skeleton-in-waiting",
+    "Edition": null,
+    "Tags": null,
+    "Author": "by Peter Dickinson."
+  },
+  {
+    "Id": "0312145934",
+    "Name": "Emma Watson",
+    "Edition": "1st U.S. ed.",
+    "Tags": [
+      "England -- Fiction."
+    ],
+    "Author": "Joan Aiken."
+  },
+  {
+    "Id": "42282437",
+    "Name": "Mrs. Pollifax on safari",
+    "Edition": null,
+    "Tags": [
+      "Pollifax, Emily (Fictitious character) -- Fiction.",
+      "Intelligence service -- United States -- Fiction.",
+      "Women spies -- United States -- Fiction."
+    ],
+    "Author": "Dorothy Gilman."
+  },
+  {
+    "Id": "0679442650",
+    "Name": "Mother nature",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Mother and child",
+      "Motherhood -- Psychological aspects",
+      "Natural selection",
+      "Parental behavior in animals",
+      "Working mothers"
+    ],
+    "Author": "Sarah Blaffer Hrdy."
+  },
+  {
+    "Id": "62002541",
+    "Name": "Drawn from life",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0802115888",
+    "Name": "Please kill me",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Punk rock music -- History and criticism.",
+      "Punk rock musicians -- Interviews.",
+      "Punk culture."
+    ],
+    "Author": "Legs McNeil and Gillian McCain, [editors]."
+  },
+  {
+    "Id": "9780140103281",
+    "Name": "Anagrams",
+    "Edition": null,
+    "Tags": [
+      "Novels, other prose & writers",
+      "Women",
+      "Sale Adult - History - Military / War",
+      "Fiction",
+      "General",
+      "Fiction / General",
+      "Sale Books"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0786862440",
+    "Name": "Childproof",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Parent and child -- Caricatures and cartoons.",
+      "American wit and humor, Pictorial."
+    ],
+    "Author": "Roz Chast."
+  },
+  {
+    "Id": "080505068X",
+    "Name": "Dawn Powell",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Powell, Dawn",
+      "Authors, American -- 20th century -- Biography"
+    ],
+    "Author": "Tim Page."
+  },
+  {
+    "Id": "0449911187",
+    "Name": "Mount Misery",
+    "Edition": "1st. ed.",
+    "Tags": [
+      "Psychiatrists -- Fiction.",
+      "Psychiatric hospitals -- Fiction.",
+      "New England -- Fiction."
+    ],
+    "Author": "Samuel Shem."
+  },
+  {
+    "Id": "9781555834500",
+    "Name": "Aimée & Jaguar",
+    "Edition": null,
+    "Tags": [
+      "Holocaust",
+      "Schragenheim, Felice,",
+      "Germany",
+      "Biography",
+      "Specific Groups - Lesbians",
+      "Social Science",
+      "Biography / Autobiography",
+      "Lesbian Studies",
+      "Gay/Lesbian Nonfiction",
+      "Holocaust, Jewish (1939-1945)",
+      "Historical - General",
+      "Schragenheim, Felice",
+      "Social Science / Lesbian Studies",
+      "Berlin (Germany)",
+      "Wust, Elisabeth",
+      "1922-1944?",
+      "Berlin"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0688133975",
+    "Name": "Pippa passes",
+    "Edition": "1st U.S. ed.",
+    "Tags": [
+      "British -- Italy -- Fiction.",
+      "Ballet dancers -- Fiction.",
+      "Young women -- Fiction.",
+      "Venice (Italy) -- Fiction."
+    ],
+    "Author": "Rumer Godden."
+  },
+  {
+    "Id": "0151808120",
+    "Name": "Send a fax to the Kasbah",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Big business -- Fiction."
+    ],
+    "Author": "by Dorothy Dunnett."
+  },
+  {
+    "Id": "1565122038",
+    "Name": "Lamb in love",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Villages -- Fiction",
+      "Courtship -- Fiction",
+      "Middle-aged persons -- Fiction",
+      "Brain damaged children -- Fiction",
+      "England -- Fiction"
+    ],
+    "Author": "by Carrie Brown."
+  },
+  {
+    "Id": "9780345367563",
+    "Name": "The floating world",
+    "Edition": "1st Ballantine Books ed.",
+    "Tags": [
+      "Japanese Americans",
+      "Fiction",
+      "Protected DAISY",
+      "Accessible book"
+    ],
+    "Author": "cynthia Kadohata"
+  },
+  {
+    "Id": "067145577X",
+    "Name": "Fevre dream",
+    "Edition": null,
+    "Tags": null,
+    "Author": "George R.R. Martin."
+  },
+  {
+    "Id": "0553289063",
+    "Name": "An inconvenient woman",
+    "Edition": null,
+    "Tags": null,
+    "Author": "by Dominick Dunne."
+  },
+  {
+    "Id": "087140611X",
+    "Name": "Cane",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Jean Toomer ; with an introd. by Darwin T. Turner."
+  },
+  {
+    "Id": "0385414668",
+    "Name": "Horses of heaven",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Bactria -- Fiction.",
+      "Afghanistan -- Fiction."
+    ],
+    "Author": "Gillian Bradshaw."
+  },
+  {
+    "Id": "58013296",
+    "Name": "Dream of the red chamber",
+    "Edition": null,
+    "Tags": [
+      "Cao, Xueqin, ca. 1717-1763 -- Fiction.",
+      "Jia, Baoyu (Fictitious character) -- Fiction.",
+      "China -- History -- Qing dynasty, 1644-1912 -- Fiction."
+    ],
+    "Author": "[By] Ts'ao Hsueh-chin. Translated and adapted from the Chinese by Chi-chen Wang. With a preface by Mark Van Doren"
+  },
+  {
+    "Id": "068806454X",
+    "Name": "The dialectic of sex",
+    "Edition": null,
+    "Tags": [
+      "Feminism -- United States.",
+      "Women -- History.",
+      "Women's rights."
+    ],
+    "Author": "Shulamith Firestone."
+  },
+  {
+    "Id": "0836217241",
+    "Name": "The far side gallery 4",
+    "Edition": null,
+    "Tags": [
+      "American wit and humor, Pictorial",
+      "Caricatures and cartoons -- United States -- History",
+      "Comic books, strips, etc"
+    ],
+    "Author": "by Gary Larson."
+  },
+  {
+    "Id": "0671634712",
+    "Name": "My dog Tulip",
+    "Edition": null,
+    "Tags": [
+      "Ackerley, J. R. 1896-1967",
+      "Authors, English -- 20th century -- Biography",
+      "Dog owners -- Great Britain -- Biography",
+      "German shepherd dog -- Anecdotes",
+      "Dogs -- Great Britain -- Anecdotes"
+    ],
+    "Author": "J.R. Ackerley."
+  },
+  {
+    "Id": "039473680X",
+    "Name": "Sour sweet",
+    "Edition": "1st American ed.",
+    "Tags": [
+      "Chinese -- England -- Fiction.",
+      "Drug traffic -- Fiction.",
+      "Restaurateurs -- Fiction.",
+      "Restaurants -- Fiction.",
+      "London (England) -- Fiction."
+    ],
+    "Author": "Timothy Mo."
+  },
+  {
+    "Id": "0940322161",
+    "Name": "Lolly Willowes, or, The loving huntsman",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Sylvia Townsend Warner ; introduction by Alison Lurie."
+  },
+  {
+    "Id": "0395739187",
+    "Name": "The education of Oscar Fairfax",
+    "Edition": null,
+    "Tags": [
+      "Lawyers -- New York (State) -- New York -- Fiction",
+      "New York (N.Y.) -- Fiction"
+    ],
+    "Author": "Louis Auchincloss."
+  },
+  {
+    "Id": "0684125293",
+    "Name": "The  lathe of heaven",
+    "Edition": null,
+    "Tags": [
+      "Dreams -- Fiction"
+    ],
+    "Author": "[by] Ursula K. Le Guin."
+  },
+  {
+    "Id": "0395277876",
+    "Name": "Alice James, a biography",
+    "Edition": null,
+    "Tags": [
+      "James, Alice, 1848-1892",
+      "James family",
+      "United States -- Biography"
+    ],
+    "Author": "Jean Strouse."
+  },
+  {
+    "Id": "0374333858",
+    "Name": "A house like a lotus",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Friendship -- Fiction",
+      "Interpersonal relations -- Fiction"
+    ],
+    "Author": "Madeleine L'Engle."
+  },
+  {
+    "Id": "0761406948",
+    "Name": "Zambia",
+    "Edition": null,
+    "Tags": [
+      "Zambia -- Juvenile literature",
+      "Zambia"
+    ],
+    "Author": "Timothy Holmes."
+  },
+  {
+    "Id": "9780805053517",
+    "Name": "The white boy shuffle",
+    "Edition": null,
+    "Tags": [
+      "Young men -- California -- Los Angeles -- Fiction.",
+      "African American families -- California -- Los Angeles -- Fiction.",
+      "African Americans -- California -- Los Angeles -- Fiction.",
+      "African Americans -- Race identity -- Fiction.",
+      "Los Angeles (Calif.) -- Fiction."
+    ],
+    "Author": "Paul Beatty."
+  },
+  {
+    "Id": "0140071075",
+    "Name": "We have always lived in the castle",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Shirley Jackson."
+  },
+  {
+    "Id": "9780618221363",
+    "Name": "Versailles",
+    "Edition": null,
+    "Tags": [
+      "Fiction",
+      "History",
+      "Château de Versailles (Versailles, France)",
+      "Queens",
+      "Protected DAISY"
+    ],
+    "Author": "Kathryn Davis"
+  },
+  {
+    "Id": "0374280207",
+    "Name": "Two-part invention",
+    "Edition": "1st ed.",
+    "Tags": [
+      "L'Engle, Madeleine -- Marriage",
+      "Franklin, Hugh -- Marriage",
+      "Authors, American -- 20th century -- Biography",
+      "Married people -- United States -- Biography",
+      "Actors -- United States -- Biography"
+    ],
+    "Author": "Madeleine L'Engle."
+  },
+  {
+    "Id": "9780380712090",
+    "Name": "Travels with Alice",
+    "Edition": null,
+    "Tags": [
+      "Voyages and travels",
+      "Dinners and dining",
+      "Protected DAISY"
+    ],
+    "Author": "Calvin Trillin"
+  },
+  {
+    "Id": "9780449217122",
+    "Name": "Thornyhold",
+    "Edition": null,
+    "Tags": [
+      "Witches -- England -- Fiction.",
+      "Herbalists -- England -- Fiction.",
+      "Wiltshire (England) -- Fiction."
+    ],
+    "Author": "Mary Stewart."
+  },
+  {
+    "Id": "0446672351",
+    "Name": "Reservation blues",
+    "Edition": "1st Warner Books ed.",
+    "Tags": [
+      "Indian reservations -- Fiction",
+      "Spokane Indians -- Fiction",
+      "Washington (State) -- Fiction"
+    ],
+    "Author": "Sherman Alexie."
+  },
+  {
+    "Id": "54005973",
+    "Name": "Pictures from an institution",
+    "Edition": "[1st ed.]",
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0670545589",
+    "Name": "The peacock spring",
+    "Edition": null,
+    "Tags": [
+      "British -- India -- Fiction.",
+      "Fathers and daughters -- Fiction."
+    ],
+    "Author": "by Rumer Godden."
+  },
+  {
+    "Id": "1874166072",
+    "Name": "Newton for beginners",
+    "Edition": null,
+    "Tags": [
+      "Newton, Isaac, -- Sir, -- 1642-1727",
+      "Physics"
+    ],
+    "Author": "[William Rankin]."
+  },
+  {
+    "Id": "9780451175533",
+    "Name": "Memory and Desire",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "9780802111661",
+    "Name": "McX",
+    "Edition": "1st American ed.",
+    "Tags": [
+      "Protected DAISY"
+    ],
+    "Author": "Todd McEwen"
+  },
+  {
+    "Id": "9780671521134",
+    "Name": "Mary Reilly",
+    "Edition": null,
+    "Tags": [
+      "Physicians -- England -- London -- Fiction.",
+      "Monsters -- Fiction.",
+      "Supernatural -- Fiction.",
+      "London (England) -- Social conditions -- 19th century -- Fiction."
+    ],
+    "Author": "Valerie Martin."
+  },
+  {
+    "Id": "0395689961",
+    "Name": "The love letter",
+    "Edition": null,
+    "Tags": [
+      "Booksellers and bookselling -- Fiction",
+      "Single women -- Fiction",
+      "Love-letters -- Fiction"
+    ],
+    "Author": "Cathleen Schine."
+  },
+  {
+    "Id": "52013721",
+    "Name": "Little witch.",
+    "Edition": "[1st ed.]",
+    "Tags": [
+      "Witches -- Fiction."
+    ],
+    "Author": "Illustrated by Helen Stone."
+  },
+  {
+    "Id": "2749219",
+    "Name": "Little me",
+    "Edition": null,
+    "Tags": [
+      "Actresses -- Biography -- Fiction."
+    ],
+    "Author": "as told to [i.e., written by] Patrick Dennis ; with photographs by Cris Alexander."
+  },
+  {
+    "Id": "087477201X",
+    "Name": "A life of one's own",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Happiness.",
+      "Success.",
+      "Introspection.",
+      "Thought and thinking.",
+      "Diaries -- Therapeutic use."
+    ],
+    "Author": "Joanna Field."
+  },
+  {
+    "Id": "9780770422998",
+    "Name": "Lady Oracle",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Margaret Atwood."
+  },
+  {
+    "Id": "7668959",
+    "Name": "Katherine",
+    "Edition": null,
+    "Tags": null,
+    "Author": null
+  },
+  {
+    "Id": "0394729226",
+    "Name": "In the Freud archives",
+    "Edition": "1st Vintage Books ed.",
+    "Tags": [
+      "Freud, Sigmund, 1856-1939",
+      "Masson, J. Moussaieff 1941-",
+      "Eissler, K. R. 1908-",
+      "Freud, Anna 1895-",
+      "Psychoanalysis",
+      "Incest victims",
+      "Psychoanalysts -- Biography"
+    ],
+    "Author": "Janet Malcolm."
+  },
+  {
+    "Id": "65010908",
+    "Name": "I lost it at the movies.",
+    "Edition": "[1st ed.]",
+    "Tags": [
+      "Motion pictures",
+      "Film criticism"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0380000830",
+    "Name": "The Guns of Avalon",
+    "Edition": "[1st ed.].",
+    "Tags": null,
+    "Author": "Roger Zelazny"
+  },
+  {
+    "Id": "9780679728856",
+    "Name": "The genius of the system",
+    "Edition": "Pantheon pbk. ed.",
+    "Tags": null,
+    "Author": "Thomas Schatz"
+  },
+  {
+    "Id": "0140025494",
+    "Name": "The Garrick year",
+    "Edition": null,
+    "Tags": null,
+    "Author": "Margaret Drabble."
+  },
+  {
+    "Id": "0374181136",
+    "Name": "Flesh and blood",
+    "Edition": "1st ed.",
+    "Tags": null,
+    "Author": "Michael Cunningham."
+  },
+  {
+    "Id": "0394728564",
+    "Name": "The debut",
+    "Edition": "1st Vintage Books ed.",
+    "Tags": [
+      "Women college teachers -- Fiction",
+      "England -- Fiction"
+    ],
+    "Author": "Anita Brookner."
+  },
+  {
+    "Id": "73007473",
+    "Name": "Charmed circle: Gertrude Stein & company",
+    "Edition": null,
+    "Tags": [
+      "Stein, Gertrude, 1874-1946",
+      "Stein, Gertrude, 1874-1946 -- Friends and associates",
+      "Authors, American -- 20th century -- Biography",
+      "Art -- Collectors and collecting -- France -- Paris -- Biography",
+      "Americans -- France -- Paris -- History -- 20th century",
+      "Paris (France) -- Intellectual life -- 20th century"
+    ],
+    "Author": "[by] James R. Mellow."
+  },
+  {
+    "Id": "039590871X",
+    "Name": "Beginning of spring",
+    "Edition": "1st Mariner Book ed.",
+    "Tags": [
+      "British -- Russia -- Fiction",
+      "Russia -- History -- Nicholas II, 1894-1917 -- Fiction"
+    ],
+    "Author": "Penelope Fitzgerald."
+  },
+  {
+    "Id": "0385419392",
+    "Name": "Beauty",
+    "Edition": "1st ed.",
+    "Tags": null,
+    "Author": "by Sheri S. Tepper."
+  },
+  {
+    "Id": "0394747453",
+    "Name": "As I lay dying",
+    "Edition": "Vintage Books ed.",
+    "Tags": [
+      "Burial -- Fiction",
+      "Death -- Fiction",
+      "Mississippi -- Fiction"
+    ],
+    "Author": "William Faulkner."
+  },
+  {
+    "Id": "0151005044",
+    "Name": "Ascending peculiarity",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Gorey, Edward, 1925- -- Interviews",
+      "Artists -- United States -- Interviews",
+      "Authors -- United States -- Interviews"
+    ],
+    "Author": "selected and edited by Karen Wilkin."
+  },
+  {
+    "Id": "0679745351",
+    "Name": "Among the thugs",
+    "Edition": "1st Vintage Departures ed.",
+    "Tags": [
+      "Soccer fans -- Great Britain",
+      "Hoodlums -- Great Britain",
+      "Soccer -- Social aspects -- Great Britain",
+      "Violence in sports -- Great Britain"
+    ],
+    "Author": "Bill Buford."
+  },
+  {
+    "Id": "0819307300",
+    "Name": "Allumette",
+    "Edition": null,
+    "Tags": [
+      "Fairy tales",
+      "Orphans -- Fiction"
+    ],
+    "Author": null
+  },
+  {
+    "Id": "0385475713",
+    "Name": "Alias Grace",
+    "Edition": "1st ed.",
+    "Tags": [
+      "Marks, Grace, b. 1826 -- Fiction",
+      "Women murderers -- Fiction",
+      "Trials (Murder) -- Fiction",
+      "Murder -- Fiction",
+      "Canada -- Fiction"
+    ],
+    "Author": "Margaret Atwood."
+  },
+  {
+    "Id": "9781569715710",
+    "Name": "Sergio Aragonés the Groo library",
+    "Edition": "1st ed.",
+    "Tags": null,
+    "Author": "writer/artist, Sergio Aragonés ; wordsmith, Mark Evanier ; letterer, Stan Sakai ; colorist, Tom Luth"
+  }
+]

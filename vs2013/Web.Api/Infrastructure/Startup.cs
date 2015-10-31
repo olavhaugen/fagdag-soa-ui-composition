@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using Owin;
 
-namespace Host
+namespace Web.Api.Infrastructure
 {
     public class Startup
     {
@@ -19,7 +19,11 @@ namespace Host
             jsonFormatter.SupportedMediaTypes.Add(new MediaTypeHeaderValue("text/html"));
             jsonFormatter.SerializerSettings.Formatting = Formatting.Indented;
             jsonFormatter.SerializerSettings.ContractResolver = new CamelCasePropertyNamesContractResolver();
-            
+
+
+            appBuilder.Use<ResponseLogger>();
+            appBuilder.Use<RequestLogger>();
+
             appBuilder.UseWebApi(config);
         } 
     }

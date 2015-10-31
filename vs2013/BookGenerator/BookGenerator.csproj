@@ -50,12 +50,16 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Content Include="books.json">
+    <Content Include="books_raw.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Marketing\Marketing.csproj">
+      <Project>{F0576395-9A43-4F84-8715-5E9515A4F2C6}</Project>
+      <Name>Marketing</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Sales\Sales.csproj">
       <Project>{08FE6931-1575-4CC6-9274-26E3B43A7FD4}</Project>
       <Name>Sales</Name>
