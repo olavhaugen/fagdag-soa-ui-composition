@@ -1,13 +1,13 @@
 [
   {
-    "Id": "59012962",
+    "Id": "LCCN-59012962",
     "Name": "Goodness had nothing to do with it",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "9780836212006",
+    "Id": "ISBN-9780836212006",
     "Name": "The far side",
     "Edition": null,
     "Tags": [
@@ -16,7 +16,7 @@
     "Author": "by Gary Larson."
   },
   {
-    "Id": "9780880015233",
+    "Id": "ISBN-9780880015233",
     "Name": "A Nest of Ninnies",
     "Edition": "1st Ecco Ed edition",
     "Tags": [
@@ -38,21 +38,21 @@
     "Author": null
   },
   {
-    "Id": "9780425073124",
+    "Id": "ISBN-9780425073124",
     "Name": "Mistress Masham's Repose",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0395945410",
+    "Id": "ISBN-0395945410",
     "Name": "The walking tour",
     "Edition": null,
     "Tags": null,
     "Author": "Kathryn Davis."
   },
   {
-    "Id": "0345369599",
+    "Id": "ISBN-0345369599",
     "Name": "Betrayals",
     "Edition": "1st American ed.",
     "Tags": [
@@ -63,7 +63,7 @@
     "Author": "Charles Palliser."
   },
   {
-    "Id": "0374182515",
+    "Id": "ISBN-0374182515",
     "Name": "Labrador",
     "Edition": "1st ed.",
     "Tags": [
@@ -75,7 +75,7 @@
     "Author": "Kathryn Davis."
   },
   {
-    "Id": "9780140161137",
+    "Id": "ISBN-9780140161137",
     "Name": "Palladian (Virago Modern Classics)",
     "Edition": null,
     "Tags": [
@@ -85,7 +85,7 @@
     "Author": null
   },
   {
-    "Id": "73021450",
+    "Id": "LCCN-73021450",
     "Name": "An introduction to poetry",
     "Edition": "3d ed.",
     "Tags": [
@@ -94,7 +94,7 @@
     "Author": "[by] X.J. Kennedy"
   },
   {
-    "Id": "0394520718",
+    "Id": "ISBN-0394520718",
     "Name": "Lulu in Hollywood",
     "Edition": "1st ed.",
     "Tags": [
@@ -105,14 +105,14 @@
     "Author": "by Louise Brooks ; introduction by William Shawn."
   },
   {
-    "Id": "476831778",
+    "Id": "OCLC-476831778",
     "Name": "Sometimes a great notion",
     "Edition": null,
     "Tags": null,
     "Author": "Ken Kesey."
   },
   {
-    "Id": "9781888173369",
+    "Id": "ISBN-9781888173369",
     "Name": "The Sin Eater (Common Reader Editions)",
     "Edition": null,
     "Tags": [
@@ -126,7 +126,7 @@
     "Author": null
   },
   {
-    "Id": "0140127739",
+    "Id": "ISBN-0140127739",
     "Name": "Lost in translation",
     "Edition": null,
     "Tags": [
@@ -139,7 +139,7 @@
     "Author": "Eva Hoffman."
   },
   {
-    "Id": "9780140096927",
+    "Id": "ISBN-9780140096927",
     "Name": "The Joke",
     "Edition": null,
     "Tags": [
@@ -151,7 +151,7 @@
     "Author": null
   },
   {
-    "Id": "9780140026634",
+    "Id": "ISBN-9780140026634",
     "Name": "A Short Walk in the Hindu Kush",
     "Edition": null,
     "Tags": [
@@ -163,7 +163,7 @@
     "Author": null
   },
   {
-    "Id": "0449208109",
+    "Id": "ISBN-0449208109",
     "Name": "Things fall apart",
     "Edition": null,
     "Tags": [
@@ -172,7 +172,7 @@
     "Author": "by Chinua Achebe."
   },
   {
-    "Id": "0670880973",
+    "Id": "ISBN-0670880973",
     "Name": "Cordelia Underwood, or, The marvelous beginnings of the Moosepath League",
     "Edition": null,
     "Tags": [
@@ -187,7 +187,7 @@
     "Author": "Van Reid."
   },
   {
-    "Id": "0440010209",
+    "Id": "ISBN-0440010209",
     "Name": "Camilla",
     "Edition": null,
     "Tags": [
@@ -198,35 +198,35 @@
     "Author": "Madeleine L'Engle."
   },
   {
-    "Id": "9780140287431",
+    "Id": "ISBN-9780140287431",
     "Name": "The Haunting (tie-in)",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0140116109",
+    "Id": "ISBN-0140116109",
     "Name": "The swimming-pool library",
     "Edition": null,
     "Tags": null,
     "Author": "Alan Hollinghurst."
   },
   {
-    "Id": "9780330296748",
+    "Id": "ISBN-9780330296748",
     "Name": "Naomi",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "59005842",
+    "Id": "LCCN-59005842",
     "Name": "Secret of the Ron Mor Skerry",
     "Edition": "[1st American ed.]",
     "Tags": null,
     "Author": "written and illustrated by Rosalie K. Fry."
   },
   {
-    "Id": "55017790",
+    "Id": "LCCN-55017790",
     "Name": "How to be topp",
     "Edition": null,
     "Tags": [
@@ -235,7 +235,7 @@
     "Author": "Geoffrey Willans and Ronald Searle."
   },
   {
-    "Id": "0380975068",
+    "Id": "ISBN-0380975068",
     "Name": "The lust lizard of Melancholy Cove",
     "Edition": "1st ed.",
     "Tags": [
@@ -245,7 +245,7 @@
     "Author": "Christopher Moore."
   },
   {
-    "Id": "0934770204",
+    "Id": "ISBN-0934770204",
     "Name": "The house on Mango Street",
     "Edition": null,
     "Tags": [
@@ -256,7 +256,7 @@
     "Author": "by Sandra Cisneros."
   },
   {
-    "Id": "0394713788",
+    "Id": "ISBN-0394713788",
     "Name": "Is there no place on earth for me?",
     "Edition": "1st Vintage Books ed.",
     "Tags": [
@@ -267,7 +267,7 @@
     "Author": "Susan Sheehan ; foreword by Robert Coles"
   },
   {
-    "Id": "0395956188",
+    "Id": "ISBN-0395956188",
     "Name": "At Freddie's",
     "Edition": "1st Mariner Books ed.",
     "Tags": [
@@ -278,7 +278,7 @@
     "Author": "Penelope Fitzgerald."
   },
   {
-    "Id": "0915943514",
+    "Id": "ISBN-0915943514",
     "Name": "Cracking India",
     "Edition": null,
     "Tags": [
@@ -287,7 +287,7 @@
     "Author": "Bapsi Sidhwa."
   },
   {
-    "Id": "0399138552",
+    "Id": "ISBN-0399138552",
     "Name": "Crazy in Alabama",
     "Edition": null,
     "Tags": [
@@ -301,21 +301,21 @@
     "Author": "Mark Childress."
   },
   {
-    "Id": "0805024123",
+    "Id": "ISBN-0805024123",
     "Name": "The little hotel",
     "Edition": "1st Owl Book ed.",
     "Tags": null,
     "Author": "Christina Stead."
   },
   {
-    "Id": "9780452257214",
+    "Id": "ISBN-9780452257214",
     "Name": "Hollywood Babylon 2 (Plume)",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0393026868",
+    "Id": "ISBN-0393026868",
     "Name": "The Freud reader",
     "Edition": "1st ed.",
     "Tags": [
@@ -324,7 +324,7 @@
     "Author": "edited by Peter Gay."
   },
   {
-    "Id": "0465002897",
+    "Id": "ISBN-0465002897",
     "Name": "The anatomy of bereavement",
     "Edition": null,
     "Tags": [
@@ -333,7 +333,7 @@
     "Author": "Beverley Raphael."
   },
   {
-    "Id": "0517693119",
+    "Id": "ISBN-0517693119",
     "Name": "The more than complete hitchhiker's guide",
     "Edition": null,
     "Tags": [
@@ -345,7 +345,7 @@
     "Author": "Douglas Adams."
   },
   {
-    "Id": "0393046346",
+    "Id": "ISBN-0393046346",
     "Name": "The greatest benefit to mankind",
     "Edition": "1st American ed.",
     "Tags": [
@@ -355,7 +355,7 @@
     "Author": "Roy Porter."
   },
   {
-    "Id": "0452278783",
+    "Id": "ISBN-0452278783",
     "Name": "No other life",
     "Edition": null,
     "Tags": [
@@ -367,7 +367,7 @@
     "Author": "Brian Moore."
   },
   {
-    "Id": "0140098682",
+    "Id": "ISBN-0140098682",
     "Name": "The broom of the system",
     "Edition": null,
     "Tags": [
@@ -380,7 +380,7 @@
     "Author": "David Foster Wallace."
   },
   {
-    "Id": "0198662211",
+    "Id": "ISBN-0198662211",
     "Name": "The Oxford companion to English literature",
     "Edition": "Rev. ed.",
     "Tags": [
@@ -392,14 +392,14 @@
     "Author": "edited by Margaret Drabble."
   },
   {
-    "Id": "0449906248",
+    "Id": "ISBN-0449906248",
     "Name": "Clover",
     "Edition": null,
     "Tags": null,
     "Author": "by Dori Sanders."
   },
   {
-    "Id": "0374202281",
+    "Id": "ISBN-0374202281",
     "Name": "Man or mango?",
     "Edition": "1st American ed.",
     "Tags": [
@@ -411,7 +411,7 @@
     "Author": "by Lucy Ellmann."
   },
   {
-    "Id": "1557043744",
+    "Id": "ISBN-1557043744",
     "Name": "Final cut",
     "Edition": "Updated ed.",
     "Tags": [
@@ -420,14 +420,14 @@
     "Author": "Steven Bach."
   },
   {
-    "Id": "0394580028",
+    "Id": "ISBN-0394580028",
     "Name": "Skeleton-in-waiting",
     "Edition": null,
     "Tags": null,
     "Author": "by Peter Dickinson."
   },
   {
-    "Id": "0312145934",
+    "Id": "ISBN-0312145934",
     "Name": "Emma Watson",
     "Edition": "1st U.S. ed.",
     "Tags": [
@@ -436,7 +436,7 @@
     "Author": "Joan Aiken."
   },
   {
-    "Id": "42282437",
+    "Id": "OCLC-42282437",
     "Name": "Mrs. Pollifax on safari",
     "Edition": null,
     "Tags": [
@@ -447,7 +447,7 @@
     "Author": "Dorothy Gilman."
   },
   {
-    "Id": "0679442650",
+    "Id": "ISBN-0679442650",
     "Name": "Mother nature",
     "Edition": "1st ed.",
     "Tags": [
@@ -460,14 +460,14 @@
     "Author": "Sarah Blaffer Hrdy."
   },
   {
-    "Id": "62002541",
+    "Id": "LCCN-62002541",
     "Name": "Drawn from life",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0802115888",
+    "Id": "ISBN-0802115888",
     "Name": "Please kill me",
     "Edition": "1st ed.",
     "Tags": [
@@ -478,7 +478,7 @@
     "Author": "Legs McNeil and Gillian McCain, [editors]."
   },
   {
-    "Id": "9780140103281",
+    "Id": "ISBN-9780140103281",
     "Name": "Anagrams",
     "Edition": null,
     "Tags": [
@@ -493,7 +493,7 @@
     "Author": null
   },
   {
-    "Id": "0786862440",
+    "Id": "ISBN-0786862440",
     "Name": "Childproof",
     "Edition": "1st ed.",
     "Tags": [
@@ -503,7 +503,7 @@
     "Author": "Roz Chast."
   },
   {
-    "Id": "080505068X",
+    "Id": "ISBN-080505068X",
     "Name": "Dawn Powell",
     "Edition": "1st ed.",
     "Tags": [
@@ -513,7 +513,7 @@
     "Author": "Tim Page."
   },
   {
-    "Id": "0449911187",
+    "Id": "ISBN-0449911187",
     "Name": "Mount Misery",
     "Edition": "1st. ed.",
     "Tags": [
@@ -524,7 +524,7 @@
     "Author": "Samuel Shem."
   },
   {
-    "Id": "9781555834500",
+    "Id": "ISBN-9781555834500",
     "Name": "Aimée & Jaguar",
     "Edition": null,
     "Tags": [
@@ -549,7 +549,7 @@
     "Author": null
   },
   {
-    "Id": "0688133975",
+    "Id": "ISBN-0688133975",
     "Name": "Pippa passes",
     "Edition": "1st U.S. ed.",
     "Tags": [
@@ -561,7 +561,7 @@
     "Author": "Rumer Godden."
   },
   {
-    "Id": "0151808120",
+    "Id": "ISBN-0151808120",
     "Name": "Send a fax to the Kasbah",
     "Edition": "1st ed.",
     "Tags": [
@@ -570,7 +570,7 @@
     "Author": "by Dorothy Dunnett."
   },
   {
-    "Id": "1565122038",
+    "Id": "ISBN-1565122038",
     "Name": "Lamb in love",
     "Edition": "1st ed.",
     "Tags": [
@@ -583,7 +583,7 @@
     "Author": "by Carrie Brown."
   },
   {
-    "Id": "9780345367563",
+    "Id": "ISBN-9780345367563",
     "Name": "The floating world",
     "Edition": "1st Ballantine Books ed.",
     "Tags": [
@@ -595,28 +595,28 @@
     "Author": "cynthia Kadohata"
   },
   {
-    "Id": "067145577X",
+    "Id": "ISBN-067145577X",
     "Name": "Fevre dream",
     "Edition": null,
     "Tags": null,
     "Author": "George R.R. Martin."
   },
   {
-    "Id": "0553289063",
+    "Id": "ISBN-0553289063",
     "Name": "An inconvenient woman",
     "Edition": null,
     "Tags": null,
     "Author": "by Dominick Dunne."
   },
   {
-    "Id": "087140611X",
+    "Id": "ISBN-087140611X",
     "Name": "Cane",
     "Edition": null,
     "Tags": null,
     "Author": "Jean Toomer ; with an introd. by Darwin T. Turner."
   },
   {
-    "Id": "0385414668",
+    "Id": "ISBN-0385414668",
     "Name": "Horses of heaven",
     "Edition": "1st ed.",
     "Tags": [
@@ -626,7 +626,7 @@
     "Author": "Gillian Bradshaw."
   },
   {
-    "Id": "58013296",
+    "Id": "LCCN-58013296",
     "Name": "Dream of the red chamber",
     "Edition": null,
     "Tags": [
@@ -637,7 +637,7 @@
     "Author": "[By] Ts'ao Hsueh-chin. Translated and adapted from the Chinese by Chi-chen Wang. With a preface by Mark Van Doren"
   },
   {
-    "Id": "068806454X",
+    "Id": "ISBN-068806454X",
     "Name": "The dialectic of sex",
     "Edition": null,
     "Tags": [
@@ -648,7 +648,7 @@
     "Author": "Shulamith Firestone."
   },
   {
-    "Id": "0836217241",
+    "Id": "ISBN-0836217241",
     "Name": "The far side gallery 4",
     "Edition": null,
     "Tags": [
@@ -659,7 +659,7 @@
     "Author": "by Gary Larson."
   },
   {
-    "Id": "0671634712",
+    "Id": "ISBN-0671634712",
     "Name": "My dog Tulip",
     "Edition": null,
     "Tags": [
@@ -672,7 +672,7 @@
     "Author": "J.R. Ackerley."
   },
   {
-    "Id": "039473680X",
+    "Id": "ISBN-039473680X",
     "Name": "Sour sweet",
     "Edition": "1st American ed.",
     "Tags": [
@@ -685,14 +685,14 @@
     "Author": "Timothy Mo."
   },
   {
-    "Id": "0940322161",
+    "Id": "ISBN-0940322161",
     "Name": "Lolly Willowes, or, The loving huntsman",
     "Edition": null,
     "Tags": null,
     "Author": "Sylvia Townsend Warner ; introduction by Alison Lurie."
   },
   {
-    "Id": "0395739187",
+    "Id": "ISBN-0395739187",
     "Name": "The education of Oscar Fairfax",
     "Edition": null,
     "Tags": [
@@ -702,7 +702,7 @@
     "Author": "Louis Auchincloss."
   },
   {
-    "Id": "0684125293",
+    "Id": "ISBN-0684125293",
     "Name": "The  lathe of heaven",
     "Edition": null,
     "Tags": [
@@ -711,7 +711,7 @@
     "Author": "[by] Ursula K. Le Guin."
   },
   {
-    "Id": "0395277876",
+    "Id": "ISBN-0395277876",
     "Name": "Alice James, a biography",
     "Edition": null,
     "Tags": [
@@ -722,7 +722,7 @@
     "Author": "Jean Strouse."
   },
   {
-    "Id": "0374333858",
+    "Id": "ISBN-0374333858",
     "Name": "A house like a lotus",
     "Edition": "1st ed.",
     "Tags": [
@@ -732,7 +732,7 @@
     "Author": "Madeleine L'Engle."
   },
   {
-    "Id": "0761406948",
+    "Id": "ISBN-0761406948",
     "Name": "Zambia",
     "Edition": null,
     "Tags": [
@@ -742,7 +742,7 @@
     "Author": "Timothy Holmes."
   },
   {
-    "Id": "9780805053517",
+    "Id": "ISBN-9780805053517",
     "Name": "The white boy shuffle",
     "Edition": null,
     "Tags": [
@@ -755,14 +755,14 @@
     "Author": "Paul Beatty."
   },
   {
-    "Id": "0140071075",
+    "Id": "ISBN-0140071075",
     "Name": "We have always lived in the castle",
     "Edition": null,
     "Tags": null,
     "Author": "Shirley Jackson."
   },
   {
-    "Id": "9780618221363",
+    "Id": "ISBN-9780618221363",
     "Name": "Versailles",
     "Edition": null,
     "Tags": [
@@ -775,7 +775,7 @@
     "Author": "Kathryn Davis"
   },
   {
-    "Id": "0374280207",
+    "Id": "ISBN-0374280207",
     "Name": "Two-part invention",
     "Edition": "1st ed.",
     "Tags": [
@@ -788,7 +788,7 @@
     "Author": "Madeleine L'Engle."
   },
   {
-    "Id": "9780380712090",
+    "Id": "ISBN-9780380712090",
     "Name": "Travels with Alice",
     "Edition": null,
     "Tags": [
@@ -799,7 +799,7 @@
     "Author": "Calvin Trillin"
   },
   {
-    "Id": "9780449217122",
+    "Id": "ISBN-9780449217122",
     "Name": "Thornyhold",
     "Edition": null,
     "Tags": [
@@ -810,7 +810,7 @@
     "Author": "Mary Stewart."
   },
   {
-    "Id": "0446672351",
+    "Id": "ISBN-0446672351",
     "Name": "Reservation blues",
     "Edition": "1st Warner Books ed.",
     "Tags": [
@@ -821,14 +821,14 @@
     "Author": "Sherman Alexie."
   },
   {
-    "Id": "54005973",
+    "Id": "LCCN-54005973",
     "Name": "Pictures from an institution",
     "Edition": "[1st ed.]",
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0670545589",
+    "Id": "ISBN-0670545589",
     "Name": "The peacock spring",
     "Edition": null,
     "Tags": [
@@ -838,7 +838,7 @@
     "Author": "by Rumer Godden."
   },
   {
-    "Id": "1874166072",
+    "Id": "ISBN-1874166072",
     "Name": "Newton for beginners",
     "Edition": null,
     "Tags": [
@@ -848,14 +848,14 @@
     "Author": "[William Rankin]."
   },
   {
-    "Id": "9780451175533",
+    "Id": "ISBN-9780451175533",
     "Name": "Memory and Desire",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "9780802111661",
+    "Id": "ISBN-9780802111661",
     "Name": "McX",
     "Edition": "1st American ed.",
     "Tags": [
@@ -864,7 +864,7 @@
     "Author": "Todd McEwen"
   },
   {
-    "Id": "9780671521134",
+    "Id": "ISBN-9780671521134",
     "Name": "Mary Reilly",
     "Edition": null,
     "Tags": [
@@ -876,7 +876,7 @@
     "Author": "Valerie Martin."
   },
   {
-    "Id": "0395689961",
+    "Id": "ISBN-0395689961",
     "Name": "The love letter",
     "Edition": null,
     "Tags": [
@@ -887,7 +887,7 @@
     "Author": "Cathleen Schine."
   },
   {
-    "Id": "52013721",
+    "Id": "LCCN-52013721",
     "Name": "Little witch.",
     "Edition": "[1st ed.]",
     "Tags": [
@@ -896,7 +896,7 @@
     "Author": "Illustrated by Helen Stone."
   },
   {
-    "Id": "2749219",
+    "Id": "OCLC-2749219",
     "Name": "Little me",
     "Edition": null,
     "Tags": [
@@ -905,7 +905,7 @@
     "Author": "as told to [i.e., written by] Patrick Dennis ; with photographs by Cris Alexander."
   },
   {
-    "Id": "087477201X",
+    "Id": "ISBN-087477201X",
     "Name": "A life of one's own",
     "Edition": "1st ed.",
     "Tags": [
@@ -918,21 +918,21 @@
     "Author": "Joanna Field."
   },
   {
-    "Id": "9780770422998",
+    "Id": "ISBN-9780770422998",
     "Name": "Lady Oracle",
     "Edition": null,
     "Tags": null,
     "Author": "Margaret Atwood."
   },
   {
-    "Id": "7668959",
+    "Id": "OCLC-7668959",
     "Name": "Katherine",
     "Edition": null,
     "Tags": null,
     "Author": null
   },
   {
-    "Id": "0394729226",
+    "Id": "ISBN-0394729226",
     "Name": "In the Freud archives",
     "Edition": "1st Vintage Books ed.",
     "Tags": [
@@ -947,7 +947,7 @@
     "Author": "Janet Malcolm."
   },
   {
-    "Id": "65010908",
+    "Id": "LCCN-65010908",
     "Name": "I lost it at the movies.",
     "Edition": "[1st ed.]",
     "Tags": [
@@ -957,35 +957,35 @@
     "Author": null
   },
   {
-    "Id": "0380000830",
+    "Id": "ISBN-0380000830",
     "Name": "The Guns of Avalon",
     "Edition": "[1st ed.].",
     "Tags": null,
     "Author": "Roger Zelazny"
   },
   {
-    "Id": "9780679728856",
+    "Id": "ISBN-9780679728856",
     "Name": "The genius of the system",
     "Edition": "Pantheon pbk. ed.",
     "Tags": null,
     "Author": "Thomas Schatz"
   },
   {
-    "Id": "0140025494",
+    "Id": "ISBN-0140025494",
     "Name": "The Garrick year",
     "Edition": null,
     "Tags": null,
     "Author": "Margaret Drabble."
   },
   {
-    "Id": "0374181136",
+    "Id": "ISBN-0374181136",
     "Name": "Flesh and blood",
     "Edition": "1st ed.",
     "Tags": null,
     "Author": "Michael Cunningham."
   },
   {
-    "Id": "0394728564",
+    "Id": "ISBN-0394728564",
     "Name": "The debut",
     "Edition": "1st Vintage Books ed.",
     "Tags": [
@@ -995,7 +995,7 @@
     "Author": "Anita Brookner."
   },
   {
-    "Id": "73007473",
+    "Id": "LCCN-73007473",
     "Name": "Charmed circle: Gertrude Stein & company",
     "Edition": null,
     "Tags": [
@@ -1009,7 +1009,7 @@
     "Author": "[by] James R. Mellow."
   },
   {
-    "Id": "039590871X",
+    "Id": "ISBN-039590871X",
     "Name": "Beginning of spring",
     "Edition": "1st Mariner Book ed.",
     "Tags": [
@@ -1019,14 +1019,14 @@
     "Author": "Penelope Fitzgerald."
   },
   {
-    "Id": "0385419392",
+    "Id": "ISBN-0385419392",
     "Name": "Beauty",
     "Edition": "1st ed.",
     "Tags": null,
     "Author": "by Sheri S. Tepper."
   },
   {
-    "Id": "0394747453",
+    "Id": "ISBN-0394747453",
     "Name": "As I lay dying",
     "Edition": "Vintage Books ed.",
     "Tags": [
@@ -1037,7 +1037,7 @@
     "Author": "William Faulkner."
   },
   {
-    "Id": "0151005044",
+    "Id": "ISBN-0151005044",
     "Name": "Ascending peculiarity",
     "Edition": "1st ed.",
     "Tags": [
@@ -1048,7 +1048,7 @@
     "Author": "selected and edited by Karen Wilkin."
   },
   {
-    "Id": "0679745351",
+    "Id": "ISBN-0679745351",
     "Name": "Among the thugs",
     "Edition": "1st Vintage Departures ed.",
     "Tags": [
@@ -1060,7 +1060,7 @@
     "Author": "Bill Buford."
   },
   {
-    "Id": "0819307300",
+    "Id": "ISBN-0819307300",
     "Name": "Allumette",
     "Edition": null,
     "Tags": [
@@ -1070,7 +1070,7 @@
     "Author": null
   },
   {
-    "Id": "0385475713",
+    "Id": "ISBN-0385475713",
     "Name": "Alias Grace",
     "Edition": "1st ed.",
     "Tags": [
@@ -1083,7 +1083,7 @@
     "Author": "Margaret Atwood."
   },
   {
-    "Id": "9781569715710",
+    "Id": "ISBN-9781569715710",
     "Name": "Sergio Aragonés the Groo library",
     "Edition": "1st ed.",
     "Tags": null,

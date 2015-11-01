@@ -17,7 +17,7 @@ namespace BookGenerator
                 Name = x.title,
                 Edition = x.edition_name,
                 Tags = Tags(x.subjects),
-                Id = Id(x.isbn_13) ?? Id(x.isbn_10) ?? Id(x.lccn) ?? Id(x.oclc_numbers),
+                Id = Id(x.isbn_13, "ISBN") ?? Id(x.isbn_10, "ISBN") ?? Id(x.lccn, "LCCN") ?? Id(x.oclc_numbers, "OCLC"),
                 Author = x.by_statement
 
             }).Where(x => x.Id != null).ToArray();
@@ -28,9 +28,9 @@ namespace BookGenerator
             return x != null ? x.Select(y => (string)y).ToArray() : null;
         }
 
-        private static string Id(IEnumerable<dynamic> x)
+        private static string Id(IEnumerable<dynamic> x, string prefix)
         {
-            return x != null ? x.FirstOrDefault() : null;
+            return x != null ? string.Format("{0}-{1}", prefix, x.FirstOrDefault()) : null;
         }
     }
 }
