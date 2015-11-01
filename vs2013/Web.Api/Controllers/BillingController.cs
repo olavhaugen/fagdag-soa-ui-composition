@@ -9,11 +9,11 @@ namespace Web.Api.Controllers
         BillingDetailsStore _detailsStore = new BillingDetailsStore();
 
         [Route("orders/{id}"), HttpPost]
-        public BillingDetails PostBillingDetails(string id, string creditCardNumber)
+        public IHttpActionResult PostBillingDetails(string id, string creditCardNumber)
         {
             var d = new BillingDetails { OrderId = id, CreditCardNumber = creditCardNumber};
             _detailsStore.Add(d);
-            return d;
+            return Created("/billing/orders/" + id, d);
         }
     }
 }
