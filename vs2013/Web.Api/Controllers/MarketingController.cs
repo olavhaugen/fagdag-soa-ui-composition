@@ -16,6 +16,8 @@ namespace Web.Api.Controllers
         [Route("imageurls/{id}")]
         public Dictionary<string, string> GetImageUrls(string id)
         {
+            // https://openlibrary.org/dev/docs/api/covers
+
             var parts = id.Split('-');
 
             var url = string.Format("http://covers.openlibrary.org/b/{0}/{1}-{{0}}.jpg", parts[0], parts[1]);
