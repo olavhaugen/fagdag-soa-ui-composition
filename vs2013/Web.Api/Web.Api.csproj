@@ -68,6 +68,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\BillingController.cs" />
     <Compile Include="Controllers\ShippingController.cs" />
     <Compile Include="Controllers\MarketingController.cs" />
     <Compile Include="Controllers\WarehouseController.cs" />
@@ -83,6 +84,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Billing\Billing.csproj">
+      <Project>{ECFA45AF-B9A7-4ACF-8D66-32A4A3BA0F4D}</Project>
+      <Name>Billing</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Marketing\Marketing.csproj">
       <Project>{F0576395-9A43-4F84-8715-5E9515A4F2C6}</Project>
       <Name>Marketing</Name>
