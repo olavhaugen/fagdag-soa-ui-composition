@@ -23,11 +23,11 @@ Generated with [www.websequencediagrams.com]( https://www.websequencediagrams.co
 ### Sales
 
     GET /sales/books
-    GET /sales/book/{id}
+    GET /sales/books/{id}
 
 ### Marketing
 
-    GET /marketing/bookprice/{id}
+    GET /marketing/bookprices/{id}
 
 ### Billing
 
