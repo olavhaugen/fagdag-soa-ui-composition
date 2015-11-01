@@ -2,7 +2,7 @@
 using System.Web.Http;
 using Sales;
 
-namespace Web.Api.SelfHost.Controllers
+namespace Web.Api.Controllers
 {
     [RoutePrefix("sales")]
     public class SalesController : ApiController

@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.Owin.Hosting;
-using Web.Api.SelfHost.Infrastructure;
+using Web.Api.Infrastructure;
 
 namespace Web.Api.SelfHost
 {

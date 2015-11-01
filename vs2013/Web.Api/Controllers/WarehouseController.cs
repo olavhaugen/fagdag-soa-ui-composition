@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using Warehouse;
 
-namespace Web.Api.SelfHost.Controllers
+namespace Web.Api.Controllers
 {
     [RoutePrefix("warehouse")]
     public class WarehouseController : ApiController

@@ -1,7 +1,7 @@
 ﻿using System.Web.Http;
 using Shipping;
 
-namespace Web.Api.SelfHost.Controllers
+namespace Web.Api.Controllers
 {
     [RoutePrefix("shipping")]
     public class ShippingController : ApiController

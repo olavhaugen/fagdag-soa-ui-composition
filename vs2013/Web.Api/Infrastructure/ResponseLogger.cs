@@ -5,7 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Owin;
 
-namespace Web.Api.SelfHost.Infrastructure
+namespace Web.Api.Infrastructure
 {
     public class ResponseLogger : OwinMiddleware
     {

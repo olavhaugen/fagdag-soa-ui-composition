@@ -4,7 +4,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using Owin;
 
-namespace Web.Api.SelfHost.Infrastructure
+namespace Web.Api.Infrastructure
 {
     public class Startup
     {
