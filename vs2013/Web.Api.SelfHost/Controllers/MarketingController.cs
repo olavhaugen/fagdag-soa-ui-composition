@@ -2,7 +2,7 @@
 using System.Web.Http;
 using Marketing;
 
-namespace Web.Api.Controllers
+namespace Web.Api.SelfHost.Controllers
 {
     [RoutePrefix("marketing")]
     public class MarketingController : ApiController

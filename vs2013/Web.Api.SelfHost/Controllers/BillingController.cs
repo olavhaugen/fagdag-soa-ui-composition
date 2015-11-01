@@ -2,7 +2,7 @@
 using System.Web.Http;
 using Billing;
 
-namespace Web.Api.Controllers
+namespace Web.Api.SelfHost.Controllers
 {
     [RoutePrefix("billing")]
     public class BillingController : ApiController

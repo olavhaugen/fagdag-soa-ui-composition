@@ -1,8 +1,8 @@
 ﻿using System;
 using Microsoft.Owin.Hosting;
-using Web.Api.Infrastructure;
+using Web.Api.SelfHost.Infrastructure;
 
-namespace Web.Api
+namespace Web.Api.SelfHost
 {
     class Program
     {

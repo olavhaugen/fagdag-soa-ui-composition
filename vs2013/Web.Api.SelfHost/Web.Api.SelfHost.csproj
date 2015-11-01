@@ -7,8 +7,8 @@
     <ProjectGuid>{7031D1A1-BD93-4FB7-9090-25742F1D7132}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Web.Api</RootNamespace>
-    <AssemblyName>Web.Api</AssemblyName>
+    <RootNamespace>Web.Api.SelfHost</RootNamespace>
+    <AssemblyName>Web.Api.SelfHost</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

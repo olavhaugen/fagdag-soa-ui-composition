@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shipping", "Shipping\Shippi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Billing", "Billing\Billing.csproj", "{ECFA45AF-B9A7-4ACF-8D66-32A4A3BA0F4D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api", "Web.Api\Web.Api.csproj", "{7031D1A1-BD93-4FB7-9090-25742F1D7132}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.Api.SelfHost", "Web.Api.SelfHost\Web.Api.SelfHost.csproj", "{7031D1A1-BD93-4FB7-9090-25742F1D7132}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookGenerator", "BookGenerator\BookGenerator.csproj", "{FF6F34F8-0892-4945-9107-29CC6912F30A}"
 EndProject

@@ -3,7 +3,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using Microsoft.Owin;
 
-namespace Web.Api.Infrastructure
+namespace Web.Api.SelfHost.Infrastructure
 {
     public class RequestLogger : OwinMiddleware
     {
