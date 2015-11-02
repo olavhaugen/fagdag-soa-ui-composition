@@ -1,0 +1,16 @@
+sales:
+  build: sales
+  ports:
+    - "3000:3000"
+marketing:
+  build: marketing
+  ports:
+    - "3001:3001"
+billing:
+  build: billing
+  ports:
+    - "3002:3002"
+shipping:
+  build: shipping
+  ports:
+    - "3003:3003"
