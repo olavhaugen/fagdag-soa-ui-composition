@@ -1,38 +1,8 @@
-![Sequence diagram](http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQnV5IHNpbmdsZSBib29rCgpDbGllbnQtPlNhbGVzOgAbBWJvb2sgKAABBWlkLCBvcmRlciBpZCkKCgAgBS0-U2hpcHBpbmc6IEJvb2sgc29sZCAoAB0KAB8HQmlsbAAEIVdhcmVob3VzZQA1FwCBFgoAawlTaGlwIHRvIChhZGRyZXNzAIEVDQCBRwkAdQlQYXkgYnkgKGNhcmQgZGV0YWlsACYNAIEgBwCBSgxQYXltZW50IHJlY2VpdmUAgQMObm90ZSByaWdodCBvZgCBCAUAgQwLaXQhCgoAghcIAIFRDU8AgkEFc2hpcHAAQw4&s=napkin)
-```sequence
-title Buy single book
+# SOA GUI Composition
 
-Client->Sales: Buy book (book id, order id)
-Sales->Shipping: Book sold (order id)
-Sales->Billing: Book sold (order id)
-Sales->Warehouse: Book sold (order id)
+_Fagdag i Webstep Fokus 6. november 2015_
 
-Client->Shipping: Ship to (address, order id)
+API-dokumentasjon, oppgaver og info finner dere på <http://olavhaugen.github.io/fagdag-soa-ui-composition/>
 
-Client->Billing: Pay by (card details, order id)
-Billing->Shipping: Payment received (order id)
-
-note right of Shipping: Ship it!
-Shipping->Warehouse: Order shipped (order id)
-```
-Generated with [www.websequencediagrams.com]( https://www.websequencediagrams.com/)
-
-
-## API
-
-### Sales
-
-    GET /sales/books
-    GET /sales/books/{id}
-
-### Marketing
-
-    GET /marketing/bookprices/{id}
-
-### Billing
-
-    POST /billing/orders/{id}?creditCardNumber=....
-
-### Shipping
-
-    POST /shipping/orders/{id}?address=....
+Git-repoet innholder kode for API og relevant informasjon for å løse oppgavene for dagen. 
+Vi ønsker at dere [gjør en Fork](https://help.github.com/articles/fork-a-repo/) av repoet slik at vi kan følge med på de forskjellige løsningene.
