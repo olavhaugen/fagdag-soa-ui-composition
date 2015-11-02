@@ -2,7 +2,12 @@
 
 _Fagdag i Webstep Fokus 6. november 2015_
 
-Dette Git-repository innholder kode for API for å komme i gang med oppgavene om å lage et komposisjonsbasert GUI.
+Dette Git-repoet innholder kode for API og relevant informasjon for å løse oppgavene for dagen. 
+Vi ønsker at dere [gjør en Fork](https://help.github.com/articles/fork-a-repo/) av repoet slik at vi kan følge med på de forskjellige løsningene.
+
+## Nyttig informasjon
+
+[Udi Dahan sin bortforklaring](http://udidahan.com/2012/06/23/ui-composition-techniques-for-correct-service-boundaries/)
 
 ## Oppgaver
 
