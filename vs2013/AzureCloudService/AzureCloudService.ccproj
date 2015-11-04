@@ -43,7 +43,7 @@
       <Private>True</Private>
       <RoleType>Worker</RoleType>
       <RoleName>Web.Api.AzureHost</RoleName>
-      <UpdateDiagnosticsConnectionStringOnPublish>True</UpdateDiagnosticsConnectionStringOnPublish>
+      <UpdateDiagnosticsConnectionStringOnPublish>False</UpdateDiagnosticsConnectionStringOnPublish>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

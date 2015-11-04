@@ -3,7 +3,6 @@
   <Role name="Web.Api.AzureHost">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="DefaultEndpointsProtocol=https;AccountName=webstepfagfredag;AccountKey=bNTeBsBI/4N5hr97/+AUUf0L6dwvsQNkwrdKm/DI8CIaQqbecF5eQvZKOq6hkdc8x0eH2IkwZXDUP/ZECa695A==" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>

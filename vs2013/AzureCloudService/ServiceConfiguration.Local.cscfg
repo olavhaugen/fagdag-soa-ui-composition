@@ -3,7 +3,6 @@
   <Role name="Web.Api.AzureHost">
     <Instances count="1" />
     <ConfigurationSettings>
-      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
