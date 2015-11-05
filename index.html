@@ -25,6 +25,7 @@
 <ul>
 <li><a href="#nyttig-informasjon">Nyttig informasjon</a></li>
 <li><a href="#oppgaver">Oppgaver</a></li>
+<li><a href="#sp%C3%B8rsm%C3%A5l">Spørsmål</a></li>
 <li><a href="#api">API</a></li>
 <li><a href="#tjenester">Tjenester</a></li>
 </ul>
@@ -50,6 +51,79 @@
 <p><img src="http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgQnV5IHNpbmdsZSBib29rCgpDbGllbnQtPlNhbGVzOgAbBWJvb2sgKAABBWlkLCBvcmRlciBpZCkKAB8FLT5TaGlwcGluZzogQm9vayBzb2xkICgAFRFCaWxsAAQhV2FyZWhvdXNlADUXAIEVCgBrCVNoaXAgdG8gKGFkZHJlc3MAgRUMAIFFCQB0CVBheSBieSAoY2FyZCBkZXRhaWwAJQ0AgR8HAIFJDFBheW1lbnQgcmVjZWl2ZQCBAg5ub3RlIHJpZ2h0IG9mAIEHBQCBCwtpdCEKAIIVCACBTw1PAII-BXNoaXBwAEMN&amp;s=roundgreen" alt="Sequence diagram"></p>
 
 
+
+<h2>
+<a id="spørsmål" class="anchor" href="#sp%C3%B8rsm%C3%A5l" aria-hidden="true"><span class="octicon octicon-link"></span></a>Spørsmål</h2>
+
+<h3>
+<a id="hvem-eier-applikasjonen" class="anchor" href="#hvem-eier-applikasjonen" aria-hidden="true"><span class="octicon octicon-link"></span></a>Hvem eier applikasjonen?</h3>
+
+<ul>
+<li>Klassisk svar er <em>Branding Service</em> eller lignende
+
+<ul>
+<li>Finnes det andre løsninger?</li>
+</ul>
+</li>
+<li>Hvordan vet den om tjenestemodulene, og hvordan får den tak i disse?
+
+<ul>
+<li>Bundles ved bygg</li>
+<li>Bundles ved deploy</li>
+<li>Hentes fra forskjellige endepunkter i runtime</li>
+</ul>
+</li>
+</ul>
+
+<h3>
+<a id="orkestreringruting" class="anchor" href="#orkestreringruting" aria-hidden="true"><span class="octicon octicon-link"></span></a>Orkestrering/ruting</h3>
+
+<ul>
+<li>Ligger all orkestrering i applikasjonen?</li>
+<li>Hva om en userstory/forretningsprosses involverer flere tjenestemoduler?</li>
+</ul>
+
+<h3>
+<a id="arbeidsflyt-utvikling" class="anchor" href="#arbeidsflyt-utvikling" aria-hidden="true"><span class="octicon octicon-link"></span></a>Arbeidsflyt (utvikling)</h3>
+
+<ul>
+<li>Høna eller egget?
+
+<ul>
+<li>Hvoran kan vi utvikle applikasjonen uavhengig av tjenestemodulene?</li>
+<li>Hvordan kan vi utvikle tjenestemodulene uavhengig av applikasjonen?</li>
+</ul>
+</li>
+<li>Hvordan løser vi versjonering?
+
+<ul>
+<li>Pakker med avhengigheter</li>
+<li>Git submodules</li>
+</ul>
+</li>
+<li>Hvordan kan vi smidig jobbe på tvers av tjenestemodulene og applikasjonen</li>
+</ul>
+
+<h3>
+<a id="css" class="anchor" href="#css" aria-hidden="true"><span class="octicon octicon-link"></span></a>CSS</h3>
+
+<ul>
+<li>Hvordan sørger vi for at css ikke lekker fra en tjenestemodul over til applikasjonen eller andre moduler?</li>
+<li>Hvordan kan applikasjonen påvirke hvordan tjenestemodulene vises (feks. hvor mye plass de skal ta)</li>
+</ul>
+
+<h3>
+<a id="søk-på-tvers-av-tjenester" class="anchor" href="#s%C3%B8k-p%C3%A5-tvers-av-tjenester" aria-hidden="true"><span class="octicon octicon-link"></span></a>Søk på tvers av tjenester</h3>
+
+<ul>
+<li>Kan vi løse det med GUI composition?
+
+<ul>
+<li>Er det noen forkjell på å gjøre søk kontra andre API kall?</li>
+<li>Kan klienten sy sammen resultatene fra de individuelle tjenestene?</li>
+</ul>
+</li>
+</ul>
 
 <h2>
 <a id="api" class="anchor" href="#api" aria-hidden="true"><span class="octicon octicon-link"></span></a>API</h2>
