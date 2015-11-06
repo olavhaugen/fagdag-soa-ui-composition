@@ -24,7 +24,8 @@ namespace Web.Api.Infrastructure
                 var responseStream = context.Response.Body;
 
                 context.Response.Body = buffer;
-
+                context.Response.Headers.Add("Access-Control-Allow-Origin", new []{ "*"});
+                context.Response.Headers.Add("Access-Control-Allow-Methods", new []{ "POST, GET, PUT, DELETE, OPTIONS"});
                 await _next.Invoke(context);
 
                 Console.WriteLine("[{0}] {1} {2}", Thread.CurrentThread.ManagedThreadId, context.Response.StatusCode, (HttpStatusCode)context.Response.StatusCode);
